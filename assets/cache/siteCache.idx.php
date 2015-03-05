@@ -146,8 +146,8 @@ $m[] = array('0' => '5');
 $d['uslugi-i-tseny'] = 6;
 $a[6] = array('id' => 6, 'alias' => 'uslugi-i-tseny', 'path' => '', 'parent' => 0, 'isfolder' => 0);
 $m[] = array('0' => '6');
-$d['tekhnologii-ochistk'] = 7;
-$a[7] = array('id' => 7, 'alias' => 'tekhnologii-ochistk', 'path' => '', 'parent' => 0, 'isfolder' => 0);
+$d['tekhnologii-ochistki'] = 7;
+$a[7] = array('id' => 7, 'alias' => 'tekhnologii-ochistki', 'path' => '', 'parent' => 0, 'isfolder' => 0);
 $m[] = array('0' => '7');
 $d['o-nas'] = 8;
 $a[8] = array('id' => 8, 'alias' => 'o-nas', 'path' => '', 'parent' => 0, 'isfolder' => 0);
@@ -158,6 +158,12 @@ $m[] = array('0' => '23');
 $d['sitemap.xml'] = 22;
 $a[22] = array('id' => 22, 'alias' => 'sitemap.xml', 'path' => '', 'parent' => 0, 'isfolder' => 0);
 $m[] = array('0' => '22');
+$d['w'] = 31;
+$a[31] = array('id' => 31, 'alias' => 'w', 'path' => '', 'parent' => 0, 'isfolder' => 0);
+$m[] = array('0' => '31');
+$d['kak-zakazat1'] = 33;
+$a[33] = array('id' => 33, 'alias' => 'kak-zakazat1', 'path' => '', 'parent' => 0, 'isfolder' => 0);
+$m[] = array('0' => '33');
 $d['index/2'] = 2;
 $a[2] = array('id' => 2, 'alias' => '2', 'path' => 'index', 'parent' => 1, 'isfolder' => 0);
 $m[] = array('1' => '2');
@@ -182,8 +188,8 @@ $m[] = array('5' => '12');
 $d['voda-h2o-stati/55-polza-kotoruyu-poluchit-vash-organizm-ot-upotrebleniya-ochishchennoj-vody'] = 13;
 $a[13] = array('id' => 13, 'alias' => '55-polza-kotoruyu-poluchit-vash-organizm-ot-upotrebleniya-ochishchennoj-vody', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '13');
-$d['voda-h2o-stati/dokazano-chto-butilirovannaya-voda-khorosha-dlya-aktivnogo-pokhudeniya'] = 14;
-$a[14] = array('id' => 14, 'alias' => 'dokazano-chto-butilirovannaya-voda-khorosha-dlya-aktivnogo-pokhudeniya', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/voda-ne-tolko-dlya-zdorovya-a-voda-dlya-poxudeniya'] = 14;
+$a[14] = array('id' => 14, 'alias' => 'voda-ne-tolko-dlya-zdorovya-a-voda-dlya-poxudeniya', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '14');
 $d['voda-h2o-stati/49-ochistka-vody-protsess-umyagcheniya-vody'] = 15;
 $a[15] = array('id' => 15, 'alias' => '49-ochistka-vody-protsess-umyagcheniya-vody', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
@@ -227,6 +233,9 @@ $m[] = array('5' => '29');
 $d['voda-h2o-stati/2-kakie-vidy-pitevykh-vod-sushchestvuyut-na-planete-i-kakie-iz-nikh-mozhno-pit'] = 30;
 $a[30] = array('id' => 30, 'alias' => '2-kakie-vidy-pitevykh-vod-sushchestvuyut-na-planete-i-kakie-iz-nikh-mozhno-pit', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '30');
+$d['voda-h2o-stati/filtryi-dlya-vodyi'] = 35;
+$a[35] = array('id' => 35, 'alias' => 'filtryi-dlya-vodyi', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '35');
 $c = &$this->contentTypes;
 $c[22] = 'text/xml';
 $c = &$this->chunkCache;
@@ -284,7 +293,7 @@ $c['footer'] = '<div id="footer">
 			<div id="footer_center">
 				<span style="color: #222222; font-family: \'Helvetica Neue\', HelveticaNeue, Helvetica, sans-serif; font-size: 13px; line-height: 18.1875px;">Автор публикации:&nbsp;</span>
 <a href="https://plus.google.com/u/0/109756665889043002454?rel.." target="blank"><span style="color:#d3d3d3;">Екатерина Холод</a>
-<div id="footer_position">2013 Crystalwater - доставка питевой воды.
+<div id="footer_position">2014 Crystalwater - доставка питьевой воды.
 		<span>Все права данного сайта защищены!</span>	
 					</div>
 							</div>';
@@ -297,7 +306,7 @@ $c['header'] = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "
 <meta name="description" content="[*desc*]" />
 <base href="[(site_url)]"/>					
 <link rel="stylesheet" href="css/style.css" type="text/css">
-<script type="text/javascript" src="js/jquery-1.js"></script>
+
 		</head>';
 $c['mm_rules'] = '// more example rules are in assets/plugins/managermanager/example_mm_rules.inc.php
 
@@ -332,7 +341,7 @@ $c['contact'] = '<div id="Contacts">
 <p><img src="images/tell.gif" alt="(063) 788-68-80" width="17" height="20"></span> (063) 788-68-80 Life  </p> 
   </div></div>';
 $c['Duplicate of contact'] = '<div id="Contacts">
-  <h3>Контакты</h3>
+  <div class="cont_i">Контакты</div>
   <span style="font-size: 12pt;">
   <span style="color: #222222; font-family: arial,helvetica,sans-serif;">
   <span style="color: #222222;">
@@ -349,14 +358,15 @@ $c['Duplicate of contact'] = '<div id="Contacts">
   <img src="images/tell.gif" alt="(063) 788-68-80" width="17" height="20"></span> (063) 788-68-80 Life<br></span>
   <span style="color: #222222; font-family: arial,helvetica,sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Звоните!</span>
   <span style="color: #222222; font-family: arial,helvetica,sans-serif;">&nbsp;
-  <span style="color: #222222;"></span></span></span></a></span>	
-</div>';
+  <span style="color: #222222;"></span></span></span>';
 $c['right_block'] = '<div id="sidebar">
 													<div id="sidebar_position1">
-														<div class="zak">Как заказать</div>
-				Чтобы заказать воду и аксессуары вы можете связаться с нами по телефону указанному выше.	
+														<div class="zak">[[DocInfo? &docid=`33` &field=`pagetitle`]]</div>
+																	[[DocInfo? &docid=`33` &field=`introtext`]]
 					</div>
-											</div>';
+											</div>
+
+';
 $c['menu'] = '<div id="menu_site">						
     <ul class="joomla-nav">
 <li id="current" class="selected item101">
@@ -416,6 +426,7 @@ $s['phpthumb'] = 'return require MODX_BASE_PATH.\'assets/snippets/phpthumb/snipp
 $s['UltimateParent'] = 'return require MODX_BASE_PATH.\'assets/snippets/ultimateparent/snippet.ultimateparent.php\';';
 $s['Wayfinder'] = 'return require MODX_BASE_PATH.\'assets/snippets/wayfinder/snippet.wayfinder.php\';';
 $s['sitemap'] = 'return require MODX_BASE_PATH.\'assets/snippets/sitemap/snippet.sitemap.php\';';
+$s['CacheAccelerator'] = 'return require MODX_BASE_PATH.\'assets/plugins/cacheaccelerator/snippet.ca.php\';';
 $p = &$this->pluginCache;
 $p['CodeMirror'] = '$_CM_BASE = \'assets/plugins/codemirror/\';
 
@@ -438,14 +449,121 @@ $p['TinyMCE Rich Text Editor'] = 'require MODX_BASE_PATH.\'assets/plugins/tinymc
 $p['TinyMCE Rich Text EditorProps'] = '&customparams=Custom Parameters;textarea;valid_elements : "*[*]", &mce_formats=Block Formats;text;p,h1,h2,h3,h4,h5,h6,div,blockquote,code,pre &entity_encoding=Entity Encoding;list;named,numeric,raw;named &entities=Entities;text; &mce_path_options=Path Options;list;Site config,Absolute path,Root relative,URL,No convert;Site config &mce_resizing=Advanced Resizing;list;true,false;true &disabledButtons=Disabled Buttons;text; &link_list=Link List;list;enabled,disabled;enabled &webtheme=Web Theme;list;simple,editor,creative,custom;simple &webPlugins=Web Plugins;text;style,advimage,advlink,searchreplace,contextmenu,paste,fullscreen,xhtmlxtras,media &webButtons1=Web Buttons 1;text;undo,redo,selectall,|,pastetext,pasteword,|,search,replace,|,hr,charmap,|,image,link,unlink,anchor,media,|,cleanup,removeformat,|,fullscreen,code,help &webButtons2=Web Buttons 2;text;bold,italic,underline,strikethrough,sub,sup,|,|,blockquote,bullist,numlist,outdent,indent,|,justifyleft,justifycenter,justifyright,justifyfull,|,styleselect,formatselect,|,styleprops &webButtons3=Web Buttons 3;text; &webButtons4=Web Buttons 4;text; &webAlign=Web Toolbar Alignment;list;ltr,rtl;ltr &width=Width;text;95% &height=Height;text;500 ';
 $p['TransAlias'] = 'require MODX_BASE_PATH.\'assets/plugins/transalias/plugin.transalias.php\';';
 $p['TransAliasProps'] = '&table_name=Trans table;list;common,russian,utf8,utf8lowercase;russian &char_restrict=Restrict alias to;list;lowercase alphanumeric,alphanumeric,legal characters;lowercase alphanumeric &remove_periods=Remove Periods;list;Yes,No;No &word_separator=Word Separator;list;dash,underscore,none;dash &override_tv=Override TV name;string; ';
+$p['CacheAccelerator'] = 'if(!function_exists(\'processInjection\')){
+    function processInjection($str, $autoCacheSnippets, $autoCacheExcludeSnippets, $dropCacheFields, $showSnippets){
+        $pos = 0;
+        while($pos = strpos($str, \'[!\', $pos)){
+            if($pos1 = strpos($str, \'!]\', $pos)){
+                $pos3 = $pos1;
+                $pos2 = strpos($str, \'?\', $pos);
+                if($pos2 && $pos1 > $pos2){
+                    $pos1 = $pos2;
+                    $offs = 1;
+                } else
+                    $offs = 0;
+                $pos+=2;
+                $snippetToCache = trim(substr($str, $pos, $pos1 - $pos));
+                $symb = strtolower($snippetToCache[0]);
+                if($symb >= \'a\' && $symb <= \'z\' && strtolower($snippetToCache) != \'cacheaccelerator\'){
+                    if(!is_null($autoCacheSnippets)){
+                        if(!in_array($snippetToCache, $autoCacheSnippets)){
+                            continue;
+                        }
+                    }
+                    if(!is_null($autoCacheExcludeSnippets)){
+                        if(in_array($snippetToCache, $autoCacheExcludeSnippets)){
+                            continue;
+                        }
+                    }
+                    $dcfStr = ($dropCacheFields != \'\') ? \' &dropCacheField=`\'.str_replace(\',\', \';\', $dropCacheFields).\'`\' : \'\';
+                    $logMessages = ($showSnippets != \'no\') ? \' &logMessages=`1`\' : \'\';
+                    if($showSnippets == \'short\')
+                        echo(\'CacheAccelerator Caching: \'.$snippetToCache.\'<br />\');
+                    if($showSnippets == \'full\')
+                        echo(\'CacheAccelerator Caching: \'.$snippetToCache.\', Call: [!CacheAccelerator? &snippetToCache=`\'.$snippetToCache.\'`\'.$logMessages.\' &cacheId=`\'.md5(substr($str, $pos, $pos3 - $pos)).\'`\'.$dcfStr.substr($str, $pos1, $pos3 - $pos1).\'!]<br /><br />\');
+
+                    $str = substr($str, 0, $pos).\'CacheAccelerator? &snippetToCache=`\'.$snippetToCache.\'`\'.$logMessages.\' &cacheId=`\'.md5(substr($str, $pos, $pos3 - $pos)).\'`\'.$dcfStr.substr($str, $pos1 + $offs);
+                }
+            }
+        }
+        return $str;
+    }
+}
+
+$only_manual = isset($only_manual) ? $only_manual : \'no\';
+$e = &$modx->Event;
+
+if($e->name == \'OnWebPagePrerender\'){
+    if($showSystemData == \'yes\'){
+//        if($modx->checkSession()){
+
+            $out = "<div style=\'clear:both\'>&nbsp;</div>MySQL: [^qt^], [^q^] request(s), PHP: [^p^], total: [^t^], Memory: [^m^], document retrieved from [^s^]. ";
+            $totalTime= ($modx->getMicroTime() - $modx->tstart);
+            $queryTime= $modx->queryTime;
+            $phpTime= $totalTime - $queryTime;
+
+            $queryTime= sprintf("%2.4f s", $queryTime);
+            $totalTime= sprintf("%2.4f s", $totalTime);
+            $phpTime= sprintf("%2.4f s", $phpTime);
+            $phpMemory = (memory_get_peak_usage(true) / 1024 / 1024) . " MB";
+            $source= $modx->documentGenerated == 1 ? "database" : "cache";
+            $queries= isset ($modx->executedQueries) ? $modx->executedQueries : 0;
+            $out= str_replace("[^m^]", $phpMemory, $out);
+            $out= str_replace("[^q^]", $queries, $out);
+            $out= str_replace("[^qt^]", $queryTime, $out);
+            $out= str_replace("[^p^]", $phpTime, $out);
+            $out= str_replace("[^t^]", $totalTime, $out);
+            $out= str_replace("[^s^]", $source, $out);
+            $this->documentOutput .= $out;
+//        }
+    }
+    return;
+}
+
+if($autoCache == \'enabled\' && $e->name == \'OnLoadWebDocument\'){
+    if($autoCacheSnippets != \'\' && $autoCacheSnippets != \'all\'){
+        $autoCacheSnippets = trim(preg_replace(\'|\\\\s*(?:\'.preg_quote(\',\').\')\\\\s*|\', \',\', $autoCacheSnippets));
+        $autoCacheSnippets = explode(",", $autoCacheSnippets);
+    } else
+        $autoCacheSnippets = null;
+    if($autoCacheExcludeSnippets != \'\'){
+        $autoCacheExcludeSnippets = trim(preg_replace(\'|\\\\s*(?:\'.preg_quote(\',\').\')\\\\s*|\', \',\', $autoCacheExcludeSnippets));
+        $autoCacheExcludeSnippets = explode(",", $autoCacheExcludeSnippets);
+    } else
+        $autoCacheExcludeSnippets = null;
+    foreach($modx->chunkCache as $key => $chunk)
+        $modx->chunkCache[$key] = processInjection($chunk, $autoCacheSnippets, $autoCacheExcludeSnippets, $dropCacheFields, $showSnippets);
+    $modx->documentContent = processInjection($modx->documentContent, $autoCacheSnippets, $autoCacheExcludeSnippets, $dropCacheFields, $showSnippets);
+    $modx->documentObject[\'content\'] = processInjection($modx->documentObject[\'content\'], $autoCacheSnippets, $autoCacheExcludeSnippets, $dropCacheFields, $showSnippets);
+    return;
+}
+
+if (($e->name == \'OnCacheUpdate\' && $only_manual==\'no\') || ($e->name == \'OnSiteRefresh\' && $only_manual==\'yes\')) {
+    $path_to_cacheengine = $modx->config[\'base_path\']."assets/plugins/cacheaccelerator/";
+    $path_to_cache = $modx->config[\'base_path\']."assets/plugins/cacheaccelerator/cache/";
+    require_once $path_to_cacheengine."fileCache.php";
+    $cache = fileCache::GetInstance(84600*7,$path_to_cache);
+    if($dropCacheGroups != \'\' && $dropCacheGroups != \'all\'){
+        $dropCacheGroups = trim(preg_replace(\'|\\\\s*(?:\'.preg_quote(\',\').\')\\\\s*|\', \',\', $dropCacheGroups));
+        $dropCacheGroups = explode(",", $dropCacheGroups);
+        $cache->deleteCache(0, $dropCacheGroups);
+    } else
+        $cache->deleteCache(0);
+    return;
+}
+
+';
+$p['CacheAcceleratorProps'] = '&only_manual=Only manual clear;list;yes,no;no &autoCache=Autocache;list;enabled,disabled;disabled &autoCacheSnippets=Snippets to Autocache (\'ditto,jot\');string;all &autoCacheExcludeSnippets=Snippets to exclude (\'snippet1, snippet2\');string;include &dropCacheGroups=Groups to clear (\'default, news\');string;all &dropCacheFields=Drop cache fields;string;JotForm||post,true,2||,publish,2||,unpublish,2||,delete,2||,edit,2 &showSnippets=Show snippets log;list;full,short,no;no &showSystemData=Show system data;list;yes,no;no ';
 $e = &$this->pluginEvent;
 $e['OnBeforeManagerLogin'] = array('Forgot Manager Login');
 $e['OnBeforePluginFormSave'] = array('FileSource');
 $e['OnBeforeSnipFormSave'] = array('FileSource');
+$e['OnCacheUpdate'] = array('CacheAccelerator');
 $e['OnChunkFormRender'] = array('CodeMirror');
 $e['OnDocFormPrerender'] = array('ManagerManager');
 $e['OnDocFormRender'] = array('CodeMirror','ManagerManager');
 $e['OnInterfaceSettingsRender'] = array('TinyMCE Rich Text Editor');
+$e['OnLoadWebDocument'] = array('CacheAccelerator');
 $e['OnManagerAuthentication'] = array('Forgot Manager Login');
 $e['OnManagerLoginFormRender'] = array('Forgot Manager Login');
 $e['OnModFormRender'] = array('CodeMirror');
@@ -453,9 +571,11 @@ $e['OnPluginFormPrerender'] = array('FileSource');
 $e['OnPluginFormRender'] = array('CodeMirror','FileSource');
 $e['OnRichTextEditorInit'] = array('TinyMCE Rich Text Editor');
 $e['OnRichTextEditorRegister'] = array('TinyMCE Rich Text Editor');
+$e['OnSiteRefresh'] = array('CacheAccelerator');
 $e['OnSnipFormPrerender'] = array('FileSource');
 $e['OnSnipFormRender'] = array('FileSource','CodeMirror');
 $e['OnStripAlias'] = array('TransAlias');
 $e['OnTempFormRender'] = array('CodeMirror');
 $e['OnTVFormRender'] = array('ManagerManager');
+$e['OnWebPagePrerender'] = array('CacheAccelerator');
 
