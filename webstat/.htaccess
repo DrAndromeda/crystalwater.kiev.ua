@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/voda.astudio.pro/webstat"
+AuthUserFile /var/www/eney/data/etc/77075564.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>
