@@ -140,8 +140,8 @@ $m = &$this->documentMap;
 $d['index'] = 1;
 $a[1] = array('id' => 1, 'alias' => 'index', 'path' => '', 'parent' => 0, 'isfolder' => 1);
 $m[] = array('0' => '1');
-$d['voda-h2o-stat'] = 5;
-$a[5] = array('id' => 5, 'alias' => 'voda-h2o-stat', 'path' => '', 'parent' => 0, 'isfolder' => 1);
+$d['voda-h2o-stati'] = 5;
+$a[5] = array('id' => 5, 'alias' => 'voda-h2o-stati', 'path' => '', 'parent' => 0, 'isfolder' => 1);
 $m[] = array('0' => '5');
 $d['uslugi-i-tseny'] = 6;
 $a[6] = array('id' => 6, 'alias' => 'uslugi-i-tseny', 'path' => '', 'parent' => 0, 'isfolder' => 0);
@@ -167,65 +167,65 @@ $m[] = array('1' => '3');
 $d['index/4'] = 4;
 $a[4] = array('id' => 4, 'alias' => '4', 'path' => 'index', 'parent' => 1, 'isfolder' => 0);
 $m[] = array('1' => '4');
-$d['voda-h2o-stat/65-voda-butilirovannaya-eto-to-chto-nuzhno-v-dom-dlya-zdorovoj-semi'] = 9;
-$a[9] = array('id' => 9, 'alias' => '65-voda-butilirovannaya-eto-to-chto-nuzhno-v-dom-dlya-zdorovoj-semi', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/65-voda-butilirovannaya-eto-to-chto-nuzhno-v-dom-dlya-zdorovoj-semi'] = 9;
+$a[9] = array('id' => 9, 'alias' => '65-voda-butilirovannaya-eto-to-chto-nuzhno-v-dom-dlya-zdorovoj-semi', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '9');
-$d['voda-h2o-stat/63-voda-optom'] = 10;
-$a[10] = array('id' => 10, 'alias' => '63-voda-optom', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/63-voda-optom'] = 10;
+$a[10] = array('id' => 10, 'alias' => '63-voda-optom', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '10');
-$d['voda-h2o-stat/59-kak-podobrat-kompanii-kotorymi-osushchestvlyaetsya-dostavka-vody-kiev-otzyvy-o-kotoroj-vas-ne-obm'] = 11;
-$a[11] = array('id' => 11, 'alias' => '59-kak-podobrat-kompanii-kotorymi-osushchestvlyaetsya-dostavka-vody-kiev-otzyvy-o-kotoroj-vas-ne-obm', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/dostavka-pitevoj-vodyi-ot-proizvoditelya'] = 11;
+$a[11] = array('id' => 11, 'alias' => 'dostavka-pitevoj-vodyi-ot-proizvoditelya', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '11');
-$d['voda-h2o-stat/voda-h2o-stati'] = 12;
-$a[12] = array('id' => 12, 'alias' => 'voda-h2o-stati', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/57-polza-i-vred-esli-pitevaya-voda-obogashchennoj-gazom'] = 12;
+$a[12] = array('id' => 12, 'alias' => '57-polza-i-vred-esli-pitevaya-voda-obogashchennoj-gazom', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '12');
-$d['voda-h2o-stat/polza-kotoruyu-poluchit-vash-organizm-ot-upotrebleniya-ochishhennoj-vodyi'] = 13;
-$a[13] = array('id' => 13, 'alias' => 'polza-kotoruyu-poluchit-vash-organizm-ot-upotrebleniya-ochishhennoj-vodyi', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/55-polza-kotoruyu-poluchit-vash-organizm-ot-upotrebleniya-ochishchennoj-vody'] = 13;
+$a[13] = array('id' => 13, 'alias' => '55-polza-kotoruyu-poluchit-vash-organizm-ot-upotrebleniya-ochishchennoj-vody', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '13');
-$d['voda-h2o-stat/amerikanskimi-issledovatelyami-dokazano-chto-butilirovannaya-voda-xorosha-dlya-aktivnogo-poxudeniya'] = 14;
-$a[14] = array('id' => 14, 'alias' => 'amerikanskimi-issledovatelyami-dokazano-chto-butilirovannaya-voda-xorosha-dlya-aktivnogo-poxudeniya', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/dokazano-chto-butilirovannaya-voda-khorosha-dlya-aktivnogo-pokhudeniya'] = 14;
+$a[14] = array('id' => 14, 'alias' => 'dokazano-chto-butilirovannaya-voda-khorosha-dlya-aktivnogo-pokhudeniya', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '14');
-$d['voda-h2o-stat/15'] = 15;
-$a[15] = array('id' => 15, 'alias' => '15', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/49-ochistka-vody-protsess-umyagcheniya-vody'] = 15;
+$a[15] = array('id' => 15, 'alias' => '49-ochistka-vody-protsess-umyagcheniya-vody', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '15');
-$d['voda-h2o-stat/43-chistaya-voda-izbavlennaya-ot-khlora'] = 16;
-$a[16] = array('id' => 16, 'alias' => '43-chistaya-voda-izbavlennaya-ot-khlora', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/43-chistaya-voda-izbavlennaya-ot-khlora'] = 16;
+$a[16] = array('id' => 16, 'alias' => '43-chistaya-voda-izbavlennaya-ot-khlora', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '16');
-$d['voda-h2o-stat/41-esli-nuzhno-kupit-vodu-v-bezvrednoj-tare'] = 17;
-$a[17] = array('id' => 17, 'alias' => '41-esli-nuzhno-kupit-vodu-v-bezvrednoj-tare', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/41-esli-nuzhno-kupit-vodu-v-bezvrednoj-tare'] = 17;
+$a[17] = array('id' => 17, 'alias' => '41-esli-nuzhno-kupit-vodu-v-bezvrednoj-tare', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '17');
-$d['voda-h2o-stat/18'] = 18;
-$a[18] = array('id' => 18, 'alias' => '18', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/39-pochemu-pitevaya-voda-nuzhna-sportsmena-kak-vozdukh'] = 18;
+$a[18] = array('id' => 18, 'alias' => '39-pochemu-pitevaya-voda-nuzhna-sportsmena-kak-vozdukh', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '18');
-$d['voda-h2o-stat/37-chto-takoe-obratnyj-osmos-i-kak-on-vliyaet-na-kachestvo-zhizni'] = 19;
-$a[19] = array('id' => 19, 'alias' => '37-chto-takoe-obratnyj-osmos-i-kak-on-vliyaet-na-kachestvo-zhizni', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/37-chto-takoe-obratnyj-osmos-i-kak-on-vliyaet-na-kachestvo-zhizni'] = 19;
+$a[19] = array('id' => 19, 'alias' => '37-chto-takoe-obratnyj-osmos-i-kak-on-vliyaet-na-kachestvo-zhizni', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '19');
-$d['voda-h2o-stat/35-ochishchenaya-voda-po-sisteme-ozonovaya-sterilizatsiya'] = 20;
-$a[20] = array('id' => 20, 'alias' => '35-ochishchenaya-voda-po-sisteme-ozonovaya-sterilizatsiya', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/35-ochishchenaya-voda-po-sisteme-ozonovaya-sterilizatsiya'] = 20;
+$a[20] = array('id' => 20, 'alias' => '35-ochishchenaya-voda-po-sisteme-ozonovaya-sterilizatsiya', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '20');
-$d['voda-h2o-stat/33-voda-i-kalcij'] = 21;
-$a[21] = array('id' => 21, 'alias' => '33-voda-i-kalcij', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/33-voda-i-kalcij'] = 21;
+$a[21] = array('id' => 21, 'alias' => '33-voda-i-kalcij', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '21');
-$d['voda-h2o-stat/vyibiraya-vodu-obrashhajte-vnimanie-na'] = 24;
-$a[24] = array('id' => 24, 'alias' => 'vyibiraya-vodu-obrashhajte-vnimanie-na', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/29-vybiraya-vodu-obrashchajte-vnimanie-na'] = 24;
+$a[24] = array('id' => 24, 'alias' => '29-vybiraya-vodu-obrashchajte-vnimanie-na', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '24');
-$d['voda-h2o-stat/vliyanie-na-chelovecheskij-organizm-ximicheskix-elementov-kotoryie-soderzhit-pitevaya-voda'] = 25;
-$a[25] = array('id' => 25, 'alias' => 'vliyanie-na-chelovecheskij-organizm-ximicheskix-elementov-kotoryie-soderzhit-pitevaya-voda', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/8-vliyanie-khimicheskikh-veshchestv-v-vode-na-organizm-cheloveka-pravda-o-vode'] = 25;
+$a[25] = array('id' => 25, 'alias' => '8-vliyanie-khimicheskikh-veshchestv-v-vode-na-organizm-cheloveka-pravda-o-vode', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '25');
-$d['voda-h2o-stat/13-9-prichin-chtob-pit-vodu'] = 26;
-$a[26] = array('id' => 26, 'alias' => '13-9-prichin-chtob-pit-vodu', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/13-9-prichin-chtob-pit-vodu'] = 26;
+$a[26] = array('id' => 26, 'alias' => '13-9-prichin-chtob-pit-vodu', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '26');
-$d['voda-h2o-stat/6-distilyatsiya-i-obratnyj-osmos-v-chjom-razlichie'] = 27;
-$a[27] = array('id' => 27, 'alias' => '6-distilyatsiya-i-obratnyj-osmos-v-chjom-razlichie', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/6-distilyatsiya-i-obratnyj-osmos-v-chjom-razlichie'] = 27;
+$a[27] = array('id' => 27, 'alias' => '6-distilyatsiya-i-obratnyj-osmos-v-chjom-razlichie', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '27');
-$d['voda-h2o-stat/4-voda-uspokaivaet-i-lechit'] = 28;
-$a[28] = array('id' => 28, 'alias' => '4-voda-uspokaivaet-i-lechit', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/4-voda-uspokaivaet-i-lechit'] = 28;
+$a[28] = array('id' => 28, 'alias' => '4-voda-uspokaivaet-i-lechit', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '28');
-$d['voda-h2o-stat/3-znachenie-vody-v-zhizni-cheloveka'] = 29;
-$a[29] = array('id' => 29, 'alias' => '3-znachenie-vody-v-zhizni-cheloveka', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/3-znachenie-vody-v-zhizni-cheloveka'] = 29;
+$a[29] = array('id' => 29, 'alias' => '3-znachenie-vody-v-zhizni-cheloveka', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '29');
-$d['voda-h2o-stat/2-kakie-vidy-pitevykh-vod-sushchestvuyut-na-planete-i-kakie-iz-nikh-mozhno-pit'] = 30;
-$a[30] = array('id' => 30, 'alias' => '2-kakie-vidy-pitevykh-vod-sushchestvuyut-na-planete-i-kakie-iz-nikh-mozhno-pit', 'path' => 'voda-h2o-stat', 'parent' => 5, 'isfolder' => 0);
+$d['voda-h2o-stati/2-kakie-vidy-pitevykh-vod-sushchestvuyut-na-planete-i-kakie-iz-nikh-mozhno-pit'] = 30;
+$a[30] = array('id' => 30, 'alias' => '2-kakie-vidy-pitevykh-vod-sushchestvuyut-na-planete-i-kakie-iz-nikh-mozhno-pit', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '30');
 $c = &$this->contentTypes;
 $c[22] = 'text/xml';
@@ -288,7 +288,9 @@ $c['footer'] = '<div id="footer">
 		<span>Все права данного сайта защищены!</span>	
 					</div>
 							</div>';
-$c['header'] = '<meta http-equiv="Content-Type" content="text/html; charset=[(modx_charset)]" /> 
+$c['header'] = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta http-equiv="Content-Type" content="text/html; charset=[(modx_charset)]" /> 
         <head>
 <title>[*longtitle*]</title>
 <meta name="keywords" content="[*keyw*]" />
@@ -351,7 +353,7 @@ $c['Duplicate of contact'] = '<div id="Contacts">
 </div>';
 $c['right_block'] = '<div id="sidebar">
 													<div id="sidebar_position1">
-											<h3>Как заказать</h3>
+														<div class="zak">Как заказать</div>
 				Чтобы заказать воду и аксессуары вы можете связаться с нами по телефону указанному выше.	
 					</div>
 											</div>';
@@ -371,17 +373,30 @@ $c['menu'] = '<div id="menu_site">
 </div>
 
 ';
-$c['ditto_blog'] = '<div class="leading-3">
+$c['ditto_blog'] = '<div class="post" >
+          <h2> <a href="[(base_url)][~[+id+]~]">[+pagetitle+]</a> </h2>
+          <div class="entry">
+           <p><img src="[+blog_img+]" alt="[+alt+]" width="183" class="leftimg"/></p>	
+						  <p align="justify">[+introtext+]</p>	
+  <br><br>
+			  
+          </div><!--/entry -->
+			  
+	<p class="readmore">
+<a href="[~[+id+]~]"> Подробнее...</a></p>	
+        </div>
+<br><br>	';
+$c['Duplicate of ditto_blog'] = '<div class="leading-3">
 <h2> <a href="[(base_url)][~[+id+]~]">[+pagetitle+]</a> </h2>
-<p><img src="[+blog_img+]" alt="[+alt+]" width="250" class="leftimg"/></p>
-<br><br><br><br><br><br>
+<p><img src="[+blog_img+]" alt="[+alt+]" width="183" class="leftimg"/></p>
+
 <p>[+introtext+]</p>
-<h1><br><br></h1>
+<br><br><br><br><br>
 <p class="readmore">
 <a href="[~[+id+]~]"> Подробнее...</a>
 </p>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 </div >
 ';
 $s = &$this->snippetCache;
