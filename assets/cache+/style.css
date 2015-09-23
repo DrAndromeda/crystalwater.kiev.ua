@@ -1,0 +1,79 @@
+
+
+/* css/style.css */ 
+@charset "UTF-8";*{margin:0;padding:0;outline:0}body{background:#164c72 url(/css/../images/water_bg.png) top center no-repeat;font:normal 14px/24px Arial,Helvetica,sans-serif;color:#000}::selection{background:#fff;color:#000}div#clear_line{clear:both}h1,h2,h3{font-size:30px;font-weight:normal;line-height:100%;margin-bottom:10px;font-family:'Open Sans',Arial,sans-serif}h2{border-bottom:1px solid #4aadc4;padding-bottom:10px}h2
+a{font-size:30px;font-weight:normal;text-decoration:none;line-height:100%}h2 a:hover{color:#b0f5d4}p.readmore
+a{right:500px;position:absolute;display:block;width:100px;height:40px;background:#fff;line-height:40px;text-align:center;color:#00b4ff;text-decoration:none;-moz-border-radius:2px;-webkit-border-radius:2px;-khtml-border-radius:2px;border-radius:2px;text-transform:uppercase;font-size:11px;-webkit-transition:all .15s linear;-moz-transition:all .15s linear;-o-transition:all .15s linear;transition:all .15s linear}p.readmore a:hover{background:#00b4ff;color:#fff}div#main{width:100%;margin:0
+auto}div#main_center{width:980px;margin:0
+auto}div#header{height:290px;width:980px;position:relative}div.logo{width:340px;height:340px;position:absolute;left:89px;top:81px;cursor:pointer}a#logo{display:block;width:340px;height:340px;text-indent:-9999px;cursor:pointer}div#Contacts{width:480px;height:160px;float:right;margin-top:49px}div#Contacts ul
+li{list-style:none;line-height:30px}div#search{float:right;width:237px;height:33px;border:1px
+solid #9ea2a4;background:#fff;border-radius:3px;margin-top:40px}input#mod-search-searchword.inputbox{border:0;height:33px;line-height:33px;width:180px;padding:0
+10px;float:left;border-radius:3px}div#search
+input.button{border:0;background:#ccc;width:37px;height:33px;border-left:1px solid #9ea2a4;text-indent:-9999px;border-radius:0 2px 2px 0;background:#eee url(/css/../images/button_search.png) no-repeat 7px 7px}div#search input.button:hover{background:#333 url(/css/../images/button_search.png) no-repeat 7px -33px;cursor:pointer}div#banner{width:980px;height:300px;background:#fff;margin-top:20px}div#menu_site{width:620px;height:45px;border-bottom:1px solid #4aadc4
+line-height:35px;float:right;font-size:35px}div#footer_menu ul li a:hover{color:#000}div#footer_menu
+ul{width:510px;height:45px;margin:0
+auto}div#menu_site
+ul{width:640px;height:45px;margin:0
+auto}div#menu_site ul li,div#footer_menu ul
+li{float:left;list-style:none;-webkit-transition:all .15s linear;-moz-transition:all .15s linear;-o-transition:all .15s linear;transition:all .15s linear;margin:0
+3px}div#menu_site ul li:hover{background:url(/css/../images/menu_li.png)repeat-x bottom left}div#menu_site ul li#current,div#footer_menu ul
+li#current{background:url(/css/../images/menu_li.png)repeat-x bottom left}div#menu_site ul.joomla-nav li a,div#footer_menu ul li
+a{display:block;text-decoration:none;text-transform:uppercase;font-size:11px;color:#fff;line-height:45px;padding:0
+15px;-webkit-transition:all .15s linear;-moz-transition:all .15s linear;-o-transition:all .15s linear;transition:all .15s linear}div#menu_site ul.joomla-nav li#current
+a{display:block;text-decoration:none;text-transform:uppercase;font-size:11px;color:#08458f;line-height:45px;padding:0
+15px;background:url(/css/../images/menu_li_bg.png)bottom center no-repeat}div#menu_site ul.joomla-nav li a:hover{color:#08458f;display:block;text-decoration:none;text-transform:uppercase;font-size:11px;color:#08458f;line-height:45px;padding:0
+15px;background:url(/css/../images/menu_li_bg.png)bottom center no-repeat}div#news_and_articles{width:978px;height:100px;margin-top:40px;font-size:12px;line-height:175%}div#news,div#articles{width:480px;height:155px;float:right;padding:10px
+0;position:relative}div#news h3,div#articles
+h3{color:#fff;font-size:19px;text-transform:uppercase;line-height:25px;border-bottom:1px solid #4aadc4}div#articles
+h3{background:#039bef url(/css/../images/articles_bg.png) no-repeat left center}div#news_and_articles h4.nspHeader
+a{color:#fff;text-transform:uppercase}div#news_and_articles
+a.readon{text-decoration:none;color:#039bef;border-bottom:1px dashed #039bef;margin-left:20px}div#news_and_articles a.readon:hover{color:#333;border-bottom:1px dashed #333}div#news_and_articles h4.nspHeader a:hover{color:#000}div.nspTopInterface{position:absolute;top:12px;right:15px}div#news_and_articles
+p.nspInfo{padding:0
+3px;width:117px;color:#fff;font-style:italic;height:20px;clear:both}div#news_and_articles
+div.nspMain{margin-top:20px}div#news_and_articles
+img.nspImage{border:3px
+solid #003e71;background:#fff;padding:5px;margin:0
+10px 5px 0;-moz-border-radius:4px;-webkit-border-radius:4px;-khtml-border-radius:4px;border-radius:4px}div#conteiner_content{width:980px;height:auto;margin-top:20px;-moz-border-radius:8px;-webkit-border-radius:8px;-khtml-border-radius:8px;border-radius:8px}div#content{width:746px;height:auto;float:left;font-size:14px;line-height:175%}div.main_content{padding:15px;color:#fff}div#sidebar{width:212px;height:auto;float:left;margin-left:20px}div#sidebar_position,div#sidebar_position1{padding:5px}div#sidebar_position h3,div#sidebar_position1
+h3{color:#8a8a8a;text-transform:uppercase;font-size:16px;text-align:center;padding-bottom:5px;border-bottom:1px solid #8a8a8a}div#sidebar_position1{background:url(/css/../images/where.png) repeat-x center left;border:3px
+solid #fff;-moz-border-radius:4px;-webkit-border-radius:4px;-khtml-border-radius:4px;border-radius:4px}div#page_nav{width:706px;padding:0
+20px;line-height:35px}div#pre_content,div#post_content,div#post_content_position_2,div#post_content_position_3{width:683px;height:auto;margin:20px
+auto 0 auto}div#footer{width:100%;height:171px;background:url(/css/../images/footer_bg.png) no-repeat center top}div#footer_center{width:980px;margin:0
+auto}div#footer_menu{width:978px;height:35px;margin-top:20px;border-radius:3px}div#footer_position{background:url(/css/../images/footer_bg_2.png) no-repeat center top;margin-top:20px;width:980px;height:89px;line-height:56px;font-size:12px;color:#fff;text-align:center}div.blog div.items-leading
+div{padding:0
+0 10px 40px;overflow:hidden;clear:both;margin:120px
+0}div#bottle_price{width:980px}div#bottle_price ul
+li{list-style:none;line-height:35px;border-bottom:1px solid #ddd}div#bottle_price ul li:first-child{border:0}div#bottle_price ul
+li.price{color:#fcd98f;font-size:40px;font-weight:600;line-height:150%;-webkit-transition:all .15s linear;-moz-transition:all .15s linear;-o-transition:all .15s linear;transition:all .15s linear}div#bottle1:hover li.price,div#bottle2:hover li.price,div#bottle3:hover
+li.price{color:#fec54d}div#bottle_price
+h3{text-transform:uppercase;border-bottom:1px solid #ddd;color:#000;text-align:center;padding-bottom:10px;font-size:14px;font-weight:bold}div#bottle1,div#bottle2,div#bottle3{float:left;width:270px;height:515px;margin:30px
+0;background:#fff;-moz-border-radius:8px;-webkit-border-radius:8px;-khtml-border-radius:8px;border-radius:8px;-webkit-box-shadow:0 0 15px #222;-moz-box-shadow:0 0 15px #222;box-shadow:0 0 15px #222;text-align:center;color:#777;-webkit-transition:all .15s linear;-moz-transition:all .15s linear;-o-transition:all .15s linear;transition:all .15s linear}div#bottle1:hover,div#bottle2:hover,div#bottle3:hover{color:#000}div#bottle1{margin-right:-20px !important;padding:15px
+35px 15px 15px}div#bottle2{position:relative;z-index:1;width:300px !important;height:570px;margin:0;padding:20px}div#bottle3{margin-left:-20px !important;padding:15px
+15px 15px 35px}a.readmorebottle{display:block;text-decoration:none;text-transform:uppercase;width:120px;height:45px;line-height:45px;color:#fff;background:#4c90fe;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;margin:10px
+auto;-webkit-transition:all .15s linear;-moz-transition:all .15s linear;-o-transition:all .15s linear;transition:all .15s linear}a.readmorebottle:hover{background:#fec54d}.leftimg{float:left;margin:0
+17px 7px 0}.rightimg{float:right;margin:7px
+0 7px 7px}div#cont_f{font-size:15pt;color:#222;font-family:arial,helvetica,sans-serif}.cont_t{text-transform:uppercase;border-bottom:1px solid #ddd;color:#000;text-align:center;padding-bottom:10px;font-size:14px;font-weight:bold}.cont_i{font-size:30px;font-weight:normal;line-height:100%;margin-bottom:10px;font-family:'Open Sans',Arial,sans-serif}.linkblock{cursor:pointer}a{text-decoration:none;color:#ebebeb}.zak{color:#8a8a8a;text-transform:uppercase;font-size:16px;text-align:center;padding-bottom:5px;border-bottom:1px solid #8a8a8a}.entry{padding:10px
+0 5px;clear:both}.post{padding:0
+0 10px 0;clear:both;overflow:hidden}@media only screen and (max-device-width: 480px){.cont_t{font-size:24px}a.readmorebottle{font-size:24px}.zak{font-size:18px}div#footer_center{font-size:18px}@media only screen and (min-device-width : 320px) and (max-device-width : 480px){.cont_i{font-size:40px}.cont_t{font-size:25px}a.readmorebottle{font-size:34px}.zak{font-size:38px}div#footer_center{font-size:38px}div#cont_f{font-size:32px}div#content{font-size:32px}}
+
+/* DB */ 
+<p>Питьевая вода &laquo;Кришталево-чиста питна вода&raquo; производится первым официальным частным заводом в Украине по очистке воды. Нами организовуется регулярная доставка воды в Бровары и Киев.<br /><br />Существует множество компаний которыми совершается доставка воды в Броварах, но необходимым полезным и безопасным качествам соответствует далеко не каждая. Воду "Кришталево-чиста питна вода" выбирают потребители по причине того что мы создаем действительно высококачественный продукт.<br />Вода нашего завода очищается по технологиям:</p>
+<p><br />- Система обратного осмоса<br />- Озоновая стерилизация<br /><br /></p>
+<p>В наше время обратный осмос и озоновая стерилизация является передовым методом во многих&nbsp;<br />европейских странах ,которыми изготавливается первоклассная питьевая вода.&nbsp;</p>
+<p>Очистка воды обратный осмос содействует очистке &nbsp;организма и стимуляцию&nbsp;иммунитета человека. <br />Это живая вода которая не содержит в себе никаких вредных веществ и примесей. <br />С приёмом этой воды, проблемы со здоровьем, которые не могли решиться годами, решаться!</p>
+<p></p>
+<p><br /><br /></p>
+<h2>Ежедневно потребителями выбирается доставка воды в Бровары и Киев "Кришталево-чиста питна вода" потому, что</h2>
+<p><img src="images/bottle_articles.png" alt="доставка воды" title="доставка воды" style="float: right;" height="345" width="215" /></p>
+<p><span>- "Кришталево-чиста питна вода" по своему составу признана самой незаменимой и безвредной</span><br /> - Проходит 8 этапов очистки и контроля качества воды&nbsp;<br /> - Вода восстанавливает нужный&nbsp;водно-соленой баланс человека<br /> - Рекомендована для употребления детям<br /> - По вкусовым качествам схожа с талой водой</p>
+<p></p>
+<p>Оформите заказ на доставку воды в Броварах и Киеве в любое <br />комфортное для Вас время. "Кришталево-чиста питна вода" всегда&nbsp;</p>
+<p><br /><br /></p>
+<h3>Мы гарантируем что Вам будет совершена своевременная, быстрая, а главное бесплатная доставка воды в Броварах и Киеве</h3>
+<p><br />Вы можете выбрать любой удобный для Вас способ :</p>
+<p>-<storng>Доставка воды Бровары</storng></p>
+<p>-Доставка воды Киев</p>
+<p>-Доставка воды на дом</p>
+<p>-<storng>Доставка воды</storng> в офис</p>
+<p></p>
+<p><br /><br /></p>
+<p>Вода &ndash; это источник жизни, не лишайте свой организм в возможности быть абсолютно здоровым.</p>
