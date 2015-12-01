@@ -1,4 +1,4 @@
-<?php die('Unauthorized access.'); ?>a:43:{s:2:"id";s:2:"26";s:4:"type";s:8:"document";s:11:"contentType";s:9:"text/html";s:9:"pagetitle";s:75:"Важные причины чтобы регулярно пить воду";s:9:"longtitle";s:0:"";s:11:"description";s:0:"";s:5:"alias";s:56:"vazhnyie-prichinyi-dlya-togo-chtobyi-regulyarno-pit-vodu";s:15:"link_attributes";s:0:"";s:9:"published";s:1:"1";s:8:"pub_date";s:1:"0";s:10:"unpub_date";s:1:"0";s:6:"parent";s:1:"5";s:8:"isfolder";s:1:"0";s:9:"introtext";s:1002:"Давно известен тот факт, употребление большого количества питьевой воды положительно влияет на человеческий организм. Питьевая вода полезна и необходима для здорового функционирования человека в современном мире, который переполнен безмерным количеством вирусов и бактерий. Но даже зная такой простой фактор для укрепления своего тела и иммунитета, многими людьми практически не употребляется простая вода. Существует ряд важных причин, который подтверждает факт того что чистая вода необходима нашему организму не меньше чем чистый воздух.";s:7:"content";s:11461:"<p><img src="assets/images/pitevaya-voda-ili-pit-vodu.png" height="320" width="346" class="justifyright" style="float: left; margin: 5px;" alt="пить воду" title="пить воду" />Давно известен тот факт, употребление большого количества питьевой воды положительно влияет на человеческий организм. Питьевая вода полезна и необходима для здорового функционирования человека в современном мире, который переполнен безмерным количеством вирусов и бактерий. Но даже зная такой простой фактор для укрепления своего тела и иммунитета, многими людьми практически не употребляется простая вода. Существует ряд важных причин, который подтверждает факт того что чистая вода необходима нашему организму не меньше чем чистый воздух.</p>
+<?php die('Unauthorized access.'); ?>a:44:{s:2:"id";s:2:"26";s:4:"type";s:8:"document";s:11:"contentType";s:9:"text/html";s:9:"pagetitle";s:75:"Важные причины чтобы регулярно пить воду";s:9:"longtitle";s:0:"";s:11:"description";s:0:"";s:5:"alias";s:56:"vazhnyie-prichinyi-dlya-togo-chtobyi-regulyarno-pit-vodu";s:15:"link_attributes";s:0:"";s:9:"published";s:1:"1";s:8:"pub_date";s:1:"0";s:10:"unpub_date";s:1:"0";s:6:"parent";s:1:"5";s:8:"isfolder";s:1:"0";s:9:"introtext";s:1002:"Давно известен тот факт, употребление большого количества питьевой воды положительно влияет на человеческий организм. Питьевая вода полезна и необходима для здорового функционирования человека в современном мире, который переполнен безмерным количеством вирусов и бактерий. Но даже зная такой простой фактор для укрепления своего тела и иммунитета, многими людьми практически не употребляется простая вода. Существует ряд важных причин, который подтверждает факт того что чистая вода необходима нашему организму не меньше чем чистый воздух.";s:7:"content";s:11461:"<p><img src="assets/images/pitevaya-voda-ili-pit-vodu.png" height="320" width="346" class="justifyright" style="float: left; margin: 5px;" alt="пить воду" title="пить воду" />Давно известен тот факт, употребление большого количества питьевой воды положительно влияет на человеческий организм. Питьевая вода полезна и необходима для здорового функционирования человека в современном мире, который переполнен безмерным количеством вирусов и бактерий. Но даже зная такой простой фактор для укрепления своего тела и иммунитета, многими людьми практически не употребляется простая вода. Существует ряд важных причин, который подтверждает факт того что чистая вода необходима нашему организму не меньше чем чистый воздух.</p>
 <h2>Правильно пить воду тоже нужно уметь</h2>
 <p>В наше время человечество сводит потребление обычной воды к самому минимальному. Чаще всего пить воду без разнообразных добавок нам не приходится. Многие считают что простая питьевая вода так же полезно заменяется соками. Многие вместо воды пьют газированные напитки, чай, кофе, молочные напитки. В большинстве случаев человеком вообще не употребляется в достаточном количестве вода, из-за чего организм обезвоживается, и иммунитет серьезно ослабевает (что ведет к разнообразным заболеваниям).<br /><br />После сна, на тощак необходимо выпивать по меньшей мере два стакана воды, чтобы компенсировать ту жидкость в организме которая была потеряна за время сна. Самое оптимальное для человеческого организма время для употребления воды &mdash; стакан воды не менее чем полчаса до еды и столько же через 2,5 часа после еды. Но это лишь самый минимум который крайне необходимый организму. <br /> <br /> Малое количество людей понимает, что вода - это жидкость, а чай, кофе, и другие напитки - это еда.<br />Существует ряд важнейших причин по которым стоит пить воду и делать достаточно часто.<br />Вот перечень самых главных причин которые объяснят вам сколько воды и почему необходимо вам для здоровой жизни.</p>
 <h3>Важные причины зачем пить воду :</h3>
@@ -10,7 +10,7 @@
 <p>В борьбе с акне и прыщиками чистой питьевой воде нет равных</p>
 <p><br />Чистая вода очищает не только организм изнутри, но и снаружи. Ежедневное употребление воды заметно очищает кожу. Разумеется, эти перемены не сразу происходят, но если питье большого количества воды станет вашей ежедневной привычкой, то через время вы неизбежно заметите разницу. Например, все качественные косметические средства по уходу за лицом направлены на то, чтобы увлажнить кожу снаружи, а это значит что подпитка водой изнутри уж точно не помешает.<br /> <br /><br />Питьевая вода Польза №6. Вода избавляет от проблем связанных с пищеварением. <br /> <br />Пищеварительная система здорового организма постоянно требует, чтоб человеком ежедневно употреблялась в большом количестве питьевая вода для нормального переваривания пищи. Часто чистая вода способствует избавлению от проблем с повышенной кислотностью в желудке . Это происходит в следствии того, что лишняя концентрация кислот падает при употреблении воды. <br /><br />Питьевая вода Польза №7. Вода как очиститель организма.<br /> <br />Чистая вода необходима организму для вывода токсинов и других вредных веществ, которые имеют свойство постепенного ежедневного накопления в нем. Большая часть шлаков накапливающихся годами в нашем организме находится в межклеточной жидкости. Когда человеком ежедневно употребляется очищенная вода - клетки и между клеточная жидкость очищаются.<br /> <br /><br />Питьевая вода Польза №8. Вода в борьбе с раковыми заболеваниями. <br /> <br />Учеными доказано, что в группе риска по заболеванию раком пищеварительного тракта, находятся люди в рацион который практически не входит обычная вода н2o. А вот те кто пьют воду в достаточном количестве, на 45% менее подвержены таким серьезным заболеваниям. <br /> Так же если ежедневно пить воду уменьшается возможность рака мочевого пузыря на и молочной железы. <br /> <br /><br />Питьевая вода Польза №9. Спорт и вода.<br /><br /></p>
 <h5>Самое главное, пить воду при физических нагрузках</h5>
-<p><br />Обезвоживание организма чаще всего становится серьезным ограничением в занятиях спортом. Из-за общего состояния усталости в котором находится обезвоженный организм не получающий воду, человек может просто не справиться с нагрузкой, что чревато травмами. Как только вы выпьете пару стаканов, чистая вода обеспечит вас энергией и сохраните ваше здоровье.</p>";s:8:"richtext";s:1:"1";s:8:"template";s:1:"9";s:9:"menuindex";s:2:"15";s:10:"searchable";s:1:"1";s:9:"cacheable";s:1:"1";s:9:"createdby";s:1:"1";s:9:"createdon";s:10:"1385456009";s:8:"editedby";s:1:"3";s:8:"editedon";s:10:"1409857749";s:7:"deleted";s:1:"0";s:9:"deletedon";s:1:"0";s:9:"deletedby";s:1:"0";s:11:"publishedon";s:10:"1409857749";s:11:"publishedby";s:1:"3";s:9:"menutitle";s:0:"";s:7:"donthit";s:1:"0";s:11:"haskeywords";s:1:"0";s:11:"hasmetatags";s:1:"0";s:10:"privateweb";s:1:"0";s:10:"privatemgr";s:1:"0";s:13:"content_dispo";s:1:"0";s:8:"hidemenu";s:1:"0";s:13:"alias_visible";s:1:"1";s:4:"desc";a:5:{i:0;s:4:"desc";i:1;s:159:"Узнайте о фактах того зачем человеку нужно пить воду регулярно и в больших количествах";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"textarea";}s:4:"keyw";a:5:{i:0;s:4:"keyw";i:1;s:18:"пить воду ";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:4:"titl";a:5:{i:0;s:4:"titl";i:1;s:115:"Необходимость пить воду намного велика чем кажется изначально";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:8:"blog_img";a:5:{i:0;s:8:"blog_img";i:1;s:44:"assets/images/pitevaya-voda-ili-pit-vodu.png";i:2;s:0:"";i:3;s:0:"";i:4;s:5:"image";}s:17:"__MODxDocGroups__";s:0:"";}<!--__MODxCacheSpliter__--><!DOCTYPE html>
+<p><br />Обезвоживание организма чаще всего становится серьезным ограничением в занятиях спортом. Из-за общего состояния усталости в котором находится обезвоженный организм не получающий воду, человек может просто не справиться с нагрузкой, что чревато травмами. Как только вы выпьете пару стаканов, чистая вода обеспечит вас энергией и сохраните ваше здоровье.</p>";s:8:"richtext";s:1:"1";s:8:"template";s:1:"9";s:9:"menuindex";s:2:"15";s:10:"searchable";s:1:"1";s:9:"cacheable";s:1:"1";s:9:"createdby";s:1:"1";s:9:"createdon";s:10:"1385456009";s:8:"editedby";s:1:"3";s:8:"editedon";s:10:"1409857749";s:7:"deleted";s:1:"0";s:9:"deletedon";s:1:"0";s:9:"deletedby";s:1:"0";s:11:"publishedon";s:10:"1409857749";s:11:"publishedby";s:1:"3";s:9:"menutitle";s:0:"";s:7:"donthit";s:1:"0";s:11:"haskeywords";s:1:"0";s:11:"hasmetatags";s:1:"0";s:10:"privateweb";s:1:"0";s:10:"privatemgr";s:1:"0";s:13:"content_dispo";s:1:"0";s:8:"hidemenu";s:1:"0";s:13:"alias_visible";s:1:"1";s:4:"desc";a:5:{i:0;s:4:"desc";i:1;s:159:"Узнайте о фактах того зачем человеку нужно пить воду регулярно и в больших количествах";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"textarea";}s:4:"keyw";a:5:{i:0;s:4:"keyw";i:1;s:18:"пить воду ";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:4:"titl";a:5:{i:0;s:4:"titl";i:1;s:115:"Необходимость пить воду намного велика чем кажется изначально";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:8:"blog_img";a:5:{i:0;s:8:"blog_img";i:1;s:44:"assets/images/pitevaya-voda-ili-pit-vodu.png";i:2;s:0:"";i:3;s:0:"";i:4;s:5:"image";}s:16:"sitemap_priority";a:5:{i:0;s:16:"sitemap_priority";i:1;s:3:"0.5";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"dropdown";}s:17:"__MODxDocGroups__";s:0:"";}<!--__MODxCacheSpliter__--><!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
         <head>
 <title>Необходимость пить воду намного велика чем кажется изначально</title>
@@ -95,19 +95,32 @@
 						<br/>
 	<div><noindex><script async="async"type="text/javascript" rel="nofollow"src="//yandex.st/share/share.js"
  charset="utf-8"></script></noindex>
-<noindex><div class="yashare-auto-init" data-yashareL10n="ru" rel="nofollow"
-data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,gplus" data-yashareTheme="counter"></div></noindex>
-						
+<noindex><div rel="nofollow" class="yashare-auto-init" data-yashareL10n="ru" 
+data-yashareQuickServices="yaru,vkontakte,facebook,twitter,gplus" rel="nofollow"data-yashareTheme="counter"></div>
+	
+		
+	<script type="text/javascript">(function(w,doc) {
+if (!w.__utlWdgt ) {
+    w.__utlWdgt = true;
+    var d = doc, s = d.createElement('script'), g = 'getElementsByTagName';
+    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+    s.src = ('https:' == w.location.protocol ? 'https' : 'http')  + '://w.uptolike.com/widgets/v1/uptolike.js';
+    var h=d[g]('body')[0];
+    h.appendChild(s);
+}})(window,document);			
+</script>
+	
+		</noindex>
 </div> 
 						
 <div id="clear_line"></div>
 <div id="clear_line"></div>
-<div id="post_content_position_3"><hr id="system-readmore" />
+<!--<div id="post_content_position_3" class="ju"><hr id="system-readmore" />
 <p><img style="float: left;" src="images/crystalwater/freind.png" alt="freind" width="300" height="170" /><span style="font-size: 14pt;"><br /></span></p>
 <p><span style="font-size: 18pt;">&nbsp;Формируем дилерскую сеть на&nbsp;&nbsp; <br /></span></p>
 <p><span style="font-size: 18pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; выгодных условиях.</span></p>
-<div id="clear_line"></div>
-</div>
+<div id="clear_line"></div></div>!-->
+						
 </div>
 
 				</div>
@@ -116,14 +129,14 @@ data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,
 								<div id="clear_line"></div>		
 								
 			</div>
-			<div id="sidebar">
+			<!--<div id="sidebar">
 													<div id="sidebar_position1">
 														<div class="zak">Как заказать</div>
 																		Чтобы заказать воду и аксессуары вы можете связаться с нами по телефону указанному выше.
 					</div>
 											</div>
 
-
+!-->
 			<div id="clear_line"></div>
 		</div>
 	</div>
@@ -137,7 +150,14 @@ data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,
   ga('create', 'UA-52380797-1', 'auto');
   ga('send', 'pageview');
 
-</script><div id="footer">
+</script>
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<noindex><script async="async" rel="rel nofollow" type='text/javascript'>
+(function(){ var widget_id = 'nFLQhPJhkP';
+			var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();</script></noindex>
+<!-- {/literal} END JIVOSITE CODE -->
+
+<div id="footer">
 			<div id="footer_center">
 				<!--<span style="color: #222222; font-family: 'Helvetica Neue', HelveticaNeue, Helvetica, sans-serif; font-size: 13px; line-height: 18.1875px;">Автор публикации:&nbsp;</span>
 				<a href="https://plus.google.com/u/0/109756665889043002454?rel.." target="blank"><span style="color:#d3d3d3;"> Екатерина Холод </span></a>-->
@@ -145,6 +165,42 @@ data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,
 		<!--<span>Все права данного сайта <!--Важные причины чтобы регулярно пить воду защищены!</span>!-->	
 					</div>
 							</div>
+	<!-- .row -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script  type="text/javascript">
+$(document).ready(function(){
+$(window).scroll(function(){
+if ($(this).scrollTop() > 100) {
+$('.scrollup').fadeIn();
+} else {
+$('.scrollup').fadeOut();
+}
+});
+ 
+$('.scrollup').click(function(){
+$("html, body").animate({ scrollTop: 0 }, 600);
+return false;
+}); 
+});
+</script>
+<script type="text/javascript">
+$(document).ready(function(){
+            $('.video_window').easyModal();
+var path = $(".video_frame iframe")[0].src;
+            $('#video_window_open').click(function(e){
+                $('.video_window').trigger('openModal');
+                $(".video_frame iframe")[0].src += "&autoplay=1";
+                e.preventDefault();
+            });
+            $('#video_window_close').click(function(e){
+$(".video_frame iframe")[0].src = path;
+                $('.video_window').trigger('closeModal');
+                e.preventDefault();
+            });
+        });
+</script>
+<a class="scrollup">Наверх</a>
+
 		</div>
 </div>	
 <script type="text/javascript">

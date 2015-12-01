@@ -155,18 +155,21 @@ $m[] = array('0' => '8');
 $d['kak-zakazat'] = 23;
 $a[23] = array('id' => 23, 'alias' => 'kak-zakazat', 'path' => '', 'parent' => 0, 'isfolder' => 0);
 $m[] = array('0' => '23');
+$d['404'] = 31;
+$a[31] = array('id' => 31, 'alias' => '404', 'path' => '', 'parent' => 0, 'isfolder' => 0);
+$m[] = array('0' => '31');
 $d['sitemap.xml'] = 22;
 $a[22] = array('id' => 22, 'alias' => 'sitemap.xml', 'path' => '', 'parent' => 0, 'isfolder' => 0);
 $m[] = array('0' => '22');
 $d['sitemap.xml'] = 97;
 $a[97] = array('id' => 97, 'alias' => 'sitemap.xml', 'path' => '', 'parent' => 0, 'isfolder' => 0);
 $m[] = array('0' => '97');
-$d['404'] = 31;
-$a[31] = array('id' => 31, 'alias' => '404', 'path' => '', 'parent' => 0, 'isfolder' => 0);
-$m[] = array('0' => '31');
 $d['kak-zakazat1'] = 33;
 $a[33] = array('id' => 33, 'alias' => 'kak-zakazat1', 'path' => '', 'parent' => 0, 'isfolder' => 0);
 $m[] = array('0' => '33');
+$d['xsxsx'] = 127;
+$a[127] = array('id' => 127, 'alias' => 'xsxsx', 'path' => '', 'parent' => 0, 'isfolder' => 0);
+$m[] = array('0' => '127');
 $d['index/pompa-dlya-vodyi'] = 2;
 $a[2] = array('id' => 2, 'alias' => 'pompa-dlya-vodyi', 'path' => 'index', 'parent' => 1, 'isfolder' => 0);
 $m[] = array('1' => '2');
@@ -176,12 +179,12 @@ $m[] = array('1' => '3');
 $d['index/kuler'] = 4;
 $a[4] = array('id' => 4, 'alias' => 'kuler', 'path' => 'index', 'parent' => 1, 'isfolder' => 0);
 $m[] = array('1' => '4');
-$d['voda-h2o-stati/zachem-voda-butilirovannaya-nuzhna-v-raczione'] = 9;
-$a[9] = array('id' => 9, 'alias' => 'zachem-voda-butilirovannaya-nuzhna-v-raczione', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
-$m[] = array('5' => '9');
 $d['voda-h2o-stati/63-voda-optom'] = 10;
 $a[10] = array('id' => 10, 'alias' => '63-voda-optom', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '10');
+$d['voda-h2o-stati/zachem-voda-butilirovannaya-nuzhna-v-raczione'] = 9;
+$a[9] = array('id' => 9, 'alias' => 'zachem-voda-butilirovannaya-nuzhna-v-raczione', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '9');
 $d['voda-h2o-stati/dostavka-pitevoj-vodyi-ot-proizvoditelya'] = 11;
 $a[11] = array('id' => 11, 'alias' => 'dostavka-pitevoj-vodyi-ot-proizvoditelya', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '11');
@@ -203,63 +206,63 @@ $m[] = array('5' => '16');
 $d['voda-h2o-stati/esli-nuzhno-kupit-vodu-v-eko-tare'] = 17;
 $a[17] = array('id' => 17, 'alias' => 'esli-nuzhno-kupit-vodu-v-eko-tare', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '17');
-$d['voda-h2o-stati/video-1983g-gde-voda-kiev-okutyivaet'] = 75;
-$a[75] = array('id' => 75, 'alias' => 'video-1983g-gde-voda-kiev-okutyivaet', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
-$m[] = array('5' => '75');
 $d['voda-h2o-stati/video-voda-mira-i-ee-obitateli'] = 71;
 $a[71] = array('id' => 71, 'alias' => 'video-voda-mira-i-ee-obitateli', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '71');
+$d['voda-h2o-stati/mineralnaya-voda-dlya-organizma-i-dlya-tela'] = 73;
+$a[73] = array('id' => 73, 'alias' => 'mineralnaya-voda-dlya-organizma-i-dlya-tela', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '73');
 $d['voda-h2o-stati/pochemu-poleznaya-voda-kreshhenskaya'] = 43;
 $a[43] = array('id' => 43, 'alias' => 'pochemu-poleznaya-voda-kreshhenskaya', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '43');
 $d['voda-h2o-stati/dostavka-vodyi-kiev-i-kievskuyu-oblast'] = 39;
 $a[39] = array('id' => 39, 'alias' => 'dostavka-vodyi-kiev-i-kievskuyu-oblast', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '39');
+$d['voda-h2o-stati/video-1983g-gde-voda-kiev-okutyivaet'] = 75;
+$a[75] = array('id' => 75, 'alias' => 'video-1983g-gde-voda-kiev-okutyivaet', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '75');
 $d['voda-h2o-stati/prostoj-analiz-vodyi'] = 87;
 $a[87] = array('id' => 87, 'alias' => 'prostoj-analiz-vodyi', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '87');
-$d['voda-h2o-stati/xolodnaya-voda-i-vliyanie-na-organizm'] = 69;
-$a[69] = array('id' => 69, 'alias' => 'xolodnaya-voda-i-vliyanie-na-organizm', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
-$m[] = array('5' => '69');
 $d['voda-h2o-stati/kak-vyiglyadit-i-rabotaet-sistema-osmos'] = 79;
 $a[79] = array('id' => 79, 'alias' => 'kak-vyiglyadit-i-rabotaet-sistema-osmos', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '79');
 $d['voda-h2o-stati/voda-foto-kotoroj-porazit-ves-mir'] = 77;
 $a[77] = array('id' => 77, 'alias' => 'voda-foto-kotoroj-porazit-ves-mir', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '77');
-$d['voda-h2o-stati/mineralnaya-voda-dlya-organizma-i-dlya-tela'] = 73;
-$a[73] = array('id' => 73, 'alias' => 'mineralnaya-voda-dlya-organizma-i-dlya-tela', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
-$m[] = array('5' => '73');
 $d['voda-h2o-stati/voda-malyisham'] = 45;
 $a[45] = array('id' => 45, 'alias' => 'voda-malyisham', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '45');
-$d['voda-h2o-stati/chto-pit-beremennyim-dlya-otlichnogo-samochuvstviya'] = 55;
-$a[55] = array('id' => 55, 'alias' => 'chto-pit-beremennyim-dlya-otlichnogo-samochuvstviya', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
-$m[] = array('5' => '55');
-$d['voda-h2o-stati/chistaya-distillirovannaya-voda-eto'] = 93;
-$a[93] = array('id' => 93, 'alias' => 'chistaya-distillirovannaya-voda-eto', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
-$m[] = array('5' => '93');
-$d['voda-h2o-stati/pet-butyilki-ili-plastikovaya-voda-vezde'] = 85;
-$a[85] = array('id' => 85, 'alias' => 'pet-butyilki-ili-plastikovaya-voda-vezde', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
-$m[] = array('5' => '85');
-$d['voda-h2o-stati/a-vyi-znaete-kakaya-pravilnaya-voda'] = 83;
-$a[83] = array('id' => 83, 'alias' => 'a-vyi-znaete-kakaya-pravilnaya-voda', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
-$m[] = array('5' => '83');
-$d['voda-h2o-stati/prostaya-voda-mozhet-izmenit-vashu-zhizn'] = 53;
-$a[53] = array('id' => 53, 'alias' => 'prostaya-voda-mozhet-izmenit-vashu-zhizn', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
-$m[] = array('5' => '53');
-$d['voda-h2o-stati/luchshaya-voda-i-ee-texnologiya-ochistki'] = 51;
-$a[51] = array('id' => 51, 'alias' => 'luchshaya-voda-i-ee-texnologiya-ochistki', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
-$m[] = array('5' => '51');
-$d['voda-h2o-stati/zhivaya-voda-i-sila-vodyi'] = 49;
-$a[49] = array('id' => 49, 'alias' => 'zhivaya-voda-i-sila-vodyi', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
-$m[] = array('5' => '49');
 $d['voda-h2o-stati/normyi-vodyi'] = 47;
 $a[47] = array('id' => 47, 'alias' => 'normyi-vodyi', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '47');
+$d['voda-h2o-stati/zhivaya-voda-i-sila-vodyi'] = 49;
+$a[49] = array('id' => 49, 'alias' => 'zhivaya-voda-i-sila-vodyi', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '49');
+$d['voda-h2o-stati/luchshaya-voda-i-ee-texnologiya-ochistki'] = 51;
+$a[51] = array('id' => 51, 'alias' => 'luchshaya-voda-i-ee-texnologiya-ochistki', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '51');
+$d['voda-h2o-stati/prostaya-voda-mozhet-izmenit-vashu-zhizn'] = 53;
+$a[53] = array('id' => 53, 'alias' => 'prostaya-voda-mozhet-izmenit-vashu-zhizn', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '53');
+$d['voda-h2o-stati/pet-butyilki-ili-plastikovaya-voda-vezde'] = 85;
+$a[85] = array('id' => 85, 'alias' => 'pet-butyilki-ili-plastikovaya-voda-vezde', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '85');
+$d['voda-h2o-stati/chistaya-distillirovannaya-voda-eto'] = 93;
+$a[93] = array('id' => 93, 'alias' => 'chistaya-distillirovannaya-voda-eto', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '93');
+$d['voda-h2o-stati/chto-pit-beremennyim-dlya-otlichnogo-samochuvstviya'] = 55;
+$a[55] = array('id' => 55, 'alias' => 'chto-pit-beremennyim-dlya-otlichnogo-samochuvstviya', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '55');
 $d['voda-h2o-stati/razreshaem-ili-zapreshhaem-pit-kofe-beremennyim'] = 91;
 $a[91] = array('id' => 91, 'alias' => 'razreshaem-ili-zapreshhaem-pit-kofe-beremennyim', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '91');
+$d['voda-h2o-stati/a-vyi-znaete-kakaya-pravilnaya-voda'] = 83;
+$a[83] = array('id' => 83, 'alias' => 'a-vyi-znaete-kakaya-pravilnaya-voda', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '83');
+$d['voda-h2o-stati/xolodnaya-voda-i-vliyanie-na-organizm'] = 69;
+$a[69] = array('id' => 69, 'alias' => 'xolodnaya-voda-i-vliyanie-na-organizm', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '69');
 $d['voda-h2o-stati/xramyi-vodyi-ukrainyi-i-mira'] = 67;
 $a[67] = array('id' => 67, 'alias' => 'xramyi-vodyi-ukrainyi-i-mira', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '67');
@@ -278,12 +281,12 @@ $m[] = array('5' => '81');
 $d['voda-h2o-stati/mozhet-li-domashnyaya-voda-byit-vkusnaya'] = 95;
 $a[95] = array('id' => 95, 'alias' => 'mozhet-li-domashnyaya-voda-byit-vkusnaya', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '95');
-$d['voda-h2o-stati/voda-v-ofis-na-kazhdyij-den'] = 57;
-$a[57] = array('id' => 57, 'alias' => 'voda-v-ofis-na-kazhdyij-den', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
-$m[] = array('5' => '57');
 $d['voda-h2o-stati/kuler-dlya-vodyi'] = 65;
 $a[65] = array('id' => 65, 'alias' => 'kuler-dlya-vodyi', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '65');
+$d['voda-h2o-stati/voda-v-ofis-na-kazhdyij-den'] = 57;
+$a[57] = array('id' => 57, 'alias' => 'voda-v-ofis-na-kazhdyij-den', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '57');
 $d['voda-h2o-stati/lechenie-vodoj-s-naturalnyimi-otvarami'] = 59;
 $a[59] = array('id' => 59, 'alias' => 'lechenie-vodoj-s-naturalnyimi-otvarami', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '59');
@@ -293,48 +296,51 @@ $m[] = array('5' => '63');
 $d['voda-h2o-stati/voda-dlya-rastenij'] = 61;
 $a[61] = array('id' => 61, 'alias' => 'voda-dlya-rastenij', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '61');
+$d['voda-h2o-stati/kak-proverit-kachestvo-butilirovannoj-vodyi'] = 117;
+$a[117] = array('id' => 117, 'alias' => 'kak-proverit-kachestvo-butilirovannoj-vodyi', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '117');
 $d['voda-h2o-stati/kak-delat-obezzarazhivanie-vodyi'] = 99;
 $a[99] = array('id' => 99, 'alias' => 'kak-delat-obezzarazhivanie-vodyi', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '99');
 $d['voda-h2o-stati/postoyannyie-akczii-butilirovannaya-voda-krishtalevo-chista'] = 103;
 $a[103] = array('id' => 103, 'alias' => 'postoyannyie-akczii-butilirovannaya-voda-krishtalevo-chista', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '103');
-$d['voda-h2o-stati/skolko-nuzhno-vodyi-cheloveku-v-sutki'] = 105;
-$a[105] = array('id' => 105, 'alias' => 'skolko-nuzhno-vodyi-cheloveku-v-sutki', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
-$m[] = array('5' => '105');
 $d['voda-h2o-stati/pochemu-luchshaya-butilirovannaya-voda-poleznej-mineralnoj'] = 107;
 $a[107] = array('id' => 107, 'alias' => 'pochemu-luchshaya-butilirovannaya-voda-poleznej-mineralnoj', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '107');
 $d['voda-h2o-stati/porazhayushhe-prozrachnaya-voda-stala-ldom'] = 109;
 $a[109] = array('id' => 109, 'alias' => 'porazhayushhe-prozrachnaya-voda-stala-ldom', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '109');
-$d['voda-h2o-stati/kakaya-voda-posle-osmosa-na-vkus-i-xarakteristiki'] = 113;
-$a[113] = array('id' => 113, 'alias' => 'kakaya-voda-posle-osmosa-na-vkus-i-xarakteristiki', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
-$m[] = array('5' => '113');
-$d['voda-h2o-stati/kak-vyiglyadit-sxema-osmosa-obratnogo'] = 115;
-$a[115] = array('id' => 115, 'alias' => 'kak-vyiglyadit-sxema-osmosa-obratnogo', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
-$m[] = array('5' => '115');
-$d['voda-h2o-stati/kak-proverit-kachestvo-butilirovannoj-vodyi'] = 117;
-$a[117] = array('id' => 117, 'alias' => 'kak-proverit-kachestvo-butilirovannoj-vodyi', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
-$m[] = array('5' => '117');
 $d['voda-h2o-stati/prostaya-voda-natoshhak-eto-rekomenduet-ayurveda'] = 111;
 $a[111] = array('id' => 111, 'alias' => 'prostaya-voda-natoshhak-eto-rekomenduet-ayurveda', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '111');
-$d['voda-h2o-stati/obratnyij-osmos-i-ego-ispolzovanie'] = 19;
-$a[19] = array('id' => 19, 'alias' => 'obratnyij-osmos-i-ego-ispolzovanie', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
-$m[] = array('5' => '19');
+$d['voda-h2o-stati/kak-vyiglyadit-sxema-osmosa-obratnogo'] = 115;
+$a[115] = array('id' => 115, 'alias' => 'kak-vyiglyadit-sxema-osmosa-obratnogo', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '115');
+$d['voda-h2o-stati/kakaya-voda-posle-osmosa-na-vkus-i-xarakteristiki'] = 113;
+$a[113] = array('id' => 113, 'alias' => 'kakaya-voda-posle-osmosa-na-vkus-i-xarakteristiki', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '113');
+$d['voda-h2o-stati/skolko-nuzhno-vodyi-cheloveku-v-sutki'] = 105;
+$a[105] = array('id' => 105, 'alias' => 'skolko-nuzhno-vodyi-cheloveku-v-sutki', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '105');
 $d['voda-h2o-stati/ezhednevno-vyipivajte-litr-vodyi'] = 89;
 $a[89] = array('id' => 89, 'alias' => 'ezhednevno-vyipivajte-litr-vodyi', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '89');
+$d['voda-h2o-stati/obratnyij-osmos-i-ego-ispolzovanie'] = 19;
+$a[19] = array('id' => 19, 'alias' => 'obratnyij-osmos-i-ego-ispolzovanie', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '19');
 $d['voda-h2o-stati/35-ochishchenaya-voda-po-sisteme-ozonovaya-sterilizatsiya'] = 20;
 $a[20] = array('id' => 20, 'alias' => '35-ochishchenaya-voda-po-sisteme-ozonovaya-sterilizatsiya', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '20');
-$d['voda-h2o-stati/33-voda-i-kalcij'] = 21;
-$a[21] = array('id' => 21, 'alias' => '33-voda-i-kalcij', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
-$m[] = array('5' => '21');
 $d['voda-h2o-stati/12'] = 125;
 $a[125] = array('id' => 125, 'alias' => '12', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '125');
+$d['voda-h2o-stati/33-voda-i-kalcij'] = 21;
+$a[21] = array('id' => 21, 'alias' => '33-voda-i-kalcij', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '21');
+$d['voda-h2o-stati/chto-nuzhno-znat-pokupaya-vodu-v-butyilke'] = 126;
+$a[126] = array('id' => 126, 'alias' => 'chto-nuzhno-znat-pokupaya-vodu-v-butyilke', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
+$m[] = array('5' => '126');
 $d['voda-h2o-stati/obratnyij-osmos-v-kiev-dlya-ochistki'] = 123;
 $a[123] = array('id' => 123, 'alias' => 'obratnyij-osmos-v-kiev-dlya-ochistki', 'path' => 'voda-h2o-stati', 'parent' => 5, 'isfolder' => 0);
 $m[] = array('5' => '123');
@@ -422,14 +428,57 @@ $c['footer'] = '<script>
   ga(\'create\', \'UA-52380797-1\', \'auto\');
   ga(\'send\', \'pageview\');
 
-</script><div id="footer">
+</script>
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<noindex><script async="async" rel="rel nofollow" type=\'text/javascript\'>
+(function(){ var widget_id = \'nFLQhPJhkP\';
+			var s = document.createElement(\'script\'); s.type = \'text/javascript\'; s.async = true; s.src = \'//code.jivosite.com/script/widget/\'+widget_id; var ss = document.getElementsByTagName(\'script\')[0]; ss.parentNode.insertBefore(s, ss);})();</script></noindex>
+<!-- {/literal} END JIVOSITE CODE -->
+
+<div id="footer">
 			<div id="footer_center">
 				<!--<span style="color: #222222; font-family: \'Helvetica Neue\', HelveticaNeue, Helvetica, sans-serif; font-size: 13px; line-height: 18.1875px;">Автор публикации:&nbsp;</span>
 				<a href="https://plus.google.com/u/0/109756665889043002454?rel.." target="blank"><span style="color:#d3d3d3;"> Екатерина Холод </span></a>-->
 <div id="footer_position" onclick="location.href=\'/\';">Crystalwater.kiev.ua - доставка питьевой воды.
 		<!--<span>Все права данного сайта <!--[*pagetitle*] защищены!</span>!-->	
 					</div>
-							</div>';
+							</div>
+	<!-- .row -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script  type="text/javascript">
+$(document).ready(function(){
+$(window).scroll(function(){
+if ($(this).scrollTop() > 100) {
+$(\'.scrollup\').fadeIn();
+} else {
+$(\'.scrollup\').fadeOut();
+}
+});
+ 
+$(\'.scrollup\').click(function(){
+$("html, body").animate({ scrollTop: 0 }, 600);
+return false;
+}); 
+});
+</script>
+<script type="text/javascript">
+$(document).ready(function(){
+            $(\'.video_window\').easyModal();
+var path = $(".video_frame iframe")[0].src;
+            $(\'#video_window_open\').click(function(e){
+                $(\'.video_window\').trigger(\'openModal\');
+                $(".video_frame iframe")[0].src += "&autoplay=1";
+                e.preventDefault();
+            });
+            $(\'#video_window_close\').click(function(e){
+$(".video_frame iframe")[0].src = path;
+                $(\'.video_window\').trigger(\'closeModal\');
+                e.preventDefault();
+            });
+        });
+</script>
+<a class="scrollup">Наверх</a>
+';
 $c['header'] = '<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
         <head>
@@ -494,14 +543,14 @@ $c['Duplicate of contact'] = '<div id="Contacts">
   <span style="color: #222222; font-family: arial,helvetica,sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Звоните!</span>
   <span style="color: #222222; font-family: arial,helvetica,sans-serif;">&nbsp;
   <span style="color: #222222;"></span></span></span>';
-$c['right_block'] = '<div id="sidebar">
+$c['right_block'] = '<!--<div id="sidebar">
 													<div id="sidebar_position1">
 														<div class="zak">[[DocInfo? &docid=`33` &field=`pagetitle`]]</div>
 																	[[DocInfo? &docid=`33` &field=`introtext`]]
 					</div>
 											</div>
 
-';
+!-->';
 $c['menu'] = '<div id="menu_site">						
     <ul class="joomla-nav">
 <li id="current" class="selected item101">
@@ -522,7 +571,7 @@ $c['ditto_blog'] = '<div class="post" >
 	<h2 id="zag"> <a href="[(base_url)][~[+id+]~]">[+pagetitle+]</a> </h2>
           <div class="entry">
            <p><img src="[+blog_img+]" alt="[+alt+]" width="183" class="leftimg"/></p>	
-						  <p align="justify">[+introtext+]</p>	
+						  <p align="justify"class="ju">[+introtext+]</p>	
   <br><br>
 			  
           </div><!--/entry -->
@@ -565,6 +614,2483 @@ voda-h2o-stati/59-kak-podobrat-kompanii-kotorymi-osushchestvlyaetsya-dostavka-vo
 stat/4.html||12
 o-vode/13-novost-2.html||47
 voda-h2o-stat/35-ochishchenaya-voda-po-sisteme-ozonovaya-sterilizatsiya.html||20';
+$c['bonus'] = '        <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+        <!--Bootstrap-->
+        <script src="http://alaska.ua/bitrix/templates/alaska_promo/js/bootstrap.min.js"></script>
+        <link href="http://alaska.ua/bitrix/templates/alaska_promo/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+        <link rel="shortcut icon" href="http://alaska.ua/bitrix/templates/alaska_promo/img/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="http://alaska.ua/bitrix/templates/alaska_promo/img/favicon.ico" type="image/x-icon">
+
+        <link href=\'http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&subset=latin,cyrillic-ext\' rel=\'stylesheet\' type=\'text/css\'>
+        <link rel="stylesheet" type="text/css" href="http://alaska.ua/bitrix/templates/alaska_promo/css/style.css">
+        <script type="text/javascript" src="http://alaska.ua/bitrix/templates/alaska_promo/js/civem.js"></script>
+		<script type="text/javascript" src="http://alaska.ua/bitrix/templates/alaska_promo/js/jquery.scrollTo-1.4.3.1-min.js"></script>       
+        <!--benefits-->
+        <div class="benefits">
+            <div class="container">
+                <div class="row2">
+					
+					<h1>ПРЕИМУЩЕСТВА НАШЕЙ ДОСТАВКИ ВОДЫ </h1>
+ 
+<h2> Питьевая вода Крышталево Чиста – это кристально чистая вода европейского качества с 
+ Украины 
+</h2>
+                   
+                </div>
+                <div class="row">
+					
+<div class="col-sm-4 item_benefits item_benefits_1"> <img src="http://alaska.ua/bitrix/templates/alaska_promo/img/icon_1.png"  /> 
+  <p class="title_item_benefits">Экологичные источники добычи</p>
+ 
+  <p class="text_item_benefits">Поскольку производство находится вдали от мегаполиса, наша вода это чистый источник</p>
+ </div>
+ 
+<div class="col-sm-4 item_benefits"> <img src="http://alaska.ua/bitrix/templates/alaska_promo/img/icon_2.png"  /> 
+  <p class="title_item_benefits">Европейские стандарты качества ISO22000</p>
+ 
+  <p class="text_item_benefits">Производство воды "Кришталево-чиста" сертифицировано по европейскому стандарту НАССР ISO 22000</p>
+ </div>
+ 
+<div class="col-sm-4 item_benefits item_benefits_3"> <img src="http://alaska.ua/bitrix/templates/alaska_promo/img/icon_3.png"  /> 
+  <p class="title_item_benefits">Удобный сервис доставки</p>
+ 
+	<p class="text_item_benefits">Мы доставим Ваш заказ в самое удобное для Вас <br /> утреннее или вечернее время</p>
+ </div>
+                </div>
+            </div>
+        </div>
+
+        <!--extraction of water-->
+        <div class="extraction_of_water">
+            <div class="container">
+                <div class="row">
+					
+<h1>МЫ ЗАБОТИМСЯ О КАЧЕСТВЕ  ВОДЫ</h1>
+ 
+<h2>Качество нашей продукции подтверждается рядом факторов</h2>
+                    
+                </div>
+                <div class="row blocks">
+                    <div class="block_extraction col-xs-12">
+                        <div class="number text-center">
+                            <span>1</span>
+                        </div>
+                        <div class="extraction_of_water_text">
+                            <p>
+								 Мы добываем воду только в чистом регионе Украины                             
+                            </p>
+                        </div>
+                    </div>
+                    <div class="block_extraction col-xs-12">
+                        <div class="number text-center">
+                            <span>2</span>
+                        </div>
+                        <div class="extraction_of_water_text">
+                            <p>
+								Мы используем  НАССР ISO 22000 - систему эффективного управления факторами производства, которая существенно влияет на качество готовой продукции. Особое внимание мы уделяем санитарному состоянию производства                                
+                            </p>
+                        </div>
+                    </div>
+                    <div class="block_extraction col-xs-12">
+                        <div class="number text-center">
+                            <span>3</span>
+                        </div>
+                        <div class="extraction_of_water_text">
+                            <p>
+								Мы осуществляем розлив воды сразу же на месте добычи, что гарантирует 
+качество нашей продукции                   
+                            </p>
+                        </div>
+                    </div>
+                    <div class="block_extraction col-xs-12">
+                        <div class="number text-center">
+                            <span>4</span>
+                        </div>
+                        <div class="extraction_of_water_text">
+                            <p>
+								На нашем заводе мы используем автоматизированные современные линии по розливу воды                                 
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- origin of water-->
+        <div class="origin_of_water">
+            <div class="container">
+                <div class="row">
+                    <h1>
+						ПРОИСХОЖДЕНИЕ ВОДЫ					</h1>
+                </div>
+                <div class="row">
+                    <div id="carousel-example-generic1" class="carousel slide" data-ride="carousel">
+                        <!-- Indicators -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#carousel-example-generic1" data-slide-to="0"></li>
+                            <li data-target="#carousel-example-generic1" data-slide-to="1" class="active"></li>
+                            <li data-target="#carousel-example-generic1" data-slide-to="2"></li>
+                        </ol>
+
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                            <div class="item slide1_">
+                               <h2>
+								Схема добычи воды в городе Бровары</h2>
+                                <div class="img1"></div>
+                                <div class="text_slide">
+                                    <div class="col-lg-3 col-lg-offset-1 col-md-offset-2 col-md-3 col-sm-4">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>1</span>
+                                            </div>
+                                            <p>
+                                                ЗЕМЛЯ –
+                                                <span>10 М</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>2</span>
+                                            </div>
+                                            <p>
+                                                ГЛИНА –
+                                                <span>35 М</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>3</span>
+                                            </div>
+                                            <p>
+                                                ВОДА –
+                                                <span>10 М</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item active slide2_">
+                                <h2>Схема добычи воды в городе Бровары</h2>
+                                <div class="img2"></div>
+                                <div class="text_slide">
+                                    <div class="col-lg-3 col-lg-offset-1 col-md-4 col-sm-4">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>1</span>
+                                            </div>
+                                            <p>
+                                                ПЕСОК –
+                                                <span>4 М</span>
+                                            </p>
+                                        </div>
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>4</span>
+                                            </div>
+                                            <p>
+                                                ГЛИНА –
+                                                <span>3 М</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 col-sm-4">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>2</span>
+                                            </div>
+                                            <p>
+                                                СУГЛИНОК –
+                                                <span>2 М</span>
+                                            </p>
+                                        </div>
+                                        <div class="items1 ">
+                                            <div class="number_items text-center">
+                                                <span>5</span>
+                                            </div>
+                                            <p>
+                                                ПЕСОК –
+                                                <span>29 М</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-4 col-sm-4">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>3</span>
+                                            </div>
+                                            <p>
+                                                ПЕСОК –
+                                                <span>12 М</span>
+                                            </p>
+                                        </div>
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>6</span>
+                                            </div>
+                                            <p  class="two_line">
+                                                ИЗВЕСТНЯК -
+                                                <span class="none">
+                                                </span>
+                                                <span>32 М</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item slide3_">
+                                <h2>СХЕМА ДОБЫЧИ ВОДЫ</h2>
+                                <div class="img3"></div>
+                                <div class="text_slide">
+                                    <div class="col-xs-3">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>1</span>
+                                            </div>
+                                            <p>
+                                                ПЕСОК –
+                                                <span>5 М</span>
+                                            </p>
+                                        </div>
+                                        <div class="items1 ">
+                                            <div class="number_items text-center">
+                                                <span>5</span>
+                                            </div>
+                                            <p>
+                                                ГЛИНА –
+                                                <span>15 М</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>2</span>
+                                            </div>
+                                            <p>
+                                                ПЕСОК –
+                                                <span>25 М</span>
+                                            </p>
+                                        </div>
+                                        <div class="items1 ">
+                                            <div class="number_items text-center">
+                                                <span>6</span>
+                                            </div>
+                                            <p class="two_line">
+                                                МЕРГЕЛЬ –
+                                                <span>15 М</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>3</span>
+                                            </div>
+                                            <p>
+                                                ГЛИНА –
+                                                <span>10 М</span>
+                                            </p>
+                                        </div>
+                                        <div class="items1 ">
+                                            <div class="number_items text-center">
+                                                <span>7</span>
+                                            </div>
+                                            <p>
+                                                ПЕСОК –
+                                                <span>30 М</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>4</span>
+                                            </div>
+                                            <p>
+                                                ПЕСОК –
+                                                <span>35 М</span>
+                                            </p>
+                                        </div>
+                                        <div class="items1 ">
+                                            <div class="number_items text-center">
+                                                <span>8</span>
+                                            </div>
+                                            <p>
+                                                ГЛИНА –
+                                                <span>5 М</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="map_zavod">
+            <div class="container">
+                <div class="row map_320">
+                    <div class="title_map">
+						
+<p id="title_factory"> 							 						Адреса заводов по добыче и розливу воды:</p>
+ 
+<p id="factory1" style="display: none;">  Моршинский завод минеральных вод. </p>
+ 
+<p id="factory2" style="display: none;"> завод минеральных вод.<span>ЗАВОД</span> </p>
+ 
+<p id="factory3" style="display: none;"> Завод по очистке столовых вод.<span>"Кришталево-чиста питна вода"</span> </p>
+                       
+                    </div>
+                    <div class="map" id="mapcanvas"></div>
+                </div>
+            </div>
+        </div>
+        <div class="map_zavod_320">
+            <div class="container">
+                <div class="row map_show_320">
+                    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                            <div class="item item1 active">
+                                <div class="title_map_320">
+                                    <p>
+                                        Ìîðøèíñêèé çàâîä ìèíåðàëüíûõ âîä, Ëüâîâñêàÿ îáë., ã. Ìîðøèí, óë. Ãåîëîãîâ, 12à
+                                    </p>
+                                </div>
+                                <div class="logo_map">
+                                    <div></div>
+                                </div>
+                                <div class="map1"></div>
+                            </div>
+                            <div class="item item2">
+                                <div class="title_map_320">
+                                    <p>
+                                        Ìèðãîðîäñüêèé çàâîä ìèíåðàëüíûõ âîä, Ïîëòàâñêàÿ îáëàñòü, ã. Ìèðãîðîä, âóë. Ìèíçàâîäñêàÿ, 1
+                                    </p>
+                                </div>
+                                <div class="logo_map">
+                                    <div></div>
+                                </div>
+                                <div class="map2"></div>
+                            </div>
+                            <div class="item item3">
+                                <div class="title_map_320">
+                                    <p>
+                                        Ãîëîïðèñòàíñêèé çàâîä ìèíåðàëüíûõ âîä, Õåðñîíñêàÿ îáë., ã. Ãîëàÿ Ïðèñòàíü, óë. Áåðåãîâàÿ, 70
+                                    </p>
+                                </div>
+                                <div class="logo_map">
+                                    <div></div>
+                                </div>
+                                <div class="map3"></div>
+                            </div>
+                        </div>
+
+                        <!-- Controls -->
+                        <a class="left carousel-control" href="index-gclid=CLCy4_O1_sgCFabUcgod1vgJUg.html#carousel-example-generic" role="button" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left"></span>
+                        </a>
+                        <a class="right carousel-control" href="index-gclid=CLCy4_O1_sgCFabUcgod1vgJUg.html#carousel-example-generic" role="button" id="myCarousel" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right"></span>
+                        </a>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+        <!-- composition of water -->
+        <div class="composition_of_water">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 composition_table" >
+						<p>
+                            СОСТАВ ВОДЫ "КРИШТАЛЕВО-ЧИСТА ПИТНА ВОДА"
+                        </p>
+                        <p class="text_2">
+                            Сбалансированный состав воды "Кришталево-чиста питна вода" позволяет ее использовать как для приготовления пищи, 
+							<br />так и для регулярного употребления в чистом виде
+                        </p>                        
+                        <div class="col-xs-12 col-xs-offset-0 col-md-10 col-md-offset-1 table_block">
+							
+<table class="composition_lg"> 
+  <tbody> 
+    <tr> <td>ПОКАЗАТЕЛИ</td> <td>Кришталево-чиста</td> <td>НОРМА СанПИН</td> <td>СООТВЕТСВИЕ  
+        <br />
+       НОРМАМ</td> </tr>
+   
+    <tr> <td>рН</td> <td>6,5-7,4</td> <td>6,5-8,5</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td>Кальций, мг/л</td> <td>0</td> <td>&le;130</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td>Магний, мг/л</td> <td>0</td> <td>&le;80</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td>Хлориды, мг/л</td> <td>0</td> <td>&le;250</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td>Сульфаты, мг/л</td> <td>0</td> <td>&le;250</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td>Общая щелочность, ммоль/л</td> <td>0</td> <td>&le;6,5</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td>Общая жесткость, ммоль/л</td> <td>0</td> <td>&le;7,0</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td>Сухой остаток, мг/л</td> <td>0</td> <td>&le;1000</td> <td class="img_cell"></td> </tr>
+   </tbody>
+ </table>
+ 
+<table class="composition_xs"> 
+  <tbody> 
+    <tr> <td>Показатели</td> <td>Норма с<span>ан</span>пин</td> <td>норма</td> </tr>
+   
+    <tr> <td><span>рН</span> 
+        <br />
+       6,5-8,3</td> <td>6,5-8,5</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td><span>Кальций</span> 
+        <br />
+       5-15 мг/л</td> <td>?130</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td><span>Магний</span> 
+        <br />
+       2-10 мг/л</td> <td>?80</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td><span>Хлориды</span> 
+        <br />
+       5-40 мг/л</td> <td>?250</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td><span>Сульфаты</span> 
+        <br />
+       <15 мг/л</td> <td>?250</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td><span>Общая щелочность</span> 
+        <br />
+       0,9-2,5 ммоль/л</td> <td>?6,5</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td><span>Îáùàÿ æåñòêîñòü</span> 
+        <br />
+       0,9-1,3 ììîëü/ë</td> <td>?7,0</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td><span>Ñóõîé îñòàòîê</span> 
+        <br />
+       100-150 ìã/ë</td> <td>?1000</td> <td class="img_cell"></td> </tr>
+   </tbody>
+ </table>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- who_we_work-->
+        <div class="who_we_work">
+            <div class="container">
+                <div class="row">
+					<h1>Как мы работаем?</h1>
+                    <h2>Оставляйте заявку любым удобным для вас способом, наш оператор перезвонит для уточнения деталей заказа
+</h2>                    
+                </div>
+                <div class="row">
+                    <div class="col-sm-4 col-xs-12">
+                        <div class="work">
+							<div class="title_work1 title_work1_1">
+                                <p>
+                                    
+                                    1. Оставляете
+                               
+                                </p>
+                            </div>
+                            <div class="discription_work">
+                                <p>онлайн на сайте или заказываете обратный звонок</p>
+                            </div>                            
+                        </div>
+                        <div class="line"></div>
+                        <div class="line4"></div>
+                    </div>
+                    <div class="col-sm-4 col-xs-12">
+                        <div class="work center-block">
+							
+<div class="title_work1 title_work2"> 
+  <p> 2. Связываемся </p>
+ </div>
+ 
+<div class="discription_work"> 
+  <p> наш оператор перезвонит для уточнения удобного времени доставки</p>
+ </div>
+                           
+                        </div>
+                        <div class="line2"></div>
+                        <div class="line4"></div>
+                    </div>
+
+                    <div class="col-sm-4 col-xs-12">
+                        <div class="work pull-right">
+							
+<div class="title_work1 title_work3"> 
+  <p> 3. Доставляем </p>
+ </div>
+ 
+<div class="discription_work"> 
+  <p>доставляем воду и другие товары бесплатно в оговоренное время</p>
+ </div>
+                             
+                    </div>
+                </div>
+            </div>
+        </div>
+		</div>
+        <!-- cal_price-->
+        <div class="cal_price">
+            <div class="container">
+                <div class="row">
+					<h1>
+                        
+                        Расчитайте цену в Вашем городе и области
+                    
+                    </h1>
+                    <h2>Цены на воду в некоторых городах могут отличаться</h2>					
+                   
+                </div>
+                <div class="row">
+                    <p class="footnote">
+					
+					*Без учета залоговой тары (детальнее в <a href="Umovi.pdf" >Официальных правилах акции</a>)					
+					</p>
+					
+					 <script type="text/javascript">if (window.location.hash != \'\' && window.location.hash != \'#\') top.BX.ajax.history.checkRedirectStart(\'bxajaxid\', \'9959ed75759862de7f1df0ddf52cb47f\')</script><div id="comp_9959ed75759862de7f1df0ddf52cb47f">
+<script>
+	$(document).ready(function(){
+		$("select#region").change(function(){
+			var select = $("option:selected", this).val();
+			var name = $(this).attr("name");
+			
+			$("#check input[name=region]").val(select);
+			$("#check input[type=submit]").trigger("click");
+		});
+		$("select#city").change(function(){
+			var select = $("option:selected", this).val();
+			var name = $(this).attr("name");
+			
+			$("#check input[name=city]").val(select);
+			$("#check input[type=submit]").trigger("click");
+		});
+		$("input[type=radio]").click(function(){
+			var select = $(this).val();
+			var name = $(this).attr("name");
+			
+			$("#check input[name=delivery]").val(select);
+			$("#check input[type=submit]").trigger("click");
+		});
+		$("input#submit").click(function(){
+			window.location.href = "/m/index/call-me/";
+		});
+				
+			$("input[name=count]").keyup(function(){
+				var select = $(this).val();
+				$("#check input[name=count]").val(select);
+				
+				window.basketTimeoutID = 0;
+				window.basketTimeout = 1000;
+				
+				window.basketTimeoutID = setTimeout(function(){
+					 $("#check input[type=submit]").trigger("click");
+				}, window.basketTimeout);
+			});
+			
+			})
+</script>
+<p class="footnote">
+	&nbsp;
+			<span class="note" >**Стоимость за 1 бутыль, при заказе от 2х бутылей.</span>
+	</p>
+<div style="display:none">
+	
+<form id="check" enctype="multipart/form-data" method="POST" action=""><input type="hidden" name="bxajaxid" id="bxajaxid_9959ed75759862de7f1df0ddf52cb47f_XrQFCj" value="9959ed75759862de7f1df0ddf52cb47f" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_XrQFCj(){
+	var obForm = top.BX(\'bxajaxid_9959ed75759862de7f1df0ddf52cb47f_XrQFCj\').form;
+	top.BX.bind(obForm, \'submit\', function() {BX.ajax.submitComponentForm(this, \'comp_9959ed75759862de7f1df0ddf52cb47f\', true)});
+	top.BX.removeCustomEvent(\'onAjaxSuccess\', _processform_XrQFCj);
+}
+if (top.BX(\'bxajaxid_9959ed75759862de7f1df0ddf52cb47f_XrQFCj\'))
+	_processform_XrQFCj();
+else
+	top.BX.addCustomEvent(\'onAjaxSuccess\', _processform_XrQFCj);
+</script>
+		<input type="hidden" id="checkform" name="checkform" value="" />
+		
+		<input type="hidden" name="region" value="">
+		<input type="hidden" name="city" value="">
+		<input type="hidden" name="delivery" value="">
+		<input type="hidden" name="count" value="">
+		
+		<input type="submit">
+	</form>
+</div>
+
+
+	
+<form class="send_form" enctype="multipart/form-data" method="POST" action="" name="getPrice"><input type="hidden" name="bxajaxid" id="bxajaxid_9959ed75759862de7f1df0ddf52cb47f_dCjmSk" value="9959ed75759862de7f1df0ddf52cb47f" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_dCjmSk(){
+	var obForm = top.BX(\'bxajaxid_9959ed75759862de7f1df0ddf52cb47f_dCjmSk\').form;
+	top.BX.bind(obForm, \'submit\', function() {BX.ajax.submitComponentForm(this, \'comp_9959ed75759862de7f1df0ddf52cb47f\', true)});
+	top.BX.removeCustomEvent(\'onAjaxSuccess\', _processform_dCjmSk);
+}
+if (top.BX(\'bxajaxid_9959ed75759862de7f1df0ddf52cb47f_dCjmSk\'))
+	_processform_dCjmSk();
+else
+	top.BX.addCustomEvent(\'onAjaxSuccess\', _processform_dCjmSk);
+</script>
+		<div class="form-group select_1">
+			<div class="styled-select">
+				<select class="styled " type="text" value="Îáëàñòü" id="region" name="state">
+					<option>Область</option>
+											<option value="39" >Волынская область</option>
+											<option value="37" >АР Крым</option>
+											<option value="38" >Винницкая область</option>
+											<option value="26574" >Вовчанський р-н</option>
+											<option value="52" >Днепропетровская</option>
+											<option value="53" >Донецкая область</option>
+											<option value="54" >Æèòîìèðñêàÿ îáëàñòü</option>
+											<option value="55" >Çàêàðïàòñêàÿ</option>
+											<option value="56" >Çàïîðîæñêàÿ îáëàñòü</option>
+											<option value="57" >Èâàíî-Ôðàíêîâñêàÿ</option>
+											<option value="58" >Êèåâñêàÿ</option>
+											<option value="59" >Êèðîâîãðàäñêàÿ</option>
+											<option value="60" >Ëóãàíñêàÿ îáëàñòü</option>
+											<option value="61" >Ëüâîâñêàÿ îáëàñòü</option>
+											<option value="62" >Íèêîëàåâñêàÿ îáëàñòü</option>
+											<option value="63" >Îäåññêàÿ îáëàñòü</option>
+											<option value="64" >Ïîëòàâñêàÿ îáëàñòü</option>
+											<option value="65" >Ðîâåíñêàÿ</option>
+											<option value="108" >Ñåâàñòîïîëü</option>
+											<option value="66" >Ñóìñêàÿ</option>
+											<option value="67" >Òåðíîïîëüñêàÿ</option>
+											<option value="68" >Õàðüêîâñêàÿ îáëàñòü</option>
+											<option value="69" >Õåðñîíñêàÿ îáëàñòü</option>
+											<option value="70" >Õìåëüíèöêàÿ îáëàñòü</option>
+											<option value="71" >×åðêàññêàÿ îáëàñòü</option>
+											<option value="100" >×åðíèãîâñêàÿ îáëàñòü</option>
+											<option value="26577" >×åðí³ã³âñüêèé ð-í</option>
+											<option value="72" >×åðíîâèöêàÿ</option>
+									</select>
+			</div>
+		</div>
+		<div class="form-group select_1">
+			<div class="styled-select">
+				<select class="styled " name="city" id="city" value="Ãîðîä" type="text">
+					<option>Ãîðîä</option>
+									</select>
+			</div>
+		</div>
+		<div class="form-group">
+			<input value="1" class="form-control" required="" placeholder="Êîëè÷åñòâî áóòûëåé" data-errormessage-value-missing="Ýòî ïîëå îáÿçàòåëüíî äëÿ çàïîëíåíèÿ" name="count" maxlength="2" type="text">
+		</div>
+		<div class="rezult">
+			<p>Стоимость<span style="vertical-align:top">**</span></p>
+			<p>
+													<span>íåò öåíû</span>
+								
+			</p>
+		</div>
+	</form>
+
+
+
+
+
+</div><script type="text/javascript">if (top.BX.ajax.history.bHashCollision) top.BX.ajax.history.checkRedirectFinish(\'bxajaxid\', \'9959ed75759862de7f1df0ddf52cb47f\');</script><script type="text/javascript">top.BX.ready(BX.defer(function() {window.AJAX_PAGE_STATE = new top.BX.ajax.component(\'comp_9959ed75759862de7f1df0ddf52cb47f\'); top.BX.ajax.history.init(window.AJAX_PAGE_STATE);}))</script>                </div>
+            </div>
+        </div>
+
+        <!--equipment -->
+        <div class="equipment">
+            <div class="container">
+                <div class="row">
+					 <h1>Оборудование для налива воды</h1>
+                    <h2>
+                        
+                        Если вы заказываете доставку воды в первый раз, вам понадобится оборудование для налива воды.
+                        
+                        <span>
+                            <br></span>
+                        
+                        Закажите его у нас, доставка бесплатна.
+                    
+                    </h2>                   
+                </div>
+				
+
+		
+	<div class="row">
+		<ul class=" shadowbox col-md-offset-0 col-sm-offset-1">
+
+				
+
+		
+			<li class="li_1" id="bx_3966226736_567193">
+				<a href="../upload/iblock/2fb/4.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/d36/bg_commodity1.1.jpg" alt="">
+						<span class="shadow">
+							<span class="loop"></span>
+						</span>
+					</span>
+				</a>
+				<p class="name_tovar">
+					
+					Помпа					<br></p>
+			</li>
+				
+				
+
+		
+			<li class="li_1" id="bx_3966226736_567195">
+				<a href="../upload/iblock/76b/7.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/592/bg_commodity2.2.jpg" alt="">
+						<span class="shadow">
+							<span class="loop"></span>
+						</span>
+					</span>
+				</a>
+				<p class="name_tovar">
+					 КУЛЕР НАСТОЛЬНЫЙ БЕЗ ОХЛАЖДЕНИЯ					<br></p>
+			</li>
+				
+				
+
+		
+			<li class="li_1" id="bx_3966226736_567196">
+				<a href="../upload/iblock/5c2/5.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/e8a/bg_commodity3.3.jpg" alt="">
+						<span class="shadow">
+							<span class="loop"></span>
+						</span>
+					</span>
+				</a>
+				<p class="name_tovar">
+					 КУЛЕР НАСТОЛЬНЫЙ С ОХЛАЖДЕНИЕМ					<br></p>
+			</li>
+				
+				
+
+		
+			<li class="li_1" id="bx_3966226736_567197">
+				<a href="../upload/iblock/d93/6.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/747/bg_commodity4.4.jpg" alt="">
+						<span class="shadow">
+							<span class="loop"></span>
+						</span>
+					</span>
+				</a>
+				<p class="name_tovar">
+					 КУЛЕР НАПОЛЬНЫЙ СТАНДАРТ					<br></p>
+			</li>
+				
+		
+	</ul>
+</div>
+
+	
+
+                
+            </div>
+        </div>
+
+      <!--reviews-->
+        <div class="reviews">
+            <div class="container">
+                <div class="row">
+					<h1>ОТЗЫВЫ КЛИЕНТОВ</h1>
+                    <h2>
+                        Слова благодарности от постоянных клиентов, которые подтверждают качество наших услуг
+                    </h2>                    
+                </div>
+                
+						
+<div class="row">
+	<div id="carousel-example-generic2" class="carousel slide" data-ride="carousel">
+		
+				
+		<ol class="carousel-indicators">
+							<li data-target="#carousel-example-generic2" data-slide-to="0" class="active"></li>
+											<li data-target="#carousel-example-generic2" data-slide-to="1" ></li>
+											<li data-target="#carousel-example-generic2" data-slide-to="2" ></li>
+									</ol>
+		
+	<div class="carousel-inner">
+		<div class="item active">
+					
+
+							
+				
+					<div class="col-md-6 col-sm-12" id="bx_1970176138_567176">
+						<div class="img"></div>
+						<div class="col-xs-4 photo-client" style="background:url(\'../upload/iblock/0ce/client2.png\') repeat scroll 0 0 rgba(0, 0, 0, 0)"></div>
+						<div class="col-xs-8">
+							<p class="name_client">Владимир Богатырев</p>
+							<p class="text_reviews">
+								Выражаю огромную благодарность ИДС за то, что на протяжении долгого времени качество данной продукции остается на достойном уровне. И поэтому ценители качества, в том числе и я, остаются с вами. Так держать:)</p>
+						</div>
+					</div>
+					
+								
+
+					
+
+							
+				
+					<div class="col-md-6 col-sm-12" id="bx_1970176138_567177">
+						<div class="img"></div>
+						<div class="col-xs-4 photo-client" style="background:url(\'../upload/iblock/4af/client1.png\') repeat scroll 0 0 rgba(0, 0, 0, 0)"></div>
+						<div class="col-xs-8">
+							<p class="name_client">Марина</p>
+							<p class="text_reviews">
+								Пью эту воду уже 3 года, доставляют всегда нормально, заказываю вообще через сайт (зачем звонить - эра интернета). Отличное соотношение цены и качества. Большое вам спасибо за водичку и за сервис!</p>
+						</div>
+					</div>
+					
+													</div><div class="item">
+				
+
+					
+
+							
+				
+					<div class="col-md-6 col-sm-12" id="bx_1970176138_567178">
+						<div class="img"></div>
+						<div class="col-xs-4 photo-client" style="background:url(\'../upload/iblock/819/client3.png\') repeat scroll 0 0 rgba(0, 0, 0, 0)"></div>
+						<div class="col-xs-8">
+							<p class="name_client">Наталья</p>
+							<p class="text_reviews">
+								Удивительный сервис. Доставили в день заказа, в пятницу, во Львове, в предновогодние дни. Спасибо, не оставили без воды под НГ :) и курьеры у вас вежливые и с хорошим настроением. Успехов в Новом году!</p>
+						</div>
+					</div>
+					
+								
+
+					
+
+							
+				
+					<div class="col-md-6 col-sm-12" id="bx_1970176138_567179">
+						<div class="img"></div>
+						<div class="col-xs-4 photo-client" style="background:url(\'../upload/iblock/d4e/client4.png\') repeat scroll 0 0 rgba(0, 0, 0, 0)"></div>
+						<div class="col-xs-8">
+							<p class="name_client">Арсений</p>
+							<p class="text_reviews">
+								Заказываю в Днепропетровской области, всё гуд! Увидел в рекламе, позвонил, пообещали перезвонить, на следующий день позвонили и привезли вовремя, с доставкой проблем не было, вода нравится!</p>
+						</div>
+					</div>
+					
+													</div><div class="item">
+				
+
+					
+
+							
+				
+					<div class="col-md-6 col-sm-12" id="bx_1970176138_567180">
+						<div class="img"></div>
+						<div class="col-xs-4 photo-client" style="background:url(\'../upload/iblock/56f/client5.png\') repeat scroll 0 0 rgba(0, 0, 0, 0)"></div>
+						<div class="col-xs-8">
+							<p class="name_client">Валентина</p>
+							<p class="text_reviews">
+								Нормальная вода, вкусная! Беру у них уже пару лет, в Запорожье. Дети пьют, кумовья пьют, реально много знакомых пьёт Аляску! Нормально ребята привозят, я довольна. После неё пить с крана - это, конечно, ужас.					</p>
+						</div>
+					</div>
+					
+								
+
+					
+
+							
+				
+					<div class="col-md-6 col-sm-12" id="bx_1970176138_567181">
+						<div class="img"></div>
+						<div class="col-xs-4 photo-client" style="background:url(\'../upload/iblock/ce8/client6.png\') repeat scroll 0 0 rgba(0, 0, 0, 0)"></div>
+						<div class="col-xs-8">
+							<p class="name_client">Антон</p>
+							<p class="text_reviews">
+								Очень хорошая вода, нам нравится! Нареканий по поводу приема заказов нет вообще. С обслуживанием все в порядке: привозят по моей просьбе до 11 дня, заносят в квартиру, ставят где говорю, сотрудники вежливые, спасибо!							</p>
+						</div>
+					</div>
+					
+								
+
+					</div>
+		</div>
+	</div>
+</div>
+
+	
+
+                       
+                   
+            </div>
+        </div>
+
+        <!--certificate-->
+        <div class="certificate">
+            <div class="container">
+                <div class="row">
+					<h1>НАШИ СЕРТИФИКАТЫ</h1>
+                    <h2>
+                        Качество воды Аляска подтверждено соответствующими сертификатами
+                    </h2>                    
+                </div>
+				
+
+		
+	<div class="row">
+		<ul class="list-inline shadowbox col-md-offset-0 col-sm-offset-1">
+
+				
+
+		
+			<li id="bx_40480796_567200">
+				<a href="../upload/iblock/25c/conclusion1.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/6b3/conclusion1.jpg" alt="">
+						<span class="shadow">
+							<span class="loop">
+								<span>Âèñíîâîê ñàí³òàðíî-åï³äåì³îëîã³÷íî¿ åêñïåðòèçè</span>
+							</span>
+						</span>
+					</span>
+				</a>
+			</li>	
+			
+				
+
+		
+			<li id="bx_40480796_567201">
+				<a href="../upload/iblock/d9f/conclusion2.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/888/conclusion2.jpg" alt="">
+						<span class="shadow">
+							<span class="loop">
+								<span>Âèñíîâîê ñàí³òàðíî-åï³äåì³îëîã³÷íî¿ åêñïåðòèçè</span>
+							</span>
+						</span>
+					</span>
+				</a>
+			</li>	
+			
+				
+
+		
+			<li id="bx_40480796_567202">
+				<a href="../upload/iblock/983/sert_alaska.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/c8a/sert_alaska.jpg" alt="">
+						<span class="shadow">
+							<span class="loop">
+								<span> Ñåðòèô³êàò â³äïîâ³äíîñò³ &quot;Âîäà ïèòíà ôàñîâàíà&quot;</span>
+							</span>
+						</span>
+					</span>
+				</a>
+			</li>	
+			
+				
+
+		
+			<li id="bx_40480796_567203">
+				<a href="../upload/iblock/bf4/vidpovidnosti1.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/d89/vidpovidnosti1.jpg" alt="">
+						<span class="shadow">
+							<span class="loop">
+								<span>Ñåðòèô³êàò  ÍÀÑÑÐ ISO 22000</span>
+							</span>
+						</span>
+					</span>
+				</a>
+			</li>	
+			
+				
+
+		
+			<li id="bx_40480796_1020297">
+				<a href="../upload/iblock/f2c/vidpovidnosti2.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/da9/vidpovidnosti2.jpg" alt="">
+						<span class="shadow">
+							<span class="loop">
+								<span>Ñåðòèô³êàò Àëÿñêà 18.9 Ïîëòàâà</span>
+							</span>
+						</span>
+					</span>
+				</a>
+			</li>	
+			
+				
+
+		
+		
+			
+		
+	</ul>
+</div>
+
+	
+
+				
+				
+                
+                <div class="row">
+                    <h1>
+					Àññîöèàöèè, â êîòîðûõ ìû ñîñòîèì					
+					</h1>
+                </div>
+                <div class="row association">
+                    <div class="col-md-4 col-md-offset-2"></div>
+                    <div class="col-md-4"></div>
+                </div>
+            </div>
+        </div>
+       <!--delivery-->
+     <!--     <div class="delivery">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-7 col-md-7 col-xs-12">
+						<h1 class="text-left">Äîñòàâêà âîäû c</h1>
+                        <h2 class="text-left">êóðîðòíûõ ðåãèîíîâ óêðàèíû</h2>                       
+                    </div>
+					<div class="col-sm-5 col-md-5 col-xs-12 form_">
+						<div class="form">
+							<div class="arrow arrow_2"></div>
+								<p class="text_3">Îñòàëèñü âîïðîñû?</p>
+							<p class="text_4">
+								Çàêàæèòå îáðàòíûé çâîíîê
+							</p>					
+					<script type="text/javascript">if (window.location.hash != \'\' && window.location.hash != \'#\') top.BX.ajax.history.checkRedirectStart(\'bxajaxid\', \'06045fdc46bf73f92556d0e05eeefc14\')</script><div id="comp_06045fdc46bf73f92556d0e05eeefc14">
+
+
+	
+
+	
+		
+	
+<form class=\'callback_promo\' name="SIMPLE_FORM_19" action="" method="POST" enctype="multipart/form-data"><input type="hidden" name="bxajaxid" id="bxajaxid_06045fdc46bf73f92556d0e05eeefc14_KurokV" value="06045fdc46bf73f92556d0e05eeefc14" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_KurokV(){
+	var obForm = top.BX(\'bxajaxid_06045fdc46bf73f92556d0e05eeefc14_KurokV\').form;
+	top.BX.bind(obForm, \'submit\', function() {BX.ajax.submitComponentForm(this, \'comp_06045fdc46bf73f92556d0e05eeefc14\', true)});
+	top.BX.removeCustomEvent(\'onAjaxSuccess\', _processform_KurokV);
+}
+if (top.BX(\'bxajaxid_06045fdc46bf73f92556d0e05eeefc14_KurokV\'))
+	_processform_KurokV();
+else
+	top.BX.addCustomEvent(\'onAjaxSuccess\', _processform_KurokV);
+</script><input type="hidden" name="sessid" id="sessid_1" value="fd8146eb35186aff5234d50f9eba29a5" /><input type="hidden" name="WEB_FORM_ID" value="19" />	
+			<div class="form-group">
+					<input 
+						placeholder="Èìÿ"
+						type="text" 
+						class="form-control"
+						name="form_text_129" 
+						placeholder="Èìÿ" 
+						value=""
+					/>
+			</div>
+			<div class="form-group">
+					<input 
+						placeholder="Ãîðîä"
+						type="text" 
+						class="form-control"
+						name="form_text_131" 
+						placeholder="Ãîðîä" 
+						value=""
+					/>
+			</div>
+				
+					
+			
+						<div class="form-group select_1 code">
+				<div class="styled-select">
+					<select name="form_text_327" class="styled " style="width:100px">
+						<option value="" disabled="disabled" selected="selected">Îïåðàòîð</option>
+													<option  value="039">039</option>
+													<option  value="050">050</option>
+													<option  value="063">063</option>
+													<option  value="066">066</option>
+													<option  value="067">067</option>
+													<option  value="068">068</option>
+													<option  value="073">073</option>
+													<option  value="091">091</option>
+													<option  value="092">092</option>
+													<option  value="093">093</option>
+													<option  value="094">094</option>
+													<option  value="095">095</option>
+													<option  value="096">096</option>
+													<option  value="097">097</option>
+													<option  value="098">098</option>
+													<option  value="099">099</option>
+												 
+					</select>
+				</div>
+				<input 
+					type="text" 
+					class="form-control"
+					maxlength="7"
+					name="form_text_130" 
+					placeholder="Òåëåôîí" 
+					value=""
+				/>
+			</div>
+																		<div class="radio radio_1">
+						<label>
+							<input 
+								name="form_radio_TYPE_CLIENT"
+								type="radio"
+																	required="required"
+																								value="132"
+							>
+							<span></span>
+							Íîâèé êëèåíò						</label>
+					</div>
+														<div class="radio ">
+						<label>
+							<input 
+								name="form_radio_TYPE_CLIENT"
+								type="radio"
+																	required="required"
+																								value="133"
+							>
+							<span></span>
+							Ñóùåñòâóþùèé êëèåíò						</label>
+					</div>
+							
+	<input type="hidden" name="web_form_apply" value="Y" />
+	<input type="submit" class="btn btn_gift" name="web_form_submit" value="ÇÀÊÀÇÀÒÜ">
+	</form>
+
+	
+</div><script type="text/javascript">if (top.BX.ajax.history.bHashCollision) top.BX.ajax.history.checkRedirectFinish(\'bxajaxid\', \'06045fdc46bf73f92556d0e05eeefc14\');</script><script type="text/javascript">top.BX.ready(BX.defer(function() {window.AJAX_PAGE_STATE = new top.BX.ajax.component(\'comp_06045fdc46bf73f92556d0e05eeefc14\'); top.BX.ajax.history.init(window.AJAX_PAGE_STATE);}))</script>					<p class="text_action">
+						*Èìååòñÿ â âèäó ïðèîáðåòåíèå 1 áóòûëÿ âîäû ÒÌ Àëÿñêà 18,9 ë ïî öåíå 1 ãðí ñ ÍÄÑ áåç ó÷åòà ñòîèìîñòè çàëîãîâîé òàðû						
+					</p>
+                   </div>
+</div>
+                </div>
+            </div> </div> !-->
+<script>
+			// SELFSCRIPT
+			$(document).ready(function(){
+				/*
+				$(".selectpicker").on("click", function(){
+					var parent = $(this).parent(".styled");
+					
+					if(parent.hasClass("open"))
+					{
+						parent.removeClass("open");
+					}
+					else
+					{
+						parent.addClass("open");
+					}
+				});
+				*/
+			})
+		</script>
+        <script src="http://maps.google.com/maps/api/js?v=3.5&sensor=false"></script>
+        <script src="http://alaska.ua/bitrix/templates/alaska_promo/js/maps.js"></script>
+        <script src="http://alaska.ua/bitrix/templates/alaska_promo/js/infobox.js"></script>
+
+';
+$c['Duplicate of bonus'] = '        <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+        <script src="http://malsup.github.com/jquery.form.js"></script>
+        <!--Bootstrap-->
+        <script src="http://alaska.ua/bitrix/templates/alaska_promo/js/bootstrap.min.js"></script>
+        <link href="http://alaska.ua/bitrix/templates/alaska_promo/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+
+        <link rel="shortcut icon" href="http://alaska.ua/bitrix/templates/alaska_promo/img/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="http://alaska.ua/bitrix/templates/alaska_promo/img/favicon.ico" type="image/x-icon">
+
+        <link href=\'http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&subset=latin,cyrillic-ext\' rel=\'stylesheet\' type=\'text/css\'>
+        <link rel="stylesheet" type="text/css" href="http://alaska.ua/bitrix/templates/alaska_promo/css/style.css">
+        <script type="text/javascript" src="http://alaska.ua/bitrix/templates/alaska_promo/js/civem.js"></script>
+		<script type="text/javascript" src="http://alaska.ua/bitrix/templates/alaska_promo/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+	
+        <link rel="stylesheet" type="text/css" href="http://alaska.ua/bitrix/templates/alaska_promo/shadowbox-3.0.3/shadowbox.css">
+        <script type="text/javascript" src="http://alaska.ua/bitrix/templates/alaska_promo/shadowbox-3.0.3/shadowbox.js"></script>
+
+        <link rel="stylesheet" type="text/css" href="http://alaska.ua/bitrix/templates/alaska_promo/css/slick.css">
+        <link rel="stylesheet" type="text/css" href="http://alaska.ua/bitrix/templates/alaska_promo/css/slick-theme.css">
+        <script type="text/javascript" src="http://alaska.ua/bitrix/templates/alaska_promo/js/slick.min.js"></script>
+
+        <link rel="stylesheet" type="text/css" href="http://alaska.ua/bitrix/templates/alaska_promo/css/bootstrap-select.css">
+        <script type="text/javascript" src="http://alaska.ua/bitrix/templates/alaska_promo/js/bootstrap-select.min.js"></script>
+        <script type="text/javascript" src="http://alaska.ua/bitrix/templates/alaska_promo/js/script.js"></script>
+        <script type="text/javascript">Shadowbox.init();</script>
+		<!-- Google Tag Manager -->
+		<noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-KTG247"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta name="robots" content="index, follow" />
+<link href="http://alaska.ua/bitrix/cache/css/s3/alaska_promo/kernel_main/kernel_main.css?144490895436635" type="text/css"  rel="stylesheet" />
+<link href="http://alaska.ua/bitrix/cache/css/s3/alaska_promo/template_4a3ee848673c3db429f790cac2c0effc/template_4a3ee848673c3db429f790cac2c0effc.css?14449089543419" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess==\'object\') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({\'JS_CORE_LOADING\':\'Çàãðóçêà...\',\'JS_CORE_NO_DATA\':\'- Íåò äàííûõ -\',\'JS_CORE_WINDOW_CLOSE\':\'Çàêðûòü\',\'JS_CORE_WINDOW_EXPAND\':\'Ðàçâåðíóòü\',\'JS_CORE_WINDOW_NARROW\':\'Ñâåðíóòü â îêíî\',\'JS_CORE_WINDOW_SAVE\':\'Ñîõðàíèòü\',\'JS_CORE_WINDOW_CANCEL\':\'Îòìåíèòü\',\'JS_CORE_H\':\'÷\',\'JS_CORE_M\':\'ì\',\'JS_CORE_S\':\'ñ\',\'JSADM_AI_HIDE_EXTRA\':\'Ñêðûòü ëèøíèå\',\'JSADM_AI_ALL_NOTIF\':\'Ïîêàçàòü âñå\',\'JSADM_AUTH_REQ\':\'Òðåáóåòñÿ àâòîðèçàöèÿ!\',\'JS_CORE_WINDOW_AUTH\':\'Âîéòè\',\'JS_CORE_IMAGE_FULL\':\'Ïîëíûé ðàçìåð\'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({\'LANGUAGE_ID\':\'ru\',\'FORMAT_DATE\':\'DD.MM.YYYY\',\'FORMAT_DATETIME\':\'DD.MM.YYYY HH:MI:SS\',\'COOKIE_PREFIX\':\'BITRIX_SM\',\'SERVER_TZ_OFFSET\':\'7200\',\'SITE_ID\':\'s3\',\'USER_ID\':\'\',\'SERVER_TIME\':\'1446903622\',\'USER_TZ_OFFSET\':\'0\',\'USER_TZ_AUTO\':\'Y\',\'bitrix_sessid\':\'fd8146eb35186aff5234d50f9eba29a5\'});</script>
+
+
+<script type="text/javascript" src="http://alaska.ua/bitrix/cache/js/s3/alaska_promo/kernel_main/kernel_main.js?1445236181317528"></script>
+<script type="text/javascript">BX.setJSList([\'/bitrix/js/main/core/core.js?142263254897612\',\'/bitrix/js/main/core/core_ajax.js?142263254535278\',\'/bitrix/js/main/json/json2.min.js?14113784043467\',\'/bitrix/js/main/core/core_ls.js?141137840410330\',\'/bitrix/js/main/session.js?14132693493170\',\'/bitrix/js/main/core/core_popup.js?142263254539406\',\'/bitrix/js/main/core/core_window.js?141137840496525\',\'/bitrix/js/main/utils.js?141137840430972\']); </script>
+<script type="text/javascript">BX.setCSSList([\'/bitrix/js/main/core/css/core.css?14226325455336\',\'/bitrix/js/main/core/css/core_popup.css?141326934528664\',\'/bitrix/templates/alaska_promo/components/bitrix/form.result.new/express_order/style.css?1418206222728\',\'/bitrix/templates/alaska_promo/components/bitrix/main.include/check_price_promo/style.css?142867020425\',\'/bitrix/templates/alaska_promo/components/bitrix/catalog.section/equipment_slider/style.css?1428571854112\',\'/bitrix/templates/alaska_promo/components/bitrix/catalog.section/otzyvy/style.css?1428569389112\',\'/bitrix/templates/alaska_promo/components/bitrix/catalog.section/certificat/style.css?1428573601112\',\'/bitrix/templates/alaska_promo/components/bitrix/form.result.new/callback_promo/style.css?1433407215768\']); </script>
+<script type="text/javascript" src="http://alaska.ua/bitrix/templates/alaska_promo/editor/script.js"></script>
+<link href="http://alaska.ua/bitrix/templates/alaska_promo/editor/styles.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">
+bxSession.Expand(1440, \'fd8146eb35186aff5234d50f9eba29a5\', false, \'dcb9ac6ee44b5c3bd247dc1abfd7a961\');
+</script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "ff1dc48ef27139ad2fad89e1c9265ae5"]); _ba.push(["host", "alaska.ua"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+		       
+        <!--benefits-->
+        <div class="benefits">
+            <div class="container">
+                <div class="row2">
+					
+					<h1>ПРЕИМУЩЕСТВА НАШЕЙ ДОСТАВКИ ВОДЫ </h1>
+ 
+<h2> Питьевая вода Крышталево чиста – это кристально чистая вода европейского качества с 
+ Украины 
+  <br />
+</h2>
+                   
+                </div>
+                <div class="row">
+					
+<div class="col-sm-4 item_benefits item_benefits_1"> <img src="http://alaska.ua/bitrix/templates/alaska_promo/img/icon_1.png"  /> 
+  <p class="title_item_benefits">Екологичные осточники добычи</p>
+ 
+  <p class="text_item_benefits">Голая Пристань, Моршин и Миргород. Поскольку производства находятся вдали от мегаполисов, вода в этих областях самая чистая</p>
+ </div>
+ 
+<div class="col-sm-4 item_benefits"> <img src="http://alaska.ua/bitrix/templates/alaska_promo/img/icon_2.png"  /> 
+  <p class="title_item_benefits">Европейские стандарты качества ISO 22000</p>
+ 
+  <p class="text_item_benefits">Производство воды Аляска сертифицировано по европейскому стандарту НАССР ISO 22000</p>
+ </div>
+ 
+<div class="col-sm-4 item_benefits item_benefits_3"> <img src="http://alaska.ua/bitrix/templates/alaska_promo/img/icon_3.png"  /> 
+  <p class="title_item_benefits">Удобный сервис доставки</p>
+ 
+  <p class="text_item_benefits">Мы доставим Ваш заказ в удобное для Вас время</p>
+ </div>
+                </div>
+            </div>
+        </div>
+
+        <!--extraction of water-->
+        <div class="extraction_of_water">
+            <div class="container">
+                <div class="row">
+					
+<h1>МЫ ЗАБОТИМСЯ О КАЧЕСТВЕ  ВОДЫ</h1>
+ 
+<h2>Качество нашей продукции подтверждается рядом факторов</h2>
+                    
+                </div>
+                <div class="row blocks">
+                    <div class="block_extraction col-xs-12">
+                        <div class="number text-center">
+                            <span>1</span>
+                        </div>
+                        <div class="extraction_of_water_text">
+                            <p>
+								 Мы добываем воду только в курортных регионах Украины                             
+                            </p>
+                        </div>
+                    </div>
+                    <div class="block_extraction col-xs-12">
+                        <div class="number text-center">
+                            <span>2</span>
+                        </div>
+                        <div class="extraction_of_water_text">
+                            <p>
+								Мы используем  НАССР ISO 22000 - систему эффективного управления факторами производства, которая существенно влияет на качество готовой продукции. Особое внимание мы уделяем санитарному состоянию производства                                
+                            </p>
+                        </div>
+                    </div>
+                    <div class="block_extraction col-xs-12">
+                        <div class="number text-center">
+                            <span>3</span>
+                        </div>
+                        <div class="extraction_of_water_text">
+                            <p>
+								Мы осуществляем розлив воды Аляска сразу же на месте добычи, что гарантирует 
+качество нашей продукции                   
+                            </p>
+                        </div>
+                    </div>
+                    <div class="block_extraction col-xs-12">
+                        <div class="number text-center">
+                            <span>4</span>
+                        </div>
+                        <div class="extraction_of_water_text">
+                            <p>
+								На наших заводах мы используем автоматизированные современные линии по розливу воды                                 
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- origin of water-->
+        <div class="origin_of_water">
+            <div class="container">
+                <div class="row">
+                    <h1>
+						Ïðîèñõîæäåíèå âîäû Àëÿñêà					</h1>
+                </div>
+                <div class="row">
+                    <div id="carousel-example-generic1" class="carousel slide" data-ride="carousel">
+                        <!-- Indicators -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#carousel-example-generic1" data-slide-to="0"></li>
+                            <li data-target="#carousel-example-generic1" data-slide-to="1" class="active"></li>
+                            <li data-target="#carousel-example-generic1" data-slide-to="2"></li>
+                        </ol>
+
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                            <div class="item slide1_">
+                               <h2>
+								Ñõåìà äîáû÷è âîäû â ãîðîäå Ìèðãîðîä</h2>
+                                <div class="img1"></div>
+                                <div class="text_slide">
+                                    <div class="col-lg-3 col-lg-offset-1 col-md-offset-2 col-md-3 col-sm-4">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>1</span>
+                                            </div>
+                                            <p>
+                                                çåìëÿ –
+                                                <span>10 ì</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>2</span>
+                                            </div>
+                                            <p>
+                                                ãëèíà –
+                                                <span>35 ì</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-3 col-sm-4">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>3</span>
+                                            </div>
+                                            <p>
+                                                âîäà –
+                                                <span>10 ì</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item active slide2_">
+                                <h2>Ñõåìà äîáû÷è âîäû â ãîðîäå Ìîðøèí</h2>
+                                <div class="img2"></div>
+                                <div class="text_slide">
+                                    <div class="col-lg-3 col-lg-offset-1 col-md-4 col-sm-4">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>1</span>
+                                            </div>
+                                            <p>
+                                                ïåñîê –
+                                                <span>4 ì</span>
+                                            </p>
+                                        </div>
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>4</span>
+                                            </div>
+                                            <p>
+                                                ãëèíà –
+                                                <span>3 ì</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 col-sm-4">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>2</span>
+                                            </div>
+                                            <p>
+                                                ñóãëèíîê –
+                                                <span>2 ì</span>
+                                            </p>
+                                        </div>
+                                        <div class="items1 ">
+                                            <div class="number_items text-center">
+                                                <span>5</span>
+                                            </div>
+                                            <p>
+                                                ïåñîê –
+                                                <span>29 ì</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-4 col-sm-4">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>3</span>
+                                            </div>
+                                            <p>
+                                                ïåñîê –
+                                                <span>12 ì</span>
+                                            </p>
+                                        </div>
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>6</span>
+                                            </div>
+                                            <p  class="two_line">
+                                                Èçâåñòíÿê <br>âîäîíîñíûé -
+                                                <span class="none">
+                                                </span>
+                                                <span>32 ì</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item slide3_">
+                                <h2>Ñõåìà äîáû÷è âîäû â ãîðîäå Ãîëàÿ Ïðèñòàíü</h2>
+                                <div class="img3"></div>
+                                <div class="text_slide">
+                                    <div class="col-xs-3">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>1</span>
+                                            </div>
+                                            <p>
+                                                ïåñîê –
+                                                <span>5 ì</span>
+                                            </p>
+                                        </div>
+                                        <div class="items1 ">
+                                            <div class="number_items text-center">
+                                                <span>5</span>
+                                            </div>
+                                            <p>
+                                                ãëèíà –
+                                                <span>15 ì</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>2</span>
+                                            </div>
+                                            <p>
+                                                ïåñîê –
+                                                <span>25 ì</span>
+                                            </p>
+                                        </div>
+                                        <div class="items1 ">
+                                            <div class="number_items text-center">
+                                                <span>6</span>
+                                            </div>
+                                            <p class="two_line">
+                                                ìåðãåëü
+                                                <span class="none">ãîëóáîé</span>
+                                                –
+                                                <span>15 ì</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>3</span>
+                                            </div>
+                                            <p>
+                                                ãëèíà –
+                                                <span>10 ì</span>
+                                            </p>
+                                        </div>
+                                        <div class="items1 ">
+                                            <div class="number_items text-center">
+                                                <span>7</span>
+                                            </div>
+                                            <p>
+                                                ïåñîê –
+                                                <span>30 ì</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-3">
+                                        <div class="items1">
+                                            <div class="number_items text-center">
+                                                <span>4</span>
+                                            </div>
+                                            <p>
+                                                ïåñîê –
+                                                <span>35 ì</span>
+                                            </p>
+                                        </div>
+                                        <div class="items1 ">
+                                            <div class="number_items text-center">
+                                                <span>8</span>
+                                            </div>
+                                            <p>
+                                                ãëèíà –
+                                                <span>5 ì</span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="map_zavod">
+            <div class="container">
+                <div class="row map_320">
+                    <div class="title_map">
+						
+<p id="title_factory"> 							 						Àäðåñà çàâîäîâ ïî äîáû÷å è ðîçëèâó âîäû Àëÿñêà:</p>
+ 
+<p id="factory1" style="display: none;"> Ìîðøèíñêèé çàâîä ìèíåðàëüíûõ âîä. <span>Ëüâîâñêàÿ îáë., ã. Ìîðøèí, óë. Ãåîëîãîâ, 12à</span> </p>
+ 
+<p id="factory2" style="display: none;"> Ìèðãîðîäñüêèé çàâîä ìèíåðàëüíûõ âîä. <span>Ïîëòàâñêàÿ îáëàñòü, ã. Ìèðãîðîä, âóë. Ìèíçàâîäñêàÿ, 1</span> </p>
+ 
+<p id="factory3" style="display: none;"> Ãîëîïðèñòàíñêèé çàâîä ìèíåðàëüíûõ âîä. <span>Õåðñîíñêàÿ îáë., ã. Ãîëàÿ Ïðèñòàíü, óë. Áåðåãîâàÿ, 70</span> </p>
+                       
+                    </div>
+                    <div class="map" id="mapcanvas"></div>
+                </div>
+            </div>
+        </div>
+        <div class="map_zavod_320">
+            <div class="container">
+                <div class="row map_show_320">
+                    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                            <div class="item item1 active">
+                                <div class="title_map_320">
+                                    <p>
+                                        Ìîðøèíñêèé çàâîä ìèíåðàëüíûõ âîä, Ëüâîâñêàÿ îáë., ã. Ìîðøèí, óë. Ãåîëîãîâ, 12à
+                                    </p>
+                                </div>
+                                <div class="logo_map">
+                                    <div></div>
+                                </div>
+                                <div class="map1"></div>
+                            </div>
+                            <div class="item item2">
+                                <div class="title_map_320">
+                                    <p>
+                                        Ìèðãîðîäñüêèé çàâîä ìèíåðàëüíûõ âîä, Ïîëòàâñêàÿ îáëàñòü, ã. Ìèðãîðîä, âóë. Ìèíçàâîäñêàÿ, 1
+                                    </p>
+                                </div>
+                                <div class="logo_map">
+                                    <div></div>
+                                </div>
+                                <div class="map2"></div>
+                            </div>
+                            <div class="item item3">
+                                <div class="title_map_320">
+                                    <p>
+                                        Ãîëîïðèñòàíñêèé çàâîä ìèíåðàëüíûõ âîä, Õåðñîíñêàÿ îáë., ã. Ãîëàÿ Ïðèñòàíü, óë. Áåðåãîâàÿ, 70
+                                    </p>
+                                </div>
+                                <div class="logo_map">
+                                    <div></div>
+                                </div>
+                                <div class="map3"></div>
+                            </div>
+                        </div>
+
+                        <!-- Controls -->
+                        <a class="left carousel-control" href="index-gclid=CLCy4_O1_sgCFabUcgod1vgJUg.html#carousel-example-generic" role="button" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left"></span>
+                        </a>
+                        <a class="right carousel-control" href="index-gclid=CLCy4_O1_sgCFabUcgod1vgJUg.html#carousel-example-generic" role="button" id="myCarousel" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right"></span>
+                        </a>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+        <!-- composition of water -->
+        <div class="composition_of_water">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 composition_table" >
+						<p>
+                            Ñîñòàâ âîäû Àëÿñêà
+                        </p>
+                        <p class="text_2">
+                            Ñáàëàíñèðîâàííûé ñîñòàâ âîäû Àëÿñêà ïîçâîëÿåò åå èñïîëüçîâàòü êàê äëÿ ïèòüÿ, <br>
+                            òàê è äëÿ ïðèãîòîâëåíèÿ íàïèòêîâ è åäû
+                        </p>                        
+                        <div class="col-xs-12 col-xs-offset-0 col-md-10 col-md-offset-1 table_block">
+							
+<table class="composition_lg"> 
+  <tbody> 
+    <tr> <td>Ïîêàçàòåëè</td> <td>Àëÿñêà</td> <td>Íîðìà ñ<span>àí</span>ïèí</td> <td>Ñîîòâåòñâèå 
+        <br />
+       íîðìàì</td> </tr>
+   
+    <tr> <td>ðÍ</td> <td>6,5-8,3</td> <td>6,5-8,5</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td>Êàëüöèé, ìã/ë</td> <td>5-15</td> <td>&le;130</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td>Ìàãíèé, ìã/ë</td> <td>2-10</td> <td>&le;80</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td>Õëîðèäû, ìã/ë</td> <td>5-40</td> <td>&le;250</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td>Ñóëüôàòû, ìã/ë</td> <td>&lt;15</td> <td>&le;250</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td>Îáùàÿ ùåëî÷íîñòü, ììîëü/ë</td> <td>0,9-2,5</td> <td>&le;6,5</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td>Îáùàÿ æåñòêîñòü, ììîëü/ë</td> <td>0,9-1,3</td> <td>&le;7,0</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td>Ñóõîé îñòàòîê, ìã/ë</td> <td>100-150</td> <td>&le;1000</td> <td class="img_cell"></td> </tr>
+   </tbody>
+ </table>
+ 
+<table class="composition_xs"> 
+  <tbody> 
+    <tr> <td>Ïîêàçàòåëè</td> <td>Íîðìà ñ<span>àí</span>ïèí</td> <td>íîðìà</td> </tr>
+   
+    <tr> <td><span>ðÍ</span> 
+        <br />
+       6,5-8,3</td> <td>6,5-8,5</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td><span>Êàëüöèé</span> 
+        <br />
+       5-15 ìã/ë</td> <td>?130</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td><span>Ìàãíèé</span> 
+        <br />
+       2-10 ìã/ë</td> <td>?80</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td><span>Õëîðèäû</span> 
+        <br />
+       5-40 ìã/ë</td> <td>?250</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td><span>Ñóëüôàòû</span> 
+        <br />
+       &lt;15 ìã/ë</td> <td>?250</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td><span>Îáùàÿ ùåëî÷íîñòü</span> 
+        <br />
+       0,9-2,5 ììîëü/ë</td> <td>?6,5</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td><span>Îáùàÿ æåñòêîñòü</span> 
+        <br />
+       0,9-1,3 ììîëü/ë</td> <td>?7,0</td> <td class="img_cell"></td> </tr>
+   
+    <tr> <td><span>Ñóõîé îñòàòîê</span> 
+        <br />
+       100-150 ìã/ë</td> <td>?1000</td> <td class="img_cell"></td> </tr>
+   </tbody>
+ </table>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- who_we_work-->
+        <div class="who_we_work">
+            <div class="container">
+                <div class="row">
+					<h1>Êàê ìû ðàáîòàåì?</h1>
+                    <h2>Îñòàâëÿéòå çàÿâêó ëþáûì óäîáíûì äëÿ âàñ ñïîñîáîì, íàø îïåðàòîð ïåðåçâîíèò äëÿ óòî÷íåíèÿ äåòàëåé çàêàçà
+                    </h2>                    
+                </div>
+                <div class="row">
+                    <div class="col-sm-4 col-xs-12">
+                        <div class="work">
+							<div class="title_work1 title_work1_1">
+                                <p>
+                                    1. Îñòàâëÿåòå
+                                </p>
+                            </div>
+                            <div class="discription_work">
+                                <p>îíëàéí íà ñàéòå èëè çàêàçûâàåòå îáðàòíûé çâîíîê</p>
+                            </div>                            
+                        </div>
+                        <div class="line"></div>
+                        <div class="line4"></div>
+                    </div>
+                    <div class="col-sm-4 col-xs-12">
+                        <div class="work center-block">
+							
+<div class="title_work1 title_work2"> 
+  <p> 2. Ñâÿçûâàåìñÿ </p>
+ </div>
+ 
+<div class="discription_work"> 
+  <p> íàø îïåðàòîð ïåðåçâîíèò äëÿ óòî÷íåíèÿ óäîáíîãî âðåìåíè äîñòàâêè</p>
+ </div>
+                           
+                        </div>
+                        <div class="line2"></div>
+                        <div class="line4"></div>
+                    </div>
+
+                    <div class="col-sm-4 col-xs-12">
+                        <div class="work pull-right">
+							
+<div class="title_work1 title_work3"> 
+  <p> 3. Äîñòàâëÿåì </p>
+ </div>
+ 
+<div class="discription_work"> 
+  <p>äîñòàâëÿåì âîäó è äðóãèå òîâàðû áåñïëàòíî â îãîâîðåííîå âðåìÿ</p>
+ </div>
+                             
+                    </div>
+                </div>
+            </div>
+        </div>
+		</div>
+        <!-- cal_price-->
+        <div class="cal_price">
+            <div class="container">
+                <div class="row">
+					<h1>
+                        Ðàñ÷èòàéòå öåíó â Âàøåì ãîðîäå è îáëàñòè
+                    </h1>
+                    <h2>Öåíû íà âîäó â íåêîòîðûõ ãîðîäàõ ìîãóò îòëè÷àòüñÿ</h2>					
+                   
+                </div>
+                <div class="row">
+                    <p class="footnote">
+					*Áåç ó÷åòà çàëîãîâîé òàðû (äåòàëüíåå â <a href="Umovi.pdf" >Îôèöèàëüíûõ ïðàâèëàõ àêöèè</a>)					
+					</p>
+					
+					 <script type="text/javascript">if (window.location.hash != \'\' && window.location.hash != \'#\') top.BX.ajax.history.checkRedirectStart(\'bxajaxid\', \'9959ed75759862de7f1df0ddf52cb47f\')</script><div id="comp_9959ed75759862de7f1df0ddf52cb47f">
+<script>
+	$(document).ready(function(){
+		$("select#region").change(function(){
+			var select = $("option:selected", this).val();
+			var name = $(this).attr("name");
+			
+			$("#check input[name=region]").val(select);
+			$("#check input[type=submit]").trigger("click");
+		});
+		$("select#city").change(function(){
+			var select = $("option:selected", this).val();
+			var name = $(this).attr("name");
+			
+			$("#check input[name=city]").val(select);
+			$("#check input[type=submit]").trigger("click");
+		});
+		$("input[type=radio]").click(function(){
+			var select = $(this).val();
+			var name = $(this).attr("name");
+			
+			$("#check input[name=delivery]").val(select);
+			$("#check input[type=submit]").trigger("click");
+		});
+		$("input#submit").click(function(){
+			window.location.href = "/m/index/call-me/";
+		});
+				
+			$("input[name=count]").keyup(function(){
+				var select = $(this).val();
+				$("#check input[name=count]").val(select);
+				
+				window.basketTimeoutID = 0;
+				window.basketTimeout = 1000;
+				
+				window.basketTimeoutID = setTimeout(function(){
+					 $("#check input[type=submit]").trigger("click");
+				}, window.basketTimeout);
+			});
+			
+			})
+</script>
+<p class="footnote">
+	&nbsp;
+			<span class="note" >**Ñòîèìîñòü çà 1 áóòûëü, ïðè çàêàçå îò 2õ áóòûëåé.</span>
+	</p>
+<div style="display:none">
+	
+<form id="check" enctype="multipart/form-data" method="POST" action=""><input type="hidden" name="bxajaxid" id="bxajaxid_9959ed75759862de7f1df0ddf52cb47f_XrQFCj" value="9959ed75759862de7f1df0ddf52cb47f" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_XrQFCj(){
+	var obForm = top.BX(\'bxajaxid_9959ed75759862de7f1df0ddf52cb47f_XrQFCj\').form;
+	top.BX.bind(obForm, \'submit\', function() {BX.ajax.submitComponentForm(this, \'comp_9959ed75759862de7f1df0ddf52cb47f\', true)});
+	top.BX.removeCustomEvent(\'onAjaxSuccess\', _processform_XrQFCj);
+}
+if (top.BX(\'bxajaxid_9959ed75759862de7f1df0ddf52cb47f_XrQFCj\'))
+	_processform_XrQFCj();
+else
+	top.BX.addCustomEvent(\'onAjaxSuccess\', _processform_XrQFCj);
+</script>
+		<input type="hidden" id="checkform" name="checkform" value="" />
+		
+		<input type="hidden" name="region" value="">
+		<input type="hidden" name="city" value="">
+		<input type="hidden" name="delivery" value="">
+		<input type="hidden" name="count" value="">
+		
+		<input type="submit">
+	</form>
+</div>
+
+
+	
+<form class="send_form" enctype="multipart/form-data" method="POST" action="" name="getPrice"><input type="hidden" name="bxajaxid" id="bxajaxid_9959ed75759862de7f1df0ddf52cb47f_dCjmSk" value="9959ed75759862de7f1df0ddf52cb47f" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_dCjmSk(){
+	var obForm = top.BX(\'bxajaxid_9959ed75759862de7f1df0ddf52cb47f_dCjmSk\').form;
+	top.BX.bind(obForm, \'submit\', function() {BX.ajax.submitComponentForm(this, \'comp_9959ed75759862de7f1df0ddf52cb47f\', true)});
+	top.BX.removeCustomEvent(\'onAjaxSuccess\', _processform_dCjmSk);
+}
+if (top.BX(\'bxajaxid_9959ed75759862de7f1df0ddf52cb47f_dCjmSk\'))
+	_processform_dCjmSk();
+else
+	top.BX.addCustomEvent(\'onAjaxSuccess\', _processform_dCjmSk);
+</script>
+		<div class="form-group select_1">
+			<div class="styled-select">
+				<select class="styled " type="text" value="Îáëàñòü" id="region" name="state">
+					<option>Îáëàñòü</option>
+											<option value="39" > Âîëûíñêàÿ îáëàñòü</option>
+											<option value="37" >ÀÐ Êðûì</option>
+											<option value="38" >Âèííèöêàÿ îáëàñòü</option>
+											<option value="26574" >Âîâ÷àíñüêèé ð-í</option>
+											<option value="52" >Äíåïðîïåòðîâñêàÿ</option>
+											<option value="53" >Äîíåöêàÿ îáëàñòü</option>
+											<option value="54" >Æèòîìèðñêàÿ îáëàñòü</option>
+											<option value="55" >Çàêàðïàòñêàÿ</option>
+											<option value="56" >Çàïîðîæñêàÿ îáëàñòü</option>
+											<option value="57" >Èâàíî-Ôðàíêîâñêàÿ</option>
+											<option value="58" >Êèåâñêàÿ</option>
+											<option value="59" >Êèðîâîãðàäñêàÿ</option>
+											<option value="60" >Ëóãàíñêàÿ îáëàñòü</option>
+											<option value="61" >Ëüâîâñêàÿ îáëàñòü</option>
+											<option value="62" >Íèêîëàåâñêàÿ îáëàñòü</option>
+											<option value="63" >Îäåññêàÿ îáëàñòü</option>
+											<option value="64" >Ïîëòàâñêàÿ îáëàñòü</option>
+											<option value="65" >Ðîâåíñêàÿ</option>
+											<option value="108" >Ñåâàñòîïîëü</option>
+											<option value="66" >Ñóìñêàÿ</option>
+											<option value="67" >Òåðíîïîëüñêàÿ</option>
+											<option value="68" >Õàðüêîâñêàÿ îáëàñòü</option>
+											<option value="69" >Õåðñîíñêàÿ îáëàñòü</option>
+											<option value="70" >Õìåëüíèöêàÿ îáëàñòü</option>
+											<option value="71" >×åðêàññêàÿ îáëàñòü</option>
+											<option value="100" >×åðíèãîâñêàÿ îáëàñòü</option>
+											<option value="26577" >×åðí³ã³âñüêèé ð-í</option>
+											<option value="72" >×åðíîâèöêàÿ</option>
+									</select>
+			</div>
+		</div>
+		<div class="form-group select_1">
+			<div class="styled-select">
+				<select class="styled " name="city" id="city" value="Ãîðîä" type="text">
+					<option>Ãîðîä</option>
+									</select>
+			</div>
+		</div>
+		<div class="form-group">
+			<input value="1" class="form-control" required="" placeholder="Êîëè÷åñòâî áóòûëåé" data-errormessage-value-missing="Ýòî ïîëå îáÿçàòåëüíî äëÿ çàïîëíåíèÿ" name="count" maxlength="2" type="text">
+		</div>
+		<div class="rezult">
+			<p>Ñòîèìîñòü<span style="vertical-align:top">**</span></p>
+			<p>
+													<span>íåò öåíû</span>
+								
+			</p>
+		</div>
+	</form>
+
+
+
+
+
+</div><script type="text/javascript">if (top.BX.ajax.history.bHashCollision) top.BX.ajax.history.checkRedirectFinish(\'bxajaxid\', \'9959ed75759862de7f1df0ddf52cb47f\');</script><script type="text/javascript">top.BX.ready(BX.defer(function() {window.AJAX_PAGE_STATE = new top.BX.ajax.component(\'comp_9959ed75759862de7f1df0ddf52cb47f\'); top.BX.ajax.history.init(window.AJAX_PAGE_STATE);}))</script>                </div>
+            </div>
+        </div>
+
+        <!--equipment -->
+        <div class="equipment">
+            <div class="container">
+                <div class="row">
+					 <h1>Îáîðóäîâàíèå äëÿ íàëèâà âîäû</h1>
+                    <h2>
+                        Åñëè âû çàêàçûâàåòå äîñòàâêó âîäû â ïåðâûé ðàç, âàì ïîíàäîáèòñÿ îáîðóäîâàíèå äëÿ íàëèâà âîäû.
+                        <span>
+                            <br></span>
+                        Çàêàæèòå åãî ó íàñ, äîñòàâêà áåñïëàòíà.
+                    </h2>                   
+                </div>
+				
+
+		
+	<div class="row">
+		<ul class=" shadowbox col-md-offset-0 col-sm-offset-1">
+
+				
+
+		
+			<li class="li_1" id="bx_3966226736_567193">
+				<a href="../upload/iblock/2fb/4.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/d36/bg_commodity1.jpg" alt="">
+						<span class="shadow">
+							<span class="loop"></span>
+						</span>
+					</span>
+				</a>
+				<p class="name_tovar">
+					Ïîìïà 					<br></p>
+			</li>
+				
+				
+
+		
+			<li class="li_1" id="bx_3966226736_567195">
+				<a href="../upload/iblock/76b/7.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/592/bg_commodity2.jpg" alt="">
+						<span class="shadow">
+							<span class="loop"></span>
+						</span>
+					</span>
+				</a>
+				<p class="name_tovar">
+					 ÊÓËÅÐ ÍÀÑÒîËÜÍûÉ ÁÅÇ ÎÕËàÆäÅÍèß					<br></p>
+			</li>
+				
+				
+
+		
+			<li class="li_1" id="bx_3966226736_567196">
+				<a href="../upload/iblock/5c2/5.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/e8a/bg_commodity3.jpg" alt="">
+						<span class="shadow">
+							<span class="loop"></span>
+						</span>
+					</span>
+				</a>
+				<p class="name_tovar">
+					 ÊÓËÅÐ ÍÀÑÒÎËÜÍÛÉ Ñ ÎÕËÀÆÄÅÍÈÅÌ					<br></p>
+			</li>
+				
+				
+
+		
+			<li class="li_1" id="bx_3966226736_567197">
+				<a href="../upload/iblock/d93/6.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/747/bg_commodity4.jpg" alt="">
+						<span class="shadow">
+							<span class="loop"></span>
+						</span>
+					</span>
+				</a>
+				<p class="name_tovar">
+					 ÊÓËÅÐ ÍÀÏÎËÜÍÛÉ ÑÒÀÍÄÀÐÒ					<br></p>
+			</li>
+				
+		
+	</ul>
+</div>
+
+	
+
+                
+            </div>
+        </div>
+
+      <!--reviews-->
+        <div class="reviews">
+            <div class="container">
+                <div class="row">
+					<h1>Îòçûâû êëèåíòîâ</h1>
+                    <h2>
+                        Ñëîâà áëàãîäàðíîñòè îò ïîñòîÿííûõ êëèåíòîâ, êîòîðûå ïîäòâåðæäàþò êà÷åñòâî íàøèõ óñëóã
+                    </h2>                    
+                </div>
+                
+						
+<div class="row">
+	<div id="carousel-example-generic2" class="carousel slide" data-ride="carousel">
+		
+				
+		<ol class="carousel-indicators">
+							<li data-target="#carousel-example-generic2" data-slide-to="0" class="active"></li>
+											<li data-target="#carousel-example-generic2" data-slide-to="1" ></li>
+											<li data-target="#carousel-example-generic2" data-slide-to="2" ></li>
+									</ol>
+		
+	<div class="carousel-inner">
+		<div class="item active">
+					
+
+							
+				
+					<div class="col-md-6 col-sm-12" id="bx_1970176138_567176">
+						<div class="img"></div>
+						<div class="col-xs-4 photo-client" style="background:url(\'../upload/iblock/0ce/client2.png\') repeat scroll 0 0 rgba(0, 0, 0, 0)"></div>
+						<div class="col-xs-8">
+							<p class="name_client">Âëàäèìèð Áîãàòûðåâ</p>
+							<p class="text_reviews">
+								Âûðàæàþ îãðîìíóþ áëàãîäàðíîñòü ÈÄÑ çà òî, ÷òî íà ïðîòÿæåíèè äîëãîãî âðåìåíè êà÷åñòâî äàííîé ïðîäóêöèè îñòàåòñÿ íà äîñòîéíîì óðîâíå. È ïîýòîìó öåíèòåëè êà÷åñòâà, â òîì ÷èñëå è ÿ, îñòàþòñÿ ñ âàìè. Òàê äåðæàòü:) 							</p>
+						</div>
+					</div>
+					
+								
+
+					
+
+							
+				
+					<div class="col-md-6 col-sm-12" id="bx_1970176138_567177">
+						<div class="img"></div>
+						<div class="col-xs-4 photo-client" style="background:url(\'../upload/iblock/4af/client1.png\') repeat scroll 0 0 rgba(0, 0, 0, 0)"></div>
+						<div class="col-xs-8">
+							<p class="name_client">Êàðèíà</p>
+							<p class="text_reviews">
+								Ïüþ ýòó âîäó óæå 3 ãîäà, äîñòàâëÿþò âñåãäà íîðìàëüíî, çàêàçûâàþ âîîáùå ÷åðåç ñàéò (çà÷åì çâîíèòü - ýðà èíòåðíåòà). Îòëè÷íîå ñîîòíîøåíèå öåíû è êà÷åñòâà. Áîëüøîå âàì ñïàñèáî çà âîäè÷êó è çà ñåðâèñ!							</p>
+						</div>
+					</div>
+					
+													</div><div class="item">
+				
+
+					
+
+							
+				
+					<div class="col-md-6 col-sm-12" id="bx_1970176138_567178">
+						<div class="img"></div>
+						<div class="col-xs-4 photo-client" style="background:url(\'../upload/iblock/819/client3.png\') repeat scroll 0 0 rgba(0, 0, 0, 0)"></div>
+						<div class="col-xs-8">
+							<p class="name_client">Íàòàëèÿ Øâàéêîâñêàÿ</p>
+							<p class="text_reviews">
+								Óäèâèòåëüíûé ñåðâèñ. Äîñòàâèëè â äåíü çàêàçà, â ïÿòíèöó, âî Ëüâîâå, â ïðåäíîâîãîäíèå äíè. Ñïàñèáî, íå îñòàâèëè áåç âîäû ïîä ÍÃ :) è êóðüåðû ó âàñ âåæëèâûå è ñ õîðîøèì íàñòðîåíèåì. Óñïåõîâ â Íîâîì ãîäó!							</p>
+						</div>
+					</div>
+					
+								
+
+					
+
+							
+				
+					<div class="col-md-6 col-sm-12" id="bx_1970176138_567179">
+						<div class="img"></div>
+						<div class="col-xs-4 photo-client" style="background:url(\'../upload/iblock/d4e/client4.png\') repeat scroll 0 0 rgba(0, 0, 0, 0)"></div>
+						<div class="col-xs-8">
+							<p class="name_client">Àëåêñåé</p>
+							<p class="text_reviews">
+								Çàêàçûâàþ â Äíåïðîïåòðîâñêîé îáëàñòè, âñ¸ ãóä! Óâèäåë â ðåêëàìå, ïîçâîíèë, ïîîáåùàëè ïåðåçâîíèòü, íà ñëåäóþùèé äåíü ïîçâîíèëè è ïðèâåçëè âîâðåìÿ, ñ äîñòàâêîé ïðîáëåì íå áûëî, âîäà íðàâèòñÿ! 							</p>
+						</div>
+					</div>
+					
+													</div><div class="item">
+				
+
+					
+
+							
+				
+					<div class="col-md-6 col-sm-12" id="bx_1970176138_567180">
+						<div class="img"></div>
+						<div class="col-xs-4 photo-client" style="background:url(\'../upload/iblock/56f/client5.png\') repeat scroll 0 0 rgba(0, 0, 0, 0)"></div>
+						<div class="col-xs-8">
+							<p class="name_client">Åâãåíèÿ Ñàäîâíè÷åíêî</p>
+							<p class="text_reviews">
+								Íîðìàëüíàÿ âîäà, âêóñíàÿ! Áåðó ó íèõ óæå ïàðó ëåò, â Çàïîðîæüå. Äåòè ïüþò, êóìîâüÿ ïüþò, ðåàëüíî ìíîãî çíàêîìûõ ïü¸ò Àëÿñêó! Íîðìàëüíî ðåáÿòà ïðèâîçÿò, ÿ äîâîëüíà. Ïîñëå íå¸ ïèòü ñ êðàíà - ýòî, êîíå÷íî, óæàñ. 							</p>
+						</div>
+					</div>
+					
+								
+
+					
+
+							
+				
+					<div class="col-md-6 col-sm-12" id="bx_1970176138_567181">
+						<div class="img"></div>
+						<div class="col-xs-4 photo-client" style="background:url(\'../upload/iblock/ce8/client6.png\') repeat scroll 0 0 rgba(0, 0, 0, 0)"></div>
+						<div class="col-xs-8">
+							<p class="name_client">Àíòîí Êàðïîâ</p>
+							<p class="text_reviews">
+								Î÷åíü õîðîøàÿ âîäà, íàì íðàâèòñÿ! Íàðåêàíèé ïî ïîâîäó ïðèåìà çàêàçîâ íåò âîîáùå. Ñ îáñëóæèâàíèåì âñå â ïîðÿäêå: ïðèâîçÿò ïî ìîåé ïðîñüáå äî 11 äíÿ, çàíîñÿò â êâàðòèðó, ñòàâÿò ãäå ãîâîðþ, ñîòðóäíèêè âåæëèâûå, ñïàñèáî! 							</p>
+						</div>
+					</div>
+					
+								
+
+					</div>
+		</div>
+	</div>
+</div>
+
+	
+
+                       
+                   
+            </div>
+        </div>
+
+        <!--certificate-->
+        <div class="certificate">
+            <div class="container">
+                <div class="row">
+					<h1>íÀØÈ ÑÅÐÒÈÔÈÊÀÒÛ</h1>
+                    <h2>
+                        Êà÷åñòâî âîäû Àëÿñêà ïîäòâåðæäåíî ñîîòâåòñòâóþùèìè ñåðòèôèêàòàìè
+                    </h2>                    
+                </div>
+				
+
+		
+	<div class="row">
+		<ul class="list-inline shadowbox col-md-offset-0 col-sm-offset-1">
+
+				
+
+		
+			<li id="bx_40480796_567200">
+				<a href="../upload/iblock/25c/conclusion1.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/6b3/conclusion1.jpg" alt="">
+						<span class="shadow">
+							<span class="loop">
+								<span>Âèñíîâîê ñàí³òàðíî-åï³äåì³îëîã³÷íî¿ åêñïåðòèçè</span>
+							</span>
+						</span>
+					</span>
+				</a>
+			</li>	
+			
+				
+
+		
+			<li id="bx_40480796_567201">
+				<a href="../upload/iblock/d9f/conclusion2.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/888/conclusion2.jpg" alt="">
+						<span class="shadow">
+							<span class="loop">
+								<span>Âèñíîâîê ñàí³òàðíî-åï³äåì³îëîã³÷íî¿ åêñïåðòèçè</span>
+							</span>
+						</span>
+					</span>
+				</a>
+			</li>	
+			
+				
+
+		
+			<li id="bx_40480796_567202">
+				<a href="../upload/iblock/983/sert_alaska.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/c8a/sert_alaska.jpg" alt="">
+						<span class="shadow">
+							<span class="loop">
+								<span> Ñåðòèô³êàò â³äïîâ³äíîñò³ &quot;Âîäà ïèòíà ôàñîâàíà&quot;</span>
+							</span>
+						</span>
+					</span>
+				</a>
+			</li>	
+			
+				
+
+		
+			<li id="bx_40480796_567203">
+				<a href="../upload/iblock/bf4/vidpovidnosti1.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/d89/vidpovidnosti1.jpg" alt="">
+						<span class="shadow">
+							<span class="loop">
+								<span>Ñåðòèô³êàò  ÍÀÑÑÐ ISO 22000</span>
+							</span>
+						</span>
+					</span>
+				</a>
+			</li>	
+			
+				
+
+		
+			<li id="bx_40480796_1020297">
+				<a href="../upload/iblock/f2c/vidpovidnosti2.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/da9/vidpovidnosti2.jpg" alt="">
+						<span class="shadow">
+							<span class="loop">
+								<span>Ñåðòèô³êàò Àëÿñêà 18.9 Ïîëòàâà</span>
+							</span>
+						</span>
+					</span>
+				</a>
+			</li>	
+			
+				
+
+		
+			<li id="bx_40480796_567204">
+				<a href="../upload/iblock/884/5_5.jpg" rel="shadowbox">
+					<span>
+						<img src="../upload/iblock/d97/5_5.jpg" alt="">
+						<span class="shadow">
+							<span class="loop">
+								<span>Ñåðòèô³êàò â³äïîâ³äíîñò³ ISO</span>
+							</span>
+						</span>
+					</span>
+				</a>
+			</li>	
+			
+		
+	</ul>
+</div>
+
+	
+
+				
+				
+                
+                <div class="row">
+                    <h1>
+					Àññîöèàöèè, â êîòîðûõ ìû ñîñòîèì					
+					</h1>
+                </div>
+                <div class="row association">
+                    <div class="col-md-4 col-md-offset-2"></div>
+                    <div class="col-md-4"></div>
+                </div>
+            </div>
+        </div>
+
+        <!--delivery-->
+        <div class="delivery">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-7 col-md-7 col-xs-12">
+						<h1 class="text-left">Äîñòàâêà âîäû c</h1>
+                        <h2 class="text-left">êóðîðòíûõ ðåãèîíîâ óêðàèíû</h2>                       
+                    </div>
+					<div class="col-sm-5 col-md-5 col-xs-12 form_">
+						<div class="form">
+							<div class="arrow arrow_2"></div>
+								<p class="text_3">Îñòàëèñü âîïðîñû?</p>
+							<p class="text_4">
+								Çàêàæèòå îáðàòíûé çâîíîê
+							</p>					
+					<script type="text/javascript">if (window.location.hash != \'\' && window.location.hash != \'#\') top.BX.ajax.history.checkRedirectStart(\'bxajaxid\', \'06045fdc46bf73f92556d0e05eeefc14\')</script><div id="comp_06045fdc46bf73f92556d0e05eeefc14">
+
+
+	
+
+	
+		
+	
+<form class=\'callback_promo\' name="SIMPLE_FORM_19" action="" method="POST" enctype="multipart/form-data"><input type="hidden" name="bxajaxid" id="bxajaxid_06045fdc46bf73f92556d0e05eeefc14_KurokV" value="06045fdc46bf73f92556d0e05eeefc14" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_KurokV(){
+	var obForm = top.BX(\'bxajaxid_06045fdc46bf73f92556d0e05eeefc14_KurokV\').form;
+	top.BX.bind(obForm, \'submit\', function() {BX.ajax.submitComponentForm(this, \'comp_06045fdc46bf73f92556d0e05eeefc14\', true)});
+	top.BX.removeCustomEvent(\'onAjaxSuccess\', _processform_KurokV);
+}
+if (top.BX(\'bxajaxid_06045fdc46bf73f92556d0e05eeefc14_KurokV\'))
+	_processform_KurokV();
+else
+	top.BX.addCustomEvent(\'onAjaxSuccess\', _processform_KurokV);
+</script><input type="hidden" name="sessid" id="sessid_1" value="fd8146eb35186aff5234d50f9eba29a5" /><input type="hidden" name="WEB_FORM_ID" value="19" />	
+			<div class="form-group">
+					<input 
+						placeholder="Èìÿ"
+						type="text" 
+						class="form-control"
+						name="form_text_129" 
+						placeholder="Èìÿ" 
+						value=""
+					/>
+			</div>
+			<div class="form-group">
+					<input 
+						placeholder="Ãîðîä"
+						type="text" 
+						class="form-control"
+						name="form_text_131" 
+						placeholder="Ãîðîä" 
+						value=""
+					/>
+			</div>
+				
+					
+			
+						<div class="form-group select_1 code">
+				<div class="styled-select">
+					<select name="form_text_327" class="styled " style="width:100px">
+						<option value="" disabled="disabled" selected="selected">Îïåðàòîð</option>
+													<option  value="039">039</option>
+													<option  value="050">050</option>
+													<option  value="063">063</option>
+													<option  value="066">066</option>
+													<option  value="067">067</option>
+													<option  value="068">068</option>
+													<option  value="073">073</option>
+													<option  value="091">091</option>
+													<option  value="092">092</option>
+													<option  value="093">093</option>
+													<option  value="094">094</option>
+													<option  value="095">095</option>
+													<option  value="096">096</option>
+													<option  value="097">097</option>
+													<option  value="098">098</option>
+													<option  value="099">099</option>
+												 
+					</select>
+				</div>
+				<input 
+					type="text" 
+					class="form-control"
+					maxlength="7"
+					name="form_text_130" 
+					placeholder="Òåëåôîí" 
+					value=""
+				/>
+			</div>
+																		<div class="radio radio_1">
+						<label>
+							<input 
+								name="form_radio_TYPE_CLIENT"
+								type="radio"
+																	required="required"
+																								value="132"
+							>
+							<span></span>
+							Íîâèé êëèåíò						</label>
+					</div>
+														<div class="radio ">
+						<label>
+							<input 
+								name="form_radio_TYPE_CLIENT"
+								type="radio"
+																	required="required"
+																								value="133"
+							>
+							<span></span>
+							Ñóùåñòâóþùèé êëèåíò						</label>
+					</div>
+							
+	<input type="hidden" name="web_form_apply" value="Y" />
+	<input type="submit" class="btn btn_gift" name="web_form_submit" value="ÇÀÊÀÇÀÒÜ">
+	</form>
+
+	
+</div><script type="text/javascript">if (top.BX.ajax.history.bHashCollision) top.BX.ajax.history.checkRedirectFinish(\'bxajaxid\', \'06045fdc46bf73f92556d0e05eeefc14\');</script><script type="text/javascript">top.BX.ready(BX.defer(function() {window.AJAX_PAGE_STATE = new top.BX.ajax.component(\'comp_06045fdc46bf73f92556d0e05eeefc14\'); top.BX.ajax.history.init(window.AJAX_PAGE_STATE);}))</script>					<p class="text_action">
+						*Èìååòñÿ â âèäó ïðèîáðåòåíèå 1 áóòûëÿ âîäû ÒÌ Àëÿñêà 18,9 ë ïî öåíå 1 ãðí ñ ÍÄÑ áåç ó÷åòà ñòîèìîñòè çàëîãîâîé òàðû						
+					</p>
+                   </div>
+</div>
+                </div>
+            </div> </div> <!-- MODAL -->
+        <div class="modal fade my_modal hidenForm" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+					
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">
+                            <span aria-hidden="true">&times;</span>
+                            <span class="sr-only">Close</span>
+                        </button>
+                        <h4 class="modal-title" id="myModalLabel">
+                            Îñòàâüòå çàÿâêó íà îáðàòíûé çâîíîê è ìû ïåðåçâîíèì Âàì â ñàìîå áëèæàéøåå âðåìÿ
+                        </h4>
+                    </div>
+                    <div class="modal-body form">
+                        <form action="send_.php" class="send_form" method="POST">
+                            <div class="form-group">
+                                <input class="form-control" required="" placeholder="Èìÿ" data-errormessage-value-missing="Ýòî ïîëå îáÿçàòåëüíî äëÿ çàïîëíåíèÿ" name="name"   type="text"></div>
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Òåëåôîí" name="phone" pattern="\\d+"  required="" data-errormessage-pattern-mismatch="Íîìåð òåëåôîíà äîëæåí ñîñòîÿòü òîëüêî èç öèôð!" data-errormessage-value-missing="Îáÿçàòåëüíî ââåäèòå íîìåð òåëåôîíà!"></div>
+                            <div class="form-group">
+                                <select class="styled">
+                                    <option>Ïåðâûé âàðèàíò</option>
+                                    <option>Âòîðîé âàðèàíò</option>
+                                </select>
+                            </div>
+                            <button class="btn btn_gift" type="submit">Çàêàçàòü çâîíîê</button>
+                        </form>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade successMessage "  tabindex="-1" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title">Ñïàñèáî çà ïðîÿâëåííûé èíòåðåñ!</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            Â ñàìîå áëèæàéøåå âðåìÿ (îáû÷íî ýòî ïðîèñõîäèò íà ïðîòÿæåíèè ÷àñà) ñ Âàìè ñâÿæåòñÿ íàø êîíñóëüòàíò
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+		<script>
+			// SELFSCRIPT
+			$(document).ready(function(){
+				/*
+				$(".selectpicker").on("click", function(){
+					var parent = $(this).parent(".styled");
+					
+					if(parent.hasClass("open"))
+					{
+						parent.removeClass("open");
+					}
+					else
+					{
+						parent.addClass("open");
+					}
+				});
+				*/
+			})
+		</script>
+        <script src="http://maps.google.com/maps/api/js?v=3.5&sensor=false"></script>
+        <script src="http://alaska.ua/bitrix/templates/alaska_promo/js/maps.js"></script>
+        <script src="http://alaska.ua/bitrix/templates/alaska_promo/js/infobox.js"></script>';
 $s = &$this->snippetCache;
 $s['alterTitle'] = '//[[alterTitle? &id = `[+id+]`]] к примеру для вывода в Ditto
 $id = isset($id) ? $id : $modx->documentIdentifier;  

@@ -65,6 +65,16 @@ RewriteRule ^o-vode/41-zagryazniteli-iz-plastikovykh-butylok-s-vodoj.html$ /voda
 RewriteRule ^voda-h2o-stati/35-sterilizatsiya-ozonom.html$ /voda-h2o-stati/obratnyij-osmos-v-kiev-dlya-ochistki.html [R=301,L]
 RewriteRule ^info.html$ /voda-h2o-stati/ [R=301,L]
 RewriteRule ^stat/3.html$ /voda-h2o-stati/ [R=301,L]
+RewriteRule ^o-vode/6-distilyatsiya-i-obratnyj-osmos-v-chjom-razlichie.html$ /voda-h2o-stati/ochistka-vodyi-obratnyij-osmos-otlichie-distilyaczii.html [R=301,L]
+RewriteRule ^stat/8.html$ /voda-h2o-stati/ [R=301,L]
+RewriteRule ^glnelonlenl.html$ /uslugi-i-tseny.html [R=301,L]
+RewriteRule ^o-vode/35-sterilizatsiya-ozonom.html$ /voda-h2o-stati/35-ochishchenaya-voda-po-sisteme-ozonovaya-sterilizatsiya.html [R=301,L]
+RewriteRule ^voda-h2o-stati/39-sport-i-voda.html$ /voda-h2o-stati/pochemu-pitevaya-voda-nuzhna-sportsmenam.html [R=301,L]
+RewriteRule ^stat/10.html$ /voda-h2o-stati/ [R=301,L]
+RewriteRule ^novosti/12-novost-1.html$ /voda-h2o-stati/ [R=301,L]
+RewriteRule ^sertifikat.html$ /tekhnologii-ochistki.html [R=301,L]
+RewriteRule ^nrurukk.html$ /voda-h2o-stati/ [R=301,L]
+RewriteRule ^voda-h2o-stat/65-voda-butilirovannaya-eto-to-chto-nuzhno-v-dom-dlya-zdorovoj-semi.html$ /voda-h2o-stati/zachem-voda-butilirovannaya-nuzhna-v-raczione.html [R=301,L]
 
  RewriteCond %{REQUEST_URI} ^(.*)\?type
     RewriteRule ^(.*)\?type(.*)$ $1 [R=301,L]    

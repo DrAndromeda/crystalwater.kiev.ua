@@ -1,10 +1,10 @@
-<?php die('Unauthorized access.'); ?>a:43:{s:2:"id";s:2:"49";s:4:"type";s:8:"document";s:11:"contentType";s:9:"text/html";s:9:"pagetitle";s:40:"Живая вода и сила воды";s:9:"longtitle";s:0:"";s:11:"description";s:0:"";s:5:"alias";s:25:"zhivaya-voda-i-sila-vodyi";s:15:"link_attributes";s:0:"";s:9:"published";s:1:"1";s:8:"pub_date";s:1:"0";s:10:"unpub_date";s:1:"0";s:6:"parent";s:1:"5";s:8:"isfolder";s:1:"0";s:9:"introtext";s:519:"Источники исцеляющей воды давно известны по всему миру. Сила воды еще полностью не исследована учеными, но уже точно доказано что вода это не просто жидкость существующая для жизни природы и употребления человеком. Вода, это неимоверная сила которая передает и переносит информацию.";s:7:"content";s:1431:"<p>Источники исцеляющей воды давно известны по всему миру. Сила воды еще полностью не исследована учеными, но уже точно доказано что вода это не просто жидкость существующая для жизни природы и употребления человеком. Вода, это неимоверная сила которая передает и переносит информацию.</p>
+<?php die('Unauthorized access.'); ?>a:44:{s:2:"id";s:2:"49";s:4:"type";s:8:"document";s:11:"contentType";s:9:"text/html";s:9:"pagetitle";s:40:"Живая вода и сила воды";s:9:"longtitle";s:0:"";s:11:"description";s:0:"";s:5:"alias";s:25:"zhivaya-voda-i-sila-vodyi";s:15:"link_attributes";s:0:"";s:9:"published";s:1:"1";s:8:"pub_date";s:1:"0";s:10:"unpub_date";s:1:"0";s:6:"parent";s:1:"5";s:8:"isfolder";s:1:"0";s:9:"introtext";s:519:"Источники исцеляющей воды давно известны по всему миру. Сила воды еще полностью не исследована учеными, но уже точно доказано что вода это не просто жидкость существующая для жизни природы и употребления человеком. Вода, это неимоверная сила которая передает и переносит информацию.";s:7:"content";s:1431:"<p>Источники исцеляющей воды давно известны по всему миру. Сила воды еще полностью не исследована учеными, но уже точно доказано что вода это не просто жидкость существующая для жизни природы и употребления человеком. Вода, это неимоверная сила которая передает и переносит информацию.</p>
 <p></p>
 <p><br /><br /></p>
 <h2>Что такое живая вода и ее неимоверные свойства</h2>
 <p>В данном фильме рассказано о казалось бы нереальных свойствах и фактах о воде. Автор возвращает к истокам мироздания и рассказывает о разгадках древнейших из тайн о воде. Вода это не просто источник - вода обладает памятью!<br /><br /><iframe width="853" height="480" src="http://www.youtube.com/embed/flvpynMkQlw?wmode=transparent" frameborder="0" allowfullscreen=""></iframe></p>
 <p></p>
-<p>Если вы решили что вам необходима живая вода купить ее можно позвонив нам по указанным номерам телефона.</p>";s:8:"richtext";s:1:"1";s:8:"template";s:1:"9";s:9:"menuindex";s:1:"9";s:10:"searchable";s:1:"1";s:9:"cacheable";s:1:"1";s:9:"createdby";s:1:"3";s:9:"createdon";s:10:"1390556295";s:8:"editedby";s:1:"3";s:8:"editedon";s:10:"1409413035";s:7:"deleted";s:1:"0";s:9:"deletedon";s:1:"0";s:9:"deletedby";s:1:"0";s:11:"publishedon";s:10:"1390556295";s:11:"publishedby";s:1:"3";s:9:"menutitle";s:0:"";s:7:"donthit";s:1:"0";s:11:"haskeywords";s:1:"0";s:11:"hasmetatags";s:1:"0";s:10:"privateweb";s:1:"0";s:10:"privatemgr";s:1:"0";s:13:"content_dispo";s:1:"0";s:8:"hidemenu";s:1:"0";s:13:"alias_visible";s:1:"1";s:4:"desc";a:5:{i:0;s:4:"desc";i:1;s:318:"О том что собой представляет живая вода, какая она бывает и что в себе несет узнаете из фильма Великая тайна воды. Когда человеку необходима живая вода купить ее не так просто";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"textarea";}s:4:"keyw";a:5:{i:0;s:4:"keyw";i:1;s:53:"живая вода, живая вода купить";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:4:"titl";a:5:{i:0;s:4:"titl";i:1;s:38:"Живая вода и ее тайны";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:8:"blog_img";a:5:{i:0;s:8:"blog_img";i:1;s:30:"assets/images/zhivaya-voda.jpg";i:2;s:0:"";i:3;s:0:"";i:4;s:5:"image";}s:17:"__MODxDocGroups__";s:0:"";}<!--__MODxCacheSpliter__--><!DOCTYPE html>
+<p>Если вы решили что вам необходима живая вода купить ее можно позвонив нам по указанным номерам телефона.</p>";s:8:"richtext";s:1:"1";s:8:"template";s:1:"9";s:9:"menuindex";s:1:"9";s:10:"searchable";s:1:"1";s:9:"cacheable";s:1:"1";s:9:"createdby";s:1:"3";s:9:"createdon";s:10:"1390556295";s:8:"editedby";s:1:"3";s:8:"editedon";s:10:"1409413035";s:7:"deleted";s:1:"0";s:9:"deletedon";s:1:"0";s:9:"deletedby";s:1:"0";s:11:"publishedon";s:10:"1390556295";s:11:"publishedby";s:1:"3";s:9:"menutitle";s:0:"";s:7:"donthit";s:1:"0";s:11:"haskeywords";s:1:"0";s:11:"hasmetatags";s:1:"0";s:10:"privateweb";s:1:"0";s:10:"privatemgr";s:1:"0";s:13:"content_dispo";s:1:"0";s:8:"hidemenu";s:1:"0";s:13:"alias_visible";s:1:"1";s:4:"desc";a:5:{i:0;s:4:"desc";i:1;s:318:"О том что собой представляет живая вода, какая она бывает и что в себе несет узнаете из фильма Великая тайна воды. Когда человеку необходима живая вода купить ее не так просто";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"textarea";}s:4:"keyw";a:5:{i:0;s:4:"keyw";i:1;s:53:"живая вода, живая вода купить";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:4:"titl";a:5:{i:0;s:4:"titl";i:1;s:38:"Живая вода и ее тайны";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:8:"blog_img";a:5:{i:0;s:8:"blog_img";i:1;s:30:"assets/images/zhivaya-voda.jpg";i:2;s:0:"";i:3;s:0:"";i:4;s:5:"image";}s:16:"sitemap_priority";a:5:{i:0;s:16:"sitemap_priority";i:1;s:3:"0.5";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"dropdown";}s:17:"__MODxDocGroups__";s:0:"";}<!--__MODxCacheSpliter__--><!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
         <head>
 <title>Живая вода и ее тайны</title>
@@ -83,19 +83,32 @@
 						<br/>
 	<div><noindex><script async="async"type="text/javascript" rel="nofollow"src="//yandex.st/share/share.js"
  charset="utf-8"></script></noindex>
-<noindex><div class="yashare-auto-init" data-yashareL10n="ru" rel="nofollow"
-data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,gplus" data-yashareTheme="counter"></div></noindex>
-						
+<noindex><div rel="nofollow" class="yashare-auto-init" data-yashareL10n="ru" 
+data-yashareQuickServices="yaru,vkontakte,facebook,twitter,gplus" rel="nofollow"data-yashareTheme="counter"></div>
+	
+		
+	<script type="text/javascript">(function(w,doc) {
+if (!w.__utlWdgt ) {
+    w.__utlWdgt = true;
+    var d = doc, s = d.createElement('script'), g = 'getElementsByTagName';
+    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+    s.src = ('https:' == w.location.protocol ? 'https' : 'http')  + '://w.uptolike.com/widgets/v1/uptolike.js';
+    var h=d[g]('body')[0];
+    h.appendChild(s);
+}})(window,document);			
+</script>
+	
+		</noindex>
 </div> 
 						
 <div id="clear_line"></div>
 <div id="clear_line"></div>
-<div id="post_content_position_3"><hr id="system-readmore" />
+<!--<div id="post_content_position_3" class="ju"><hr id="system-readmore" />
 <p><img style="float: left;" src="images/crystalwater/freind.png" alt="freind" width="300" height="170" /><span style="font-size: 14pt;"><br /></span></p>
 <p><span style="font-size: 18pt;">&nbsp;Формируем дилерскую сеть на&nbsp;&nbsp; <br /></span></p>
 <p><span style="font-size: 18pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; выгодных условиях.</span></p>
-<div id="clear_line"></div>
-</div>
+<div id="clear_line"></div></div>!-->
+						
 </div>
 
 				</div>
@@ -104,14 +117,14 @@ data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,
 								<div id="clear_line"></div>		
 								
 			</div>
-			<div id="sidebar">
+			<!--<div id="sidebar">
 													<div id="sidebar_position1">
 														<div class="zak">Как заказать</div>
 																		Чтобы заказать воду и аксессуары вы можете связаться с нами по телефону указанному выше.
 					</div>
 											</div>
 
-
+!-->
 			<div id="clear_line"></div>
 		</div>
 	</div>
@@ -125,7 +138,14 @@ data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,
   ga('create', 'UA-52380797-1', 'auto');
   ga('send', 'pageview');
 
-</script><div id="footer">
+</script>
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<noindex><script async="async" rel="rel nofollow" type='text/javascript'>
+(function(){ var widget_id = 'nFLQhPJhkP';
+			var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();</script></noindex>
+<!-- {/literal} END JIVOSITE CODE -->
+
+<div id="footer">
 			<div id="footer_center">
 				<!--<span style="color: #222222; font-family: 'Helvetica Neue', HelveticaNeue, Helvetica, sans-serif; font-size: 13px; line-height: 18.1875px;">Автор публикации:&nbsp;</span>
 				<a href="https://plus.google.com/u/0/109756665889043002454?rel.." target="blank"><span style="color:#d3d3d3;"> Екатерина Холод </span></a>-->
@@ -133,6 +153,42 @@ data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,
 		<!--<span>Все права данного сайта <!--Живая вода и сила воды защищены!</span>!-->	
 					</div>
 							</div>
+	<!-- .row -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script  type="text/javascript">
+$(document).ready(function(){
+$(window).scroll(function(){
+if ($(this).scrollTop() > 100) {
+$('.scrollup').fadeIn();
+} else {
+$('.scrollup').fadeOut();
+}
+});
+ 
+$('.scrollup').click(function(){
+$("html, body").animate({ scrollTop: 0 }, 600);
+return false;
+}); 
+});
+</script>
+<script type="text/javascript">
+$(document).ready(function(){
+            $('.video_window').easyModal();
+var path = $(".video_frame iframe")[0].src;
+            $('#video_window_open').click(function(e){
+                $('.video_window').trigger('openModal');
+                $(".video_frame iframe")[0].src += "&autoplay=1";
+                e.preventDefault();
+            });
+            $('#video_window_close').click(function(e){
+$(".video_frame iframe")[0].src = path;
+                $('.video_window').trigger('closeModal');
+                e.preventDefault();
+            });
+        });
+</script>
+<a class="scrollup">Наверх</a>
+
 		</div>
 </div>	
 <script type="text/javascript">
