@@ -1,5 +1,5 @@
 <?php die('Unauthorized access.'); ?>a:66:{s:2:"id";s:1:"1";s:4:"type";s:8:"document";s:11:"contentType";s:9:"text/html";s:9:"pagetitle";s:40:"Доставка воды Бровары";s:9:"longtitle";s:101:"Доставка воды в Бровары и Киев Доставка воды очищенной ";s:11:"description";s:98:"Доставка воды Бровары, Киев, Доставка воды в Броварах ";s:5:"alias";s:5:"index";s:15:"link_attributes";s:0:"";s:9:"published";s:1:"1";s:8:"pub_date";s:1:"0";s:10:"unpub_date";s:1:"0";s:6:"parent";s:1:"0";s:8:"isfolder";s:1:"1";s:9:"introtext";s:293:"Доставка воды в Броварах и Киеве «Кришталево-чиста питна вода» 8 ступеней очистки!(Еко+) 044-451-59-33
-Доставка воды Бровары, доставка воды на дом, доставка воды в офис";s:7:"content";s:8865:"<div class="pi"></div>
+Доставка воды Бровары, доставка воды на дом, доставка воды в офис";s:7:"content";s:8892:"<div class="pi"></div>
 <table border="0" style="width: 100%; height: 174px;" class="ju">
 <tbody>
 <tr>
@@ -28,7 +28,7 @@
 <table border="0" style="width: 233px; height: 81px; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<td style="text-align: center;">Работаем в самое удобное для Вас обеденное и вечернее время. Развозка на дом и в офис.<br />Доставка воды в Бровары после 12.00 и после 20.00</td>
+<td class="adr" style="text-align: center;">Работаем в самое удобное для Вас обеденное и вечернее время. Развозка на дом и в офис.<br />Доставка воды в Бровары после 12.00 и после 20.00</td>
 </tr>
 </tbody>
 </table>
@@ -61,7 +61,7 @@
 <tbody>
 <tr>
 <td style="font-style: italic; line-height: 2; text-align: center;"><hr />
-<p class="ju">"Кришталево-чиста питна вода" очищенная по технологиям обратный осмос и озоновая стерилизация, способствует естественному оздоровлению организма и стимуляции иммунитета человека. &nbsp;<br />Это живая вода которая не содержит в себе никаких вредных веществ и примесей, а ее состав идеален для кислотно-щелочного баланса организма.&nbsp;<br /><span>"Кришталево-чиста"</span>&nbsp;проблемы со здоровьем, которые не могли уйти годами решает навсегда!</p>
+<p class="ju">"Кришталево-чиста питна вода" очищенная по технологиям обратный осмос и озоновая стерилизация, способствует естественному оздоровлению организма и стимуляции иммунитета человека. &nbsp;<br />Это живая вода которая не содержит в себе никаких вредных веществ и примесей, а ее состав идеален для кислотно-щелочного баланса организма.&nbsp;<br /><span class="fn org">"Кришталево-чиста"</span>&nbsp;проблемы со здоровьем, которые не могли уйти годами решает навсегда!</p>
 <hr /></td>
 </tr>
 </tbody>
@@ -85,8 +85,8 @@
 <li>Доставка воды в броварской район</li>
 </ul>
 <div class="boo"><img class="boo2" src="assets/images/sertifikati-kachestva-vodi-Brovari1.png" width="100%" style="vertical-align: middle; margin-top: 3px; margin-bottom: 3px;" alt="наши сертификаты качества доставки воды Бровары" title="сертификаты качества доставки воды в городе Бровары" /></div>
-<p style="text-align: center;" class="ju"><em>Вода &ndash; это источник жизни, не лишайте свой организм в возможности быть абсолютно здоровым. <br />Доставка воды в Броварах "Кришталево-чиста" для Вашего долголетия!</em></p>";s:8:"richtext";s:1:"1";s:8:"template";s:1:"3";s:9:"menuindex";s:1:"0";s:10:"searchable";s:1:"1";s:9:"cacheable";s:1:"1";s:9:"createdby";s:1:"1";s:9:"createdon";s:10:"1130304721";s:8:"editedby";s:1:"3";s:8:"editedon";s:10:"1448379869";s:7:"deleted";s:1:"0";s:9:"deletedon";s:1:"0";s:9:"deletedby";s:1:"0";s:11:"publishedon";s:10:"1130304721";s:11:"publishedby";s:1:"1";s:9:"menutitle";s:0:"";s:7:"donthit";s:1:"0";s:11:"haskeywords";s:1:"0";s:11:"hasmetatags";s:1:"0";s:10:"privateweb";s:1:"0";s:10:"privatemgr";s:1:"0";s:13:"content_dispo";s:1:"0";s:8:"hidemenu";s:1:"0";s:13:"alias_visible";s:1:"1";s:4:"desc";a:5:{i:0;s:4:"desc";i:1;s:270:"Доставка воды в Бровары и доставка воды в Киев (Еко+) 044-451-59-33 Качественная доставка воды в Броварах на дом и в офис это «Кришталево-чиста питна вода».";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"textarea";}s:4:"keyw";a:5:{i:0;s:4:"keyw";i:1;s:279:"доставка воды Бровары, доставка воды в Броварах, доставка воды броварской район, доставка воды по броварам, доставка питьевой воды бровары, вода бровары";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:7:"noIndex";a:5:{i:0;s:7:"noIndex";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"checkbox";}s:4:"titl";a:5:{i:0;s:4:"titl";i:1;s:163:"Доставка воды в Бровары и Киев Доставка воды очищенной Доставка питьевой воды в Броварах";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:3:"img";a:5:{i:0;s:3:"img";i:1;s:23:"assets/images/pompa.png";i:2;s:0:"";i:3;s:0:"";i:4;s:5:"image";}s:11:"index_title";a:5:{i:0;s:11:"index_title";i:1;s:18:"В подарок!";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:12:"index_mtitle";a:5:{i:0;s:12:"index_mtitle";i:1;s:101:"Удобный и безопасный способ розлива качественной воды!";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:15:"sitemap_exclude";a:5:{i:0;s:15:"sitemap_exclude";i:1;s:1:"0";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"dropdown";}s:16:"sitemap_priority";a:5:{i:0;s:16:"sitemap_priority";i:1;s:3:"1.0";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"dropdown";}s:18:"sitemap_changefreq";a:5:{i:0;s:18:"sitemap_changefreq";i:1;s:7:"monthly";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"dropdown";}s:4:"img2";a:5:{i:0;s:4:"img2";i:1;s:40:"assets/images/dostavka-vodi-brovari1.png";i:2;s:0:"";i:3;s:0:"";i:4;s:5:"image";}s:13:"index_mtitle2";a:5:{i:0;s:13:"index_mtitle2";i:1;s:68:"Закажите 1 бутль лучшей воды на пробу!";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:14:"2index_mtitle2";a:5:{i:0;s:14:"2index_mtitle2";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:14:"3index_mtitle2";a:5:{i:0;s:14:"3index_mtitle2";i:1;s:33:"Цена 1 бутля - 50 грн";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:12:"index_title2";a:5:{i:0;s:12:"index_title2";i:1;s:12:"Бутыль";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:5:"price";a:5:{i:0;s:5:"price";i:1;s:42:"Первый заказ БЕСПЛАТНО";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:12:"index_title3";a:5:{i:0;s:12:"index_title3";i:1;s:11:"1428 грн";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:4:"img3";a:5:{i:0;s:4:"img3";i:1;s:37:"assets/images/kuler-dlya-vodi.min.png";i:2;s:0:"";i:3;s:0:"";i:4;s:5:"image";}s:14:"3index_mtitle3";a:5:{i:0;s:14:"3index_mtitle3";i:1;s:122:"Для нагрева и охлаждения питьевой воды незаменимы в офисе или дома";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:11:"CustomTitle";a:5:{i:0;s:11:"CustomTitle";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:12:"GoogleAuthor";a:5:{i:0;s:12:"GoogleAuthor";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:7:"Aliases";a:5:{i:0;s:7:"Aliases";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:12:"textareamini";}s:12:"MetaKeywords";a:5:{i:0;s:12:"MetaKeywords";i:1;s:0:"";i:2;s:5:"delim";i:3;s:9:"&format=,";i:4;s:4:"text";}s:12:"CanonicalUrl";a:5:{i:0;s:12:"CanonicalUrl";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:11:"RobotsIndex";a:5:{i:0;s:11:"RobotsIndex";i:1;s:5:"index";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"dropdown";}s:12:"RobotsFollow";a:5:{i:0;s:12:"RobotsFollow";i:1;s:6:"follow";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"dropdown";}s:15:"MetaDescription";a:5:{i:0;s:15:"MetaDescription";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"textarea";}s:17:"__MODxDocGroups__";s:0:"";}<!--__MODxCacheSpliter__--><!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<p style="text-align: center;" class="ju"><em>Вода &ndash; это источник жизни, не лишайте свой организм в возможности быть абсолютно здоровым. <br />Доставка воды в Броварах "Кришталево-чиста" для Вашего долголетия!</em></p>";s:8:"richtext";s:1:"1";s:8:"template";s:1:"3";s:9:"menuindex";s:1:"0";s:10:"searchable";s:1:"1";s:9:"cacheable";s:1:"1";s:9:"createdby";s:1:"1";s:9:"createdon";s:10:"1130304721";s:8:"editedby";s:1:"3";s:8:"editedon";s:10:"1449690292";s:7:"deleted";s:1:"0";s:9:"deletedon";s:1:"0";s:9:"deletedby";s:1:"0";s:11:"publishedon";s:10:"1130304721";s:11:"publishedby";s:1:"1";s:9:"menutitle";s:0:"";s:7:"donthit";s:1:"0";s:11:"haskeywords";s:1:"0";s:11:"hasmetatags";s:1:"0";s:10:"privateweb";s:1:"0";s:10:"privatemgr";s:1:"0";s:13:"content_dispo";s:1:"0";s:8:"hidemenu";s:1:"0";s:13:"alias_visible";s:1:"1";s:4:"desc";a:5:{i:0;s:4:"desc";i:1;s:270:"Доставка воды в Бровары и доставка воды в Киев (Еко+) 044-451-59-33 Качественная доставка воды в Броварах на дом и в офис это «Кришталево-чиста питна вода».";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"textarea";}s:4:"keyw";a:5:{i:0;s:4:"keyw";i:1;s:279:"доставка воды Бровары, доставка воды в Броварах, доставка воды броварской район, доставка воды по броварам, доставка питьевой воды бровары, вода бровары";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:7:"noIndex";a:5:{i:0;s:7:"noIndex";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"checkbox";}s:4:"titl";a:5:{i:0;s:4:"titl";i:1;s:163:"Доставка воды в Бровары и Киев Доставка воды очищенной Доставка питьевой воды в Броварах";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:3:"img";a:5:{i:0;s:3:"img";i:1;s:23:"assets/images/pompa.png";i:2;s:0:"";i:3;s:0:"";i:4;s:5:"image";}s:11:"index_title";a:5:{i:0;s:11:"index_title";i:1;s:18:"В подарок!";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:12:"index_mtitle";a:5:{i:0;s:12:"index_mtitle";i:1;s:101:"Удобный и безопасный способ розлива качественной воды!";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:15:"sitemap_exclude";a:5:{i:0;s:15:"sitemap_exclude";i:1;s:1:"0";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"dropdown";}s:16:"sitemap_priority";a:5:{i:0;s:16:"sitemap_priority";i:1;s:3:"1.0";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"dropdown";}s:18:"sitemap_changefreq";a:5:{i:0;s:18:"sitemap_changefreq";i:1;s:7:"monthly";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"dropdown";}s:4:"img2";a:5:{i:0;s:4:"img2";i:1;s:40:"assets/images/dostavka-vodi-brovari1.png";i:2;s:0:"";i:3;s:0:"";i:4;s:5:"image";}s:13:"index_mtitle2";a:5:{i:0;s:13:"index_mtitle2";i:1;s:68:"Закажите 1 бутль лучшей воды на пробу!";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:14:"2index_mtitle2";a:5:{i:0;s:14:"2index_mtitle2";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:14:"3index_mtitle2";a:5:{i:0;s:14:"3index_mtitle2";i:1;s:33:"Цена 1 бутля - 50 грн";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:12:"index_title2";a:5:{i:0;s:12:"index_title2";i:1;s:12:"Бутыль";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:5:"price";a:5:{i:0;s:5:"price";i:1;s:42:"Первый заказ БЕСПЛАТНО";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:12:"index_title3";a:5:{i:0;s:12:"index_title3";i:1;s:11:"1428 грн";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:4:"img3";a:5:{i:0;s:4:"img3";i:1;s:37:"assets/images/kuler-dlya-vodi.min.png";i:2;s:0:"";i:3;s:0:"";i:4;s:5:"image";}s:14:"3index_mtitle3";a:5:{i:0;s:14:"3index_mtitle3";i:1;s:122:"Для нагрева и охлаждения питьевой воды незаменимы в офисе или дома";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:11:"CustomTitle";a:5:{i:0;s:11:"CustomTitle";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:12:"GoogleAuthor";a:5:{i:0;s:12:"GoogleAuthor";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:7:"Aliases";a:5:{i:0;s:7:"Aliases";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:12:"textareamini";}s:12:"MetaKeywords";a:5:{i:0;s:12:"MetaKeywords";i:1;s:0:"";i:2;s:5:"delim";i:3;s:9:"&format=,";i:4;s:4:"text";}s:12:"CanonicalUrl";a:5:{i:0;s:12:"CanonicalUrl";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:11:"RobotsIndex";a:5:{i:0;s:11:"RobotsIndex";i:1;s:5:"index";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"dropdown";}s:12:"RobotsFollow";a:5:{i:0;s:12:"RobotsFollow";i:1;s:6:"follow";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"dropdown";}s:15:"MetaDescription";a:5:{i:0;s:15:"MetaDescription";i:1;s:0:"";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"textarea";}s:17:"__MODxDocGroups__";s:0:"";}<!--__MODxCacheSpliter__--><!DOCTYPE html>
+<html lang="ru" xmlns="http://www.w3.org/1999/xhtml">
         <head>
 <title>Доставка воды в Бровары и Киев Доставка воды очищенной Доставка питьевой воды в Броварах</title>
 <meta name="viewport" content="width=1200">
@@ -99,6 +99,7 @@
 <link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 <body>
+	<div class="vcard">
 <div id="main">
 	<div id="main_center">
 		<div id="header">
@@ -109,7 +110,7 @@
 			<div id="Contacts">
  <div class="cont_i">Контакты</div>
   <div id="cont_f">
-<a href="tel:0637886880" ><p><img src="images/tell.gif" alt="(044) 451-59-33" width="17" height="20"> (044) 451-59-33 Киев  </p> 
+<a class="tel" href="tel:0637886880" ><p><img src="images/tell.gif" alt="(044) 451-59-33" width="17" height="20"> (044) 451-59-33 Киев  </p> 
 <p><img src="images/tell.gif" alt="(04594) 6-59-27" width="17" height="20"> (04594) 6-59-27 Бровары  </p> 
 	  <p><img src="images/tell.gif" alt="(063) 788-68-80" width="17" height="20"> (063) 788-68-80 Life </p></a>
   </div></div>
@@ -221,7 +222,7 @@
 <table border="0" style="width: 233px; height: 81px; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
-<td style="text-align: center;">Работаем в самое удобное для Вас обеденное и вечернее время. Развозка на дом и в офис.<br />Доставка воды в Бровары после 12.00 и после 20.00</td>
+<td class="adr" style="text-align: center;">Работаем в самое удобное для Вас обеденное и вечернее время. Развозка на дом и в офис.<br />Доставка воды в Бровары после 12.00 и после 20.00</td>
 </tr>
 </tbody>
 </table>
@@ -254,7 +255,7 @@
 <tbody>
 <tr>
 <td style="font-style: italic; line-height: 2; text-align: center;"><hr />
-<p class="ju">"Кришталево-чиста питна вода" очищенная по технологиям обратный осмос и озоновая стерилизация, способствует естественному оздоровлению организма и стимуляции иммунитета человека. &nbsp;<br />Это живая вода которая не содержит в себе никаких вредных веществ и примесей, а ее состав идеален для кислотно-щелочного баланса организма.&nbsp;<br /><span>"Кришталево-чиста"</span>&nbsp;проблемы со здоровьем, которые не могли уйти годами решает навсегда!</p>
+<p class="ju">"Кришталево-чиста питна вода" очищенная по технологиям обратный осмос и озоновая стерилизация, способствует естественному оздоровлению организма и стимуляции иммунитета человека. &nbsp;<br />Это живая вода которая не содержит в себе никаких вредных веществ и примесей, а ее состав идеален для кислотно-щелочного баланса организма.&nbsp;<br /><span class="fn org">"Кришталево-чиста"</span>&nbsp;проблемы со здоровьем, которые не могли уйти годами решает навсегда!</p>
 <hr /></td>
 </tr>
 </tbody>
@@ -333,15 +334,15 @@ return false;
 (function(){ var widget_id = 'nFLQhPJhkP';
 			var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();</script></noindex>
 <!-- {/literal} END JIVOSITE CODE -->
-
+<div itemscope itemtype="http://schema.org/Organization" >	
 <div id="footer">
 			<div id="footer_center">
 				<!--<span style="color: #222222; font-family: 'Helvetica Neue', HelveticaNeue, Helvetica, sans-serif; font-size: 13px; line-height: 18.1875px;">Автор публикации:&nbsp;</span>
 				<a href="https://plus.google.com/u/0/109756665889043002454?rel.." target="blank"><span style="color:#d3d3d3;"> Екатерина Холод </span></a>-->
-<div id="footer_position" onclick="location.href='/';">Crystalwater.kiev.ua - доставка питьевой воды.
+<div id="footer_position" class="category" onclick="location.href='/';">Crystalwater.kiev.ua - доставка питьевой воды.
 		<!--<span>Все права данного сайта <!--Доставка воды Бровары защищены!</span>!-->	
 					</div>
-							</div>
+	</div></div>
 	<!-- .row -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script  type="text/javascript">
@@ -380,4 +381,4 @@ $(".video_frame iframe")[0].src = path;
 
 		</div>
 
-</body></html>
+	</div></body></html>

@@ -46,7 +46,7 @@
 </div>
 <div><img class="boo2" src="assets/images/otzivi.jpg" width="100%" style="vertical-align: middle; margin-top: 3px; margin-bottom: 3px;" alt="отзывы о доставке воды в Броварах" title="Отзывы о доставке воды &quot;Кришталево-чиста&quot; в Броварах" /><br /><br /></div>
 <div><img class="boo2" src="assets/images/privedi-druga.png" width="100%" style="vertical-align: middle; margin-top: 3px; margin-bottom: 3px;" /></div>";s:8:"richtext";s:1:"1";s:8:"template";s:2:"10";s:9:"menuindex";s:1:"2";s:10:"searchable";s:1:"1";s:9:"cacheable";s:1:"1";s:9:"createdby";s:1:"1";s:9:"createdon";s:10:"1385402118";s:8:"editedby";s:1:"3";s:8:"editedon";s:10:"1447422465";s:7:"deleted";s:1:"0";s:9:"deletedon";s:1:"0";s:9:"deletedby";s:1:"0";s:11:"publishedon";s:10:"1385402118";s:11:"publishedby";s:1:"1";s:9:"menutitle";s:0:"";s:7:"donthit";s:1:"0";s:11:"haskeywords";s:1:"0";s:11:"hasmetatags";s:1:"0";s:10:"privateweb";s:1:"0";s:10:"privatemgr";s:1:"0";s:13:"content_dispo";s:1:"0";s:8:"hidemenu";s:1:"0";s:13:"alias_visible";s:1:"1";s:4:"desc";a:5:{i:0;s:4:"desc";i:1;s:240:"Выбирайте чистую воду цена 50 гривен за бутыль. Чтобы заказать доставку воды в Бровары, а воды цена была вам по карману позвоните нам";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"textarea";}s:4:"keyw";a:5:{i:0;s:4:"keyw";i:1;s:352:"купить бутилированную воду, купить воду с доставкой, заказать воду киев, заказ воды киев, вода цена, вода доставка цена, вода стоимость, сколько стоит вода, купить воду киев, купить воду в киеве, ";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:4:"titl";a:5:{i:0;s:4:"titl";i:1;s:77:"Вода цена которой соответствует качеству ";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:16:"sitemap_priority";a:5:{i:0;s:16:"sitemap_priority";i:1;s:3:"1.0";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"dropdown";}s:17:"__MODxDocGroups__";s:0:"";}<!--__MODxCacheSpliter__--><!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="ru" xmlns="http://www.w3.org/1999/xhtml">
         <head>
 <title>Вода цена которой соответствует качеству </title>
 <meta name="viewport" content="width=1200">
@@ -69,7 +69,7 @@
 							<div id="Contacts">
  <div class="cont_i">Контакты</div>
   <div id="cont_f">
-<a href="tel:0637886880" ><p><img src="images/tell.gif" alt="(044) 451-59-33" width="17" height="20"> (044) 451-59-33 Киев  </p> 
+<a class="tel" href="tel:0637886880" ><p><img src="images/tell.gif" alt="(044) 451-59-33" width="17" height="20"> (044) 451-59-33 Киев  </p> 
 <p><img src="images/tell.gif" alt="(04594) 6-59-27" width="17" height="20"> (04594) 6-59-27 Бровары  </p> 
 	  <p><img src="images/tell.gif" alt="(063) 788-68-80" width="17" height="20"> (063) 788-68-80 Life </p></a>
   </div></div>
@@ -222,15 +222,15 @@
 (function(){ var widget_id = 'nFLQhPJhkP';
 			var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();</script></noindex>
 <!-- {/literal} END JIVOSITE CODE -->
-
+<div itemscope itemtype="http://schema.org/Organization" >	
 <div id="footer">
 			<div id="footer_center">
 				<!--<span style="color: #222222; font-family: 'Helvetica Neue', HelveticaNeue, Helvetica, sans-serif; font-size: 13px; line-height: 18.1875px;">Автор публикации:&nbsp;</span>
 				<a href="https://plus.google.com/u/0/109756665889043002454?rel.." target="blank"><span style="color:#d3d3d3;"> Екатерина Холод </span></a>-->
-<div id="footer_position" onclick="location.href='/';">Crystalwater.kiev.ua - доставка питьевой воды.
+<div id="footer_position" class="category" onclick="location.href='/';">Crystalwater.kiev.ua - доставка питьевой воды.
 		<!--<span>Все права данного сайта <!--Кришталево-чиста вода цена и условия доставки защищены!</span>!-->	
 					</div>
-							</div>
+	</div></div>
 	<!-- .row -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script  type="text/javascript">

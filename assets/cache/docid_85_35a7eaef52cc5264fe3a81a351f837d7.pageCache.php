@@ -5,7 +5,7 @@
 <p>Благодаря своему легкому весу бутылки очень легко и просто&nbsp; перекатываются на километровые расстояния. Таким образом рано или поздно они попадают в ручьи, реки, потом в моря и океаны - по течению. К чему это ведет?<br />Это уже привело к существованию в океанах больших мусорных куч. Все бы ничего, вот только после серии скитаний в воде, пластик разбивается на мелкие частицы которые схожи с зоопланктоном. А вот этим самым планктоном питаются малые и большие рыбы - вуаля, пластик в пищевой цепочке, рыбы и морские продукты выращенные на пластике - вкуснятина!<br /><br />Интересный момент №3<br />Бисфенол А - вещество которое способствует развитию онкологии, нарушает детородную функцию, негативно влияет на мозг, повышает риск рождения ребенка с синдромом дауна - ВЫДЕЛЯЕТСЯ ПРИ НАГРЕВАНИИ ПЛАСТИКА.<br />(Напомним: летом бутылки транспортируются в стандартных фурах, а не холодильниках, и доезжая из пункта А в пункт Б содержимое фуры может нагреваться до 65 градусов) комментарии лишние.<br /><br /></p>
 <h3><br />Почему пластиковая вода вам не нужна и другие факты</h3>
 <p><br />В 47% случает - в бутылках вам продается обычная ВОДОПРОВОДНАЯ вода<br /><br />9000 пластиковых бутылок в одну секунду, во всем мире, оказываются на свалке<br /><br />На производство пластиковых бутылок ежегодно уходит 17 миллионов баррелей нефти<br /><br />Для производства ОДНОЙ пластиковой бутылки необходимо в три раза больше воды чем в нее помещается !!!!<br /><br />Цена которую вы платите за воду состоит из таких показателей: БУТЫЛКА = 90% стоимости,&nbsp; ВОДА = 10% стоимости.<br />&nbsp;</p>";s:8:"richtext";s:1:"1";s:8:"template";s:1:"9";s:9:"menuindex";s:1:"9";s:10:"searchable";s:1:"1";s:9:"cacheable";s:1:"1";s:9:"createdby";s:1:"3";s:9:"createdon";s:10:"1403108858";s:8:"editedby";s:1:"3";s:8:"editedon";s:10:"1413546970";s:7:"deleted";s:1:"0";s:9:"deletedon";s:1:"0";s:9:"deletedby";s:1:"0";s:11:"publishedon";s:10:"1413546970";s:11:"publishedby";s:1:"3";s:9:"menutitle";s:0:"";s:7:"donthit";s:1:"0";s:11:"haskeywords";s:1:"0";s:11:"hasmetatags";s:1:"0";s:10:"privateweb";s:1:"0";s:10:"privatemgr";s:1:"0";s:13:"content_dispo";s:1:"0";s:8:"hidemenu";s:1:"0";s:13:"alias_visible";s:1:"1";s:4:"desc";a:5:{i:0;s:4:"desc";i:1;s:239:"Непоправимый вред уже сейчас нанесен планете и человечеству, его не остановить если пластиковая вода и дальше будет вашим "другом"";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"textarea";}s:4:"keyw";a:5:{i:0;s:4:"keyw";i:1;s:31:"пластиковая вода";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:4:"titl";a:5:{i:0;s:4:"titl";i:1;s:94:"Пластиковая вода незаметный убийца в вашем рационе";i:2;s:0:"";i:3;s:0:"";i:4;s:4:"text";}s:8:"blog_img";a:5:{i:0;s:8:"blog_img";i:1;s:35:"assets/images/plastikovaya-voda.png";i:2;s:0:"";i:3;s:0:"";i:4;s:5:"image";}s:16:"sitemap_priority";a:5:{i:0;s:16:"sitemap_priority";i:1;s:3:"0.5";i:2;s:0:"";i:3;s:0:"";i:4;s:8:"dropdown";}s:17:"__MODxDocGroups__";s:0:"";}<!--__MODxCacheSpliter__--><!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="ru" xmlns="http://www.w3.org/1999/xhtml">
         <head>
 <title>Пластиковая вода незаметный убийца в вашем рационе</title>
 <meta name="viewport" content="width=1200">
@@ -28,7 +28,7 @@
 							<div id="Contacts">
  <div class="cont_i">Контакты</div>
   <div id="cont_f">
-<a href="tel:0637886880" ><p><img src="images/tell.gif" alt="(044) 451-59-33" width="17" height="20"> (044) 451-59-33 Киев  </p> 
+<a class="tel" href="tel:0637886880" ><p><img src="images/tell.gif" alt="(044) 451-59-33" width="17" height="20"> (044) 451-59-33 Киев  </p> 
 <p><img src="images/tell.gif" alt="(04594) 6-59-27" width="17" height="20"> (04594) 6-59-27 Бровары  </p> 
 	  <p><img src="images/tell.gif" alt="(063) 788-68-80" width="17" height="20"> (063) 788-68-80 Life </p></a>
   </div></div>
@@ -144,15 +144,15 @@ if (!w.__utlWdgt ) {
 (function(){ var widget_id = 'nFLQhPJhkP';
 			var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();</script></noindex>
 <!-- {/literal} END JIVOSITE CODE -->
-
+<div itemscope itemtype="http://schema.org/Organization" >	
 <div id="footer">
 			<div id="footer_center">
 				<!--<span style="color: #222222; font-family: 'Helvetica Neue', HelveticaNeue, Helvetica, sans-serif; font-size: 13px; line-height: 18.1875px;">Автор публикации:&nbsp;</span>
 				<a href="https://plus.google.com/u/0/109756665889043002454?rel.." target="blank"><span style="color:#d3d3d3;"> Екатерина Холод </span></a>-->
-<div id="footer_position" onclick="location.href='/';">Crystalwater.kiev.ua - доставка питьевой воды.
+<div id="footer_position" class="category" onclick="location.href='/';">Crystalwater.kiev.ua - доставка питьевой воды.
 		<!--<span>Все права данного сайта <!--ПЭТ бутылки или пластиковая вода везде защищены!</span>!-->	
 					</div>
-							</div>
+	</div></div>
 	<!-- .row -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script  type="text/javascript">

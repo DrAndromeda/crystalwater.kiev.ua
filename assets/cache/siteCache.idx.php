@@ -434,15 +434,15 @@ $c['footer'] = '<script>
 (function(){ var widget_id = \'nFLQhPJhkP\';
 			var s = document.createElement(\'script\'); s.type = \'text/javascript\'; s.async = true; s.src = \'//code.jivosite.com/script/widget/\'+widget_id; var ss = document.getElementsByTagName(\'script\')[0]; ss.parentNode.insertBefore(s, ss);})();</script></noindex>
 <!-- {/literal} END JIVOSITE CODE -->
-
+<div itemscope itemtype="http://schema.org/Organization" >	
 <div id="footer">
 			<div id="footer_center">
 				<!--<span style="color: #222222; font-family: \'Helvetica Neue\', HelveticaNeue, Helvetica, sans-serif; font-size: 13px; line-height: 18.1875px;">Автор публикации:&nbsp;</span>
 				<a href="https://plus.google.com/u/0/109756665889043002454?rel.." target="blank"><span style="color:#d3d3d3;"> Екатерина Холод </span></a>-->
-<div id="footer_position" onclick="location.href=\'/\';">Crystalwater.kiev.ua - доставка питьевой воды.
+<div id="footer_position" class="category" onclick="location.href=\'/\';">Crystalwater.kiev.ua - доставка питьевой воды.
 		<!--<span>Все права данного сайта <!--[*pagetitle*] защищены!</span>!-->	
 					</div>
-							</div>
+	</div></div>
 	<!-- .row -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script  type="text/javascript">
@@ -480,7 +480,7 @@ $(".video_frame iframe")[0].src = path;
 <a class="scrollup">Наверх</a>
 ';
 $c['header'] = '<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="ru" xmlns="http://www.w3.org/1999/xhtml">
         <head>
 <title>[*titl*]</title>
 <meta name="viewport" content="width=1200">
@@ -520,7 +520,7 @@ mm_widget_tags(\'keyw\',\',\'); // Give blog tag editing capabilities to the \'d
 $c['contact'] = '<div id="Contacts">
  <div class="cont_i">Контакты</div>
   <div id="cont_f">
-<a href="tel:0637886880" ><p><img src="images/tell.gif" alt="(044) 451-59-33" width="17" height="20"> (044) 451-59-33 Киев  </p> 
+<a class="tel" href="tel:0637886880" ><p><img src="images/tell.gif" alt="(044) 451-59-33" width="17" height="20"> (044) 451-59-33 Киев  </p> 
 <p><img src="images/tell.gif" alt="(04594) 6-59-27" width="17" height="20"> (04594) 6-59-27 Бровары  </p> 
 	  <p><img src="images/tell.gif" alt="(063) 788-68-80" width="17" height="20"> (063) 788-68-80 Life </p></a>
   </div></div>';
